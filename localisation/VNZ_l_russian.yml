@@ -1,0 +1,22 @@
+﻿l_russian:
+
+
+#Parties
+ VNZ_democratic_party:0 "ДЛ"
+ VNZ_democratic_party_long:0 "Демократическая лига"
+ 
+ VNZ_neutrality_party:0 "«Леоне ди Сан Марко»"
+ VNZ_neutrality_party_long:0 "«Леоне ди Сан Марко»"
+ 
+ VNZ_communism_party:0 "КПВ"
+ VNZ_communism_party_long:0 "Коммунистическая партия Венеции"
+
+ VNZ_fascism_party:0 "РФП"
+ VNZ_fascism_party_long:0 "Республиканская фашистская партия" 
+
+ VNZ_integrate_trieste:0 "Интеграция Триеста"
+ VNZ_integrate_zara:0 "Интеграция Зары"
+
+ VNZ_integrate_dalmatia:0 "Интеграция Далмации"
+
+ sade:0 "SADE"

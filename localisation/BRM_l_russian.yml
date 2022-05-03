@@ -1,0 +1,18 @@
+﻿
+
+l_russian:
+  BRM_burmah_oil:0 "Burmah Oil"
+  BRM_generic_industrial_concern:0 "Burma Corporation"
+  
+  BRM_FB_fascism:0 "Временное правительство Свободной Бирмы"
+  BRM_FB_fascism_DEF:0 "Временное правительство Свободной Бирмы"
+  BRM_FB_democratic:0 "Временное гражданское правительство Свободной Бирмы"
+  BRM_FB_democratic_DEF:0 "Временное гражданское правительство Свободной Бирмы"
+  BRM_FB_neutrality:0 "Временное правительство Свободной Бирмы"
+  BRM_FB_neutrality_DEF:0 "Временное правительство Свободной Бирмы"
+  BRM_FB_communism:0 "Временное правительство комиссариатов Свободной Бирмы"
+  BRM_FB_communism_DEF:0 "Временное правительство комиссариатов Свободной Бирмы"
+  BRM_FB_fascism_ADJ:0 "Бирманск."
+  BRM_FB_democratic_ADJ:0 "Бирманск."
+  BRM_FB_neutrality_ADJ:0 "Бирманск."
+  BRM_FB_communism_ADJ:0 "Бирманск."

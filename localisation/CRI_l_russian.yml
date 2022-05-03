@@ -1,0 +1,16 @@
+﻿l_russian:
+
+ CRI_amet_ozenbashli:0 "Амет Озенбашлы"
+ CRI_sahip_bolat_abdurrahim:0 "Сахип Болат Абдуррахим"
+ CRI_salix_saydas:0 "Салих Сайдашев"
+ CRI_septar_mehmet_yakub:0 "Септар Мехмет Якуб"
+ CRI_jaffer_seydamegt_kirimeger:0 "Джаффер Сейдамег Киримегар"
+ CRI_mustafa_edige_kirimal:0 "Мустафа Эдиге Кырымал"
+ CRI_abdul_celil_menbariyev:0 "Абдул Джелаль Менбариев"
+ CRI_pavel_novitsky:0 "Павел Новицкий"
+ CRI_yusuf_isa_halim:0 "Юсуф Иса Халим"
+ CRI_memet_ibraimov:0 "Мемет Ибраимов"
+
+
+ CRI_generic_industrial_concern:0 "Симферопольский государственный завод" #identical to factory 3, can't name it boshevik
+ CRI_generic_motorized_equipment_manufacturer:0 "Симферопольский завод №3"

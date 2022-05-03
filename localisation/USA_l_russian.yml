@@ -1,0 +1,248 @@
+﻿l_russian:
+ USA_bethlehem_steel:0 "«Бетлехейм Стил»"
+ USA_bethlehem_shipbuilding_corporation:0 "Судостроительные верфи Бетлехейма"
+ USA_william_c_lee:0 "Вильям К. Ли"
+ USA_elwood_richard_quesada:0 "Елвуд Р. Кесада"
+ rt56_j_edgar_hoover:0 "Д. Эдгар Гувер"
+ rt56_j_edgar_hoover_desc:0 ""Мы занимаемся только сбором фактов. Мы никого не очищаем. Мы никого не осуждаем."""
+ rt56_j_edgar_hoover_mil:0 "Д. Эдгар Гувер"
+ rt56_j_edgar_hoover_mil_desc:0 ""Правосудие связано с законом и порядком.""
+ rt56_john_j_pershing:0 "Джон Д. Першинг"
+ rt56_USA_cash_and_carry_away:0 "«Заплати и уноси»"
+ rt56_USA_cash_and_carry_away_desc:0 "«Заплати и уноси» поправка к закону о нейтралитете позволяет нам закупать невоенные материалы у [USA.getnameDEF], если мы заплатим аванс и сами заберем товар. Мы пользуемся этим, потому что [USA.GETNAMEDEF] это позволяет "занимать" деньги из их казны, которые затем используются для оплаты товаров."
+ sons_of_liberty:0 "«Сыновья свободы»"
+ sons_of_liberty_desc:0 "Однажды мы боролись с тиранией, мы будем бороться с ней снова."
+ deo_vindice:0 "«Део видице»"
+ deo_vindice_desc:0 ""Под Богом, нашим Защитником.""
+ 
+ rt56_USA_cash_and_carry_home:0 "Схема «Заплати и уноси»"
+ rt56_USA_cash_and_carry_home_desc:0 "Мы оказываем материальную помощь нашим союзникам до тех пор, пока Конгресс не заметит эту схему, и наши адвокаты больше не смогут возражать против практики в суде."
+ r56_usa_three_dimensional_assault_force:0 "Трехмерный штурмовой отряд"
+
+ USA_curtiss_wright:0 "«Кёртис-Райт»"
+ USA_claude_shannon:0 "Клод Шеннон"
+ USA_waco:0 "«ВАКО»"
+ USA_standard_oil_new_jersey:0 "«Стандарт Оил оф Нью-Джерси»"
+ USA_lima_locomotive_works:0 "«Лима Локомотив Воркс»"
+ 
+ r56_USA_decision_the_jumping_general:0 "Прыгающий Генерал"
+ r56_USA_decision_join_us_research_collaboration_program:0 "Присоединиться к [USA.GetAdjective] программе научного сотрудничества"
+ r56_USA_decision_initiate_us_research_collaboration_program:0 "Голосование за расширение сотрудничества в области исследований с [USA.GetNameDef]"
+ 
+ r56_USA_decision_rural_electrification_act:0 "Закон об электрификации сельских районов"
+ r56_USA_decision_flood_control_act:0 "Закон о борьбе с наводнениями"
+ r56_USA_decision_anti_price_discrimination_act:0 "Закон о борьбе с ценовой дискриминацией"
+ r56_USA_decision_foreign_agents_registration_act:0 "Закон о регистрации иностранных агентов"
+ r56_USA_decision_second_vinson_act:0 "Второй Закон Винсона"
+ 
+ USA_expand_unoffical_operations:0 "Развернуть неофициальные операции"
+ USA_expand_unoffical_operations_desc:0 "Опыт подсказал нам, что агентура может установить разницу между победой и поражением - она может помочь нам принести победу, но и предотвратить войну. Хорошо размещенная бомба может заменить флот бомбардировщиков, а хорошо размещенный агент может заменить дивизию."
+ USA_office_of_economic_warfare:0 "Учреждение Управления экономической войны"
+ USA_office_of_economic_warfare_desc:0 "Потребности войны требуют, чтобы природные ресурсы не отправлялись за границу, а вместо этого подпитывали нашу военную экономику. Управлению экономической войны будет поручено контролировать такие преобразования."
+ USA_cash_and_carry:0 "Схема «Заплати и уноси»"
+ USA_cash_and_carry_desc:0 "«Заплати и уноси» - поправка к Закону о нейтралитете позволяет странам покупать у нас невоенные материалы, если они вносят предоплату, и забирают их сами. Конгресс предполагает, что ни одна страна не воспользуется этим из-за отсутствия первоначального капитала. Мы можем злоупотреблять этой поправкой, чтобы предоставлять материал нашим союзникам, позволяя странам «занимать» деньги из нашей казны, которые они затем могут использовать для оплаты товаров."
+ USA_double_victory:0 "Двойная победа"
+ USA_double_victory_desc:0 "Во время войны важно заручиться поддержкой афроамериканского сообщества. Достичь этого поможет использование целевых пропагандистских кампаний. Они могут вводить в заблуждение, но мы не можем позволить ситуации разделить страну в самые критические моменты."
+ USA_three_dimensional_assault_force:0 "Трехмерный штурмовой отряд"
+ USA_three_dimensional_assault_force_desc:0 "Разработав доктрину десанта-амфибии, которая включает не только хорошо оборудованную десантную атаку, но также воздушную атаку и морскую бомбардировку, мы можем гарантировать, что наши высадки будут иметь более высокие шансы на успех в занятии плацдарма."
+
+ r56_usa.1.t:0 "Выборы 1948"
+ r56_usa.1.desc:0 "И снова Томас Д. Дьюи является кандидатом действующим против нынешнего кандидата. На этот раз Гарри Трумэн баллотируется на пост президента как продолжатель политики Франклина Рузвельта."
+ r56_usa.1.a:0 "Победа Трумэна."
+ r56_usa.1.b:0 "Победа Дьюи."
+ 
+ USA_mobilize_the_national_guard:0 "Мобилизация резервов"
+ USA_mobilize_the_national_guard_desc:0 "Мобилизация резервов очень поможет росту нашей армии."
+ rt56_rushed_r_n_d:0 "Быстрые исследования и разработки"
+ rt56_rushed_r_n_d_desc:0 "Американская промышленность с большим сочувствием относится к быстрой разработке и внедрению технологических достижений. Хотя у таких методов есть много недостатков, когда этап тестирования таких разработок сокращается, проблемы с новыми технологиями игнорируются в погоне за быстрыми изменениями."
+
+ r56_usa.2.t:0 "ВВС просит большей автономии"
+ r56_usa.2.desc:0 "Офицеры Военно-воздушных сил и Верховное командование армии всегда конфликтовали друг с другом с момента создания ВВС из-за их большей автономии в структуре вооруженных сил США. Похоже, что эта проблема опять проявилась в связи с нашим недавним созданием Отдела планов воздушной войны. В прошлом мы заставляли молчать офицеров ВВС, которые открыто высказывались по этому вопросу, особенно Генри Арнольда. Но, похоже, мы не можем больше игнорировать этот вопрос и должны принять окончательное решение об автономии ВВС в наших вооруженных силах."
+ r56_usa.2.c:0 "ВВС остается под армией."
+ r56_usa.2.a:0 "Содействие Генри Арнольду является хорошим подспорьем."
+ r56_usa.2.b:0 "Предоставьте Военно-воздушным силам автономию, которую они хотят."
+ r56_usa.3.t:0 "Выборы 1952"
+ r56_usa.3.desc:0 "Приближаются новые выборы! После двух мандатов президента Трумэна демократы выбрали Эдлая Стивенсона, чтобы продолжить наследие Рузвельта, в то время как республиканцы выбрали не кого-то иного, как самого Дуайта Д. Эйзенхауэра."
+ r56_usa.3.a:0 "Победа Стивенсона."
+ r56_usa.3.b:0 "Победа Эйзенхауэра."
+ r56_usa.4.t:0 "[USA.GetNameDefCap] обещает поделиться результатами своих исследований"
+ r56_usa.4.desc:0 "Недавняя телеграмма, поступившая из [USA.GetAdjective] правительства гласит, что они собираются поделиться исследованиями со своими союзниками. Его внедрение потребует некоторой реструктуризации, которая, вероятно, вызовет некоторое первоначальное сопротивление, но нам не стоит этого бояться."
+ r56_usa.4.a:0 "Мы сделаем это вместе!"
+ r56_usa.4.b:0 "Может быть позже."
+
+ r56_usa.7.t:0 "The 1956 Presidential Election"
+ r56_usa.7.desc:0 "Once again, the [USA.GetAdjective] people is called to vote to determine the fate of the nation."
+ r56_usa.7.a:0 "I like Ike, you like Ike, everybody like Ike!"
+ r56_usa.7.b:0 "The democrats must prevail!"
+
+ r56_usa.8.t:0 "The 1956 Presidential Election"
+ r56_usa.8.desc:0 "Once again, the [USA.GetAdjective] people is called to vote to determine the fate of the nation."
+ r56_usa.8.a:0 "Four More Years"
+ r56_usa.8.b:0 "The good friend of Morbo wins. Haroooooo!" 
+
+ r56_usa.9.t:0 "The 1952 Party Congress"
+ r56_usa.9.desc:0 "After years of tirelessly working for the happiness of the [USA.GetAdjective] people, the First Secretary of the [USA.GetCommunistParty] has decided to step down from most of his responsabilities. Instead, the party congress has been asked to choose between James W. Ford, Browder's vice president and Francis X. Waldron, an influential faction leader within the party."
+ r56_usa.9.a:0 "Ford will lead the [USA.GetAdjective] proletariat"
+ r56_usa.9.b:0 "The First Secretary Waldron will guide the revolution"
+
+ r56_USA_the_alaskan_trap:0 "Аляскинская ловушка"
+ r56_USA_the_alaskan_trap_desc:0 "Есть идея сделать Аляску привлекательной точкой для вторжения для наших восточных врагов. Мы можем превратить Аляску в смертельную ловушку для сил вторжения."
+
+ rt56_far_left_suppression:0 "Подавление ультралевого движения"
+ rt56_far_left_suppression_desc:0 "События, которые привели к Красной панике 1920-х годов, оставили неизгладимое впечатление как на сотрудников правоохранительных органов, так и на американскую общественность. Это впечатление привело к судебному преследованию и харассменту крайне левых движений по всей территории Соединенных Штатов. В последние годы усилия по подавлению крайне левых группировок возглавляет Федеральное бюро расследований Дж. Эдгара Гувера."
+
+ rt56_USA_mobilize_the_national_guard:0 "Резервная мобилизация"
+
+ USA_carrier_1:0 "Langley Class"
+ USA_carrier_1_desc:0 "The Langley Class carrier was born from the converted hull of a Jupiter Class Collier. This allowed her to conform to the limitations imposed by the Washington Naval Treaty. The class was the first operational carrier class in the US Navy and spent over a decade improving carrier operations."
+
+ r56_j_edgar_hoover_given_army_command:0 "Является генералом"
+ USA_three_dimensional_assault_force_tt:0 "§YHolland Smith§! является генералом."
+
+ USA_cult_of_washington:0 "Культ Вашингтона"
+ USA_cult_of_washington_desc:0 "Основатель нашей страны должен стать примером для всех нас. Как сильный военный человек, обреченный на величие, он яснее всего был первым фашистом, построившим республику для всех истинных американцев благодаря своему мастерству и своей твердой воле."
+ USA_celebrate_americas_founder:0 "Праздник в честь Отца США"
+ USA_modify_the_pledge:0 "Исправить клятву верности"
+ USA_constitutional_convention_washington:0 "Вашингтонская конституционная конвенция"
+ USA_proclaim_washington_to_be_the_first_fascist:0 "Объявить Вашингтона первым фашистом"
+ USA_raise_washington_to_general_of_the_armies:0 "Предоставить Вашингтону звание генерала армии"
+ 
+ USA_combating_jim_crow:0 "Проблема маргинализации южных афроамериканцев"
+ USA_combating_jim_crow_desc:0 "Поражение Юга в Гражданской войне в США и самоосознанное унижение, которое обрушилось на Эру Реконструкции, были слишком велики для плантаторов юга и бизнес-класса. Они направили свое разочарование в политическое бесправие и использовали его для заговора против нового афроамериканского населения. Политические интриги южан завершились компромиссом 1877 года. Кто пошел на компромисс, увидели формальный конец Реконструкции на Юге и сняли последнюю защиту афро-американских сообществ и политиков на юге. Компромисс функционально являлся предательством и отказом афроамериканцев от своих северных политических союзников. \n \nС тех пор враждебные законодатели южных штатов подстрекаемые еще более враждебным населением приняли законы которые маргинализируют афроамериканцев. Эти законы отделяют афроамериканцев от остального населения Юга по рассовому признаку в общественных местах, а также лишают их право голоса. В то же самое время население этих штатов практикует свои собственные внесудебные кампании по терроризированию и пыткам афроамериканцев. Эти практики получили название «Джим Кроу». \n\nХотя в настоящее время у нас есть более насущные проблемы, мы не можем игнорировать тот факт, что законы «Джима Кроу» продолжают напрягать нашу страну.  Страну, которая обещает свободу и справедливость для всех..."
+ USA_combating_jim_crow_map:0 "В этих штатах действуют законы «Джима Кроу»"
+ USA_pass_a_new_civil_rights_bill:0 "Принять новый закон о гражданских правах"
+ USA_pass_a_new_civil_rights_bill_tt:0 "В одном из наших штатов действуют законы «Джима Кроу»."
+ USA_pass_a_new_civil_rights_bill_effect_tt:0 "Разблокирует решения для борьбы с законами «Джима Кроу»."
+ r56_jim_crow_removed_tt:0 "§GУдаляет§! Джима Кроу в штате"
+ r56_jim_crow_lowered_tt:0 "§GСнижает§! интенсивность Джима Кроу в штате"
+ r56_jim_crow_state:0 "В настоящее время действуют законы Джима Кроу."
+ USA_pass_a_new_civil_rights_bill_flag:0 "Мы приняли новый закон о гражданских правах."
+ USA_pass_a_new_civil_rights_bill_flag_desc:0 "Новый закон о гражданских правах - хороший первый шаг в борьбе с Джимом Кроу на Юге."
+ USA_fight_jim_crow_in_wv:0 "Борьба с «Джимом Кроу» в [829.GetName]"
+ USA_fight_jim_crow_in_my:0 "Борьба с «Джимом Кроу» в [361.GetName]"
+ USA_fight_jim_crow_in_vg:0 "Борьба с «Джимом Кроу» в [362.GetName]"
+ USA_fight_jim_crow_in_kt:0 "Борьба с «Джимом Кроу» в [369.GetName]"
+ USA_fight_jim_crow_in_nc:0 "Борьба с «Джимом Кроу» в [363.GetName]"
+ USA_fight_jim_crow_in_tn:0 "Борьба с «Джимом Кроу» в [368.GetName]"
+ USA_fight_jim_crow_in_sc:0 "Борьба с «Джимом Кроу» в [364.GetName]"
+ USA_fight_jim_crow_in_ga:0 "Борьба с «Джимом Кроу» в [365.GetName]"
+ USA_fight_jim_crow_in_fl:0 "Борьба с «Джимом Кроу» в [366.GetName]"
+ USA_fight_jim_crow_in_mi:0 "Борьба с «Джимом Кроу» в [373.GetName]"
+ USA_fight_jim_crow_in_ak:0 "Борьба с «Джимом Кроу» в [372.GetName]"
+ USA_fight_jim_crow_in_al:0 "Борьба с «Джимом Кроу» в [367.GetName]"
+ USA_fight_jim_crow_in_ms:0 "Борьба с «Джимом Кроу» в [370.GetName]"
+ USA_fight_jim_crow_in_ls:0 "Борьба с «Джимом Кроу» в [371.GetName]"
+ USA_fight_jim_crow_in_ok:0 "Борьба с «Джимом Кроу» в [374.GetName]"
+ USA_fight_jim_crow_in_tx:0 "Борьба с «Джимом Кроу» в [375.GetName]"
+
+ USA_population_migration:0 "Миграция населения"
+ USA_population_migration_desc:0 "Хотя текущие усилия по восстановлению экономики помогли многим, в наших усилиях были заметные недостатки. Самый главный из них в нашей политике - ухудшение положения мелких сельских фермеров на юге страны. Многие из тех, кто больше не может сводить концы с концами, вынуждены изменить себя и переехать туда, где есть работа. Самыми распространенными вариантами на данный момент являются промышленные города севера."
+ USA_population_migration_mission_0:0 "Внутренняя миграция населения"
+
+ r56_usa.5.t:0 "Примета времени"
+ r56_usa.5.desc:0 "Признак перемены времен можно было увидеть на дорогах американского Юга. Как много издольщиков и сельскохозяйственных рабочих продали свои дома, упаковали все свои вещи в машины и отправились на север. Эти внезапные миграции были вызваны ухудшением условий жизни в сельской местности на юге, когда многие семьи не могли сводить концы с концами. Цель многих из этих мигрантов - получить работу в промышленных центрах Севера."
+ r56_usa.5.a:0 "В Детройте у тебя все будет хорошо!"
+
+ USA_shifting_sands_tt:0 "§YСлучайный Южный штат§! §WЛюдские ресурсы:§!§R-10000§!§W.§!"
+ USA_shifting_sands_2_tt:0 "§YСлучайный Северный штат§! §WЛюдские ресурсы:§!§G+10000§!§W.§!"
+
+
+ ##### NATO ##### by Fantom
+ USA_nato_faction:0 "NATO"
+ USA_dissolve_allies_found_nato_tt:0 "§YAllies§! will be reorganized to §YNATO§! after completing this focus!"
+ r56_USA_invest_in_our_weaker_allies_tt:0 "We will build 3 military factories and 3 dockyards in each of our allies providing they have less factories then us."
+ #ideas#
+ rt56_USA_founder_of_nato_idea:0 "Founder of NATO"
+ rt56_USA_watching_over_pacific_idea:0 "Watching over Pacific"
+ rt56_USA_watching_over_europe_idea:0 "Watching over Europe"
+ rt56_USA_member_of_nato_idea:0 "Member of NATO"
+ r56_financing_marshall_plan:0 "Financing Marshall Plan"
+
+ #tooltip
+ r56_USA_Korea_controls_peninsula:0 "§Y[KOR.getNameDefCap]§! controls all states of the Korean Peninsula."
+
+
+ #focuses#
+ r56_USA_foundation_of_NATO:0 "Foundation of NATO"
+ r56_USA_foundation_of_NATO_desc:0 "The world is changing rapidly around us: many of the former Great Powers lay in ruins after a devastating war has swept over continents. [USA.getNameDefCap] has managed not only to retain, but also strengthen its status as the worlds Superpower. The time has come to take direct control of the matter."
+ 
+ r56_USA_overwatch_the_pacific:0 "Overwatch the Pacific"
+ r56_USA_overwatch_the_pacific_desc:0 "Vast territories of the Pacific ocean remain loosely protected as our industrial and military capacities were focused on the mainland war. Improving our grip over Pacific will ensure the [USA.getAdjective] domination in the area."
+ 
+ r56_USA_liberty_for_the_pacific:0 "Liberty for the Pacific"
+ r56_USA_liberty_for_the_pacific_desc:0 "If we are to show the world that we are true protectors of freedom, swift and rapid decolonization of the Pacific is a must! Only so we can ensure the stability and prosperity of this region!"
+ 
+ r56_USA_withdraw_from_philippines:0 "Withdraw from Philippines"
+ r56_USA_withdraw_from_philippines_desc:0 "Imperialism has outlived its purpose as an economic and political concept. Granting one of our colonies, [PHI.getNamedef], their desired independence, we can obtain a powerful ally in the East Asia region and severely limit nationalistic and separatist rhetoric of local populace."
+ 
+ r56_USA_fate_of_hawaii:0 "Fate of Hawaii"
+ r56_USA_fate_of_hawaii_desc:0 "Hawaii with its strategic position in the Middle of the Pacific is crucial for our war effort. But even though we desire these lands for ourselves, one shall never forget our promises to Hawaii people. Let them know what our plans for their islands are."
+ 
+ r56_USA_korean_issue:0 "Korean Issue"
+ r56_USA_korean_issue_desc:0 "Emergent as a product of [JAP.getAdjective] decolonization, [KOR.getNameDef] has turned its eyes away from liberty and freedom principles we follow. The new regime in country is extremely fragile, which opens a window for a few opportunities..."
+ 
+ r56_USA_assistance_in_chinese_struggle:0 "Assistance in Chinese Struggle"
+ r56_USA_assistance_in_chinese_struggle_desc:0 "[CHI.getAdjective] civil war is one again reigning over the Central Plane. And even though [CHI.getNameDef] might not follow same principles as we do, we shall ensure that the Paris of the Orient will not be ruled by the Red Menace."
+ 
+ r56_USA_intervention_in_vietnam:0 "Intervention in Vietnam"
+ r56_USA_intervention_in_vietnam_desc:0 "Liberty and freedom cannot coexist with oppression of the people, no matter who conducts them - former colonial administration of [FRI.getNameDef] or red tyrants from [VIN.getNameDef]. We shall put an end to any sort of red ambitions in Indochina."
+ 
+ r56_USA_strike_the_prc:0 "Strike the PRC"
+ r56_USA_strike_the_prc_desc:0 "No matter how much we try, the red plague is engulfing more and more of East Asia. But before we can strike at its source, we shall ensure that our allies win the struggle over the mainland of China."
+ 
+ r56_USA_guide_true_democracies:0 "Guide True Democracies"
+ r56_USA_guide_true_democracies_desc:0 "Many countries allied [ENG.getNameDef] and [FRA.getNameDef] in their struggle for freedom and liberty, yet some of them are nowhere near the definition of democratic regimes. Being responsible government and truly devoted to the principles of founding fathers, we shall no longer tolerate those who deny liberties for their people."
+ 
+ r56_USA_coordinate_research_effort:0 "Coordinate Research Effort"
+ r56_USA_coordinate_research_effort_desc:0 "To face the Red Threat looming over the world, we need to consolidate all of our research efforts. Research and technology are keys to the final victory. Only together we shall prevail in this struggle!"
+
+ r56_USA_return_to_europe:0 "Return to Europe"
+ r56_USA_return_to_europe_desc:0 "Only [USA.getAdjective] intervention has saved Europe from the [GER.getAdjective] occupation during the Great War. [ENG.getNameDefCap] and [FRA.getNameDef] will surely require our assistance if we want to ensure that the Iron Curtain created by the [SOV.getAdjective]s is not moving westwards."
+ 
+ r56_USA_enact_marshall_plan:0 "Enact the Marshall Plan"
+ r56_USA_enact_marshall_plan_desc:0 "Devastated and depopulated, Europe now lies in ruins after being engulfed in war once more. [USA.getAdjective] investments will help the newly established democracies to regain the lost and strengthen the gained if we are to face another crisis once more."
+ 
+ r56_USA_support_eastern_democrats:0 "Support Eastern Democracies"
+ r56_USA_support_eastern_democrats_desc:0 "Western Betrayal saw many Eastern European countries fall victims to the Red Threat. However, there are still many people who seek liberty and freedom from the shackles of communism. Our agents are ready to support few protests and demonstrations, perhaps it can open even more people to our ideas?"
+ 
+ r56_USA_secure_iberia:0 "Secure Iberia"
+ r56_USA_secure_iberia_desc:0 "The [SPR.getAdjective] Struggle has brought rapid changes in the balance of Powers in Europe. And while we surround the Red Threat, we might receive a blowing strike in the back from any major power of the Iberian Peninsula. [SPR.getAdjective] loyalty to the cause must be enforced, one way or another."
+ 
+ r56_USA_ensure_greek_freedom:0 "Ensure Greek Freedom"
+ r56_USA_ensure_greek_freedom_desc:0 "Rhetoric of [GRE.getAdjective] authorities are growing hostile day by day. Our diplomats fearing for their lives were already evacuated from the country. The government crisis in [GRE.getNameDef] might be a perfect opportunity to ensure that communism has no supporters in Mediterranean."
+ 
+ r56_USA_greek_membership:0 "Greek Membership"
+ r56_USA_greek_membership_desc:0 "Democratic leaning and military support for our cause from [GRE.getNameDef] will be surely useful if we want to commence any sort of operation across Balkan region. Let us invite their representatives for the negotiations."
+ 
+ r56_USA_turkish_membership:0 "Turkish Membership"
+ r56_USA_turkish_membership_desc:0 "It is only a matter of time when [SOV.getAdjective]s will raise the question of the [TUR.getAdjective] straits of Bosporus and Dardanelles under the premise of "Free Trade and Commerce". We shall act fast and ensure that the new [TUR.getAdjective] state is allied to us and receives our full support. "
+ 
+ r56_USA_secure_yugoslavia:0 "Secure Yugoslavia"
+ r56_USA_secure_yugoslavia_desc:0 "Threatening ambitions for uniting communist movements across Balkans into one [YUG.getAdjective] entity is a threat to world peace and is a clear violation of self-determination principles. We will not tolerate such aggressive rhetoric: from now on [YUG.getAdjective] authorities are considered enemies of democracy!"
+ 
+ r56_USA_ally_yugoslavia:0 "Ally Yugoslavia"
+ r56_USA_ally_yugoslavia_desc:0 "While not truly democratic, [YUG.getNameDef] shares extensive borders with other Balkan countries. Allying them will provide us with a huge base of operations in Europe. Diplomats are already negotiating conditions for the official alliance."
+
+ r56_USA_prepare_allies_for_the_inevitable:0 "Prepare our Allies for the Inevitable"
+ r56_USA_prepare_allies_for_the_inevitable_desc:0 "Finalizing our defensive treaties is best with joint industrial development. We have enough funds to support the rapid industrialization and rearmament programs for our allies. Let the [SOV.getAdjective]s know the we are more than ready to defeat their so-called "Revolution" with one swift strike."
+ 
+ r56_USA_a_cold_war:0 "A Cold War"
+ r56_USA_a_cold_war_desc:0 "With world being currently divided into two power blocks, it becomes even more clear that any open war would have a disastrous impact on the planet and future of human civilization. We shall focus our efforts on rebuilding our nation, surpassing the communists in science and production while secretly supporting the democratic regimes around the world."
+ 
+ r56_USA_commence_the_unthinkable:0 "Commence the "Unthinkable""
+ r56_USA_commence_the_unthinkable_desc:0 "No matter how we much we try, the Red Threat continues to loom over the world. If we want to prevent the Red Dawn from happening, we must strike at the source of the problem - [SOV.getNameDef]. Tremble, communist menace, the shine of liberty and freedom will soon be embraced across the world!"
+
+
+ #events#
+ r56_usa.6.t:0 "Fate of Hawaii"
+ r56_usa.6.desc:0 "Outlook of the state officials has reached most populous part of our possessions in the Pacific region: Hawaii. \n\nThe former Kingdom of Hawaii fell under the influence of [USA.getNameDef] in 1850s as our diplomats and merchants established several friendship- and mutual protection-treaties with local government. Said territories were incorporated into our nation as a part of a treaty of annexation with a promise to Hawaii'i politicians of them gaining proper representation in Congress. \n\nSofar we were unable to fulfill the promises to their people, meaning that our political credo "Liberty and Justice for All" is nothing but an empty word to the local populace. \n\nThe time has come to change it once and for all, from now on Hawaii shall... "
+ r56_usa.6.a:0 "... enjoy their desired freedom."
+ r56_usa.6.b:0 "... be given local autonomy."
+ r56_usa.6.c:0 "... integrated as a new state."
+
+
+
+
+ #Vanilla Overrides 
+ USA_manifest_destiny_r56:0 "Новый манифест судьбы" #revist with better name. band-aide fix
+ USA_manifest_destiny_r56_desc:0 "Наша страна стала великой благодаря политике агрессивной экспансии нашей нации. Пора нам вернуться к этому пути."

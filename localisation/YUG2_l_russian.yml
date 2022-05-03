@@ -1,0 +1,88 @@
+﻿l_russian:
+
+ YUG_construct_rupnik_line:0 "Строительство линии Рупника"
+ YUG_construct_rupnik_line_desc:0 "Продолжающаяся нацистская экспансия и итальянская агрессия поставили нас в трудное положение. Нам нужно построить оборонительные укрепления вдоль границ с ними, чтобы обеспечить безопасность страны."
+ YUG_dismantle_rupnik_line:0 "Демонтаж линии Рупника"
+ YUG_construct_rupnik_line_tt:0 "Размещает §YУкрепления§! вдоль §YСловении§!."
+ YUG_construct_rupnik_line_warning_tt:0 "§RНе в каждой провинции вдоль немецкой границы.§!"
+ 
+ #YUG
+ YUG_JRZ_neutrality_party:0 "ЮРС"
+ YUG_JRZ_neutrality_party_long:0 "Югославский радикальный союз"
+ YUG_JNS_neutrality_party:0 "ЮНП"
+ YUG_JNS_neutrality_party_long:0 "Югославская национальная партия"
+ YUG_JRS_neutrality_party:0 "ЮРС"
+ YUG_JRS_neutrality_party_long:0 "Югославский рабочий союз"
+ YUG_UO_neutrality_party:0 "Объединенная оппозиция"
+ YUG_UO_neutrality_party_long:0 "Объединенная оппозиция"
+ YUG_HSS_neutrality_party:0 "ХКП"
+ YUG_HSS_neutrality_party_long:0 "Хорватская крестьянская партия"
+ 
+ YUG_UST_fascism_party:0 "Усташи"
+ YUG_UST_fascism_party_long:0 "Усташи – Хорватское революционное движение"
+ YUG_ZBR_fascism_party:0 "ЮНДЗ"
+ YUG_ZBR_fascism_party_long:0 "Югославское народное движение «Збор»"
+ 
+ #SER
+ SER_KMV_fascism_party:0 "Правительство комиссара"
+ SER_KMV_fascism_party_long:0 "Правительство комиссара"
+ 
+ ##############################################################
+ 
+ YUG_prince_paul:0 "Принц Павел"
+ YUG_prince_paul_desc:0 "Принц Павел Карагеоргиевич - первый двоюродный брат ныне покойного короля Александра I. Он служит регентом Югославии до тех пор, пока сын Александра не станет совершеннолетним."
+ YUG_peter_II:0 "Пётр II"
+ YUG_peter_II_desc:0 "Петр II, названный в честь последнего короля Сербии Петра I, является сыном покойного короля Александра II. Хотя он официально является монархом, он не может править из-за своего возраста."
+ 
+ YUG_milan_grol:0 "Милан Грол"
+ YUG_ivo_andric:0 "Иво Андрич"
+ 
+ SER_aleksandar_rankovic:0 "Александр Ранкович"
+ SER_sreten_zujovic:0 "Сретен Жуйович"
+ SER_dobrivoje_radosavljevic:0 "Добривое Радосавлевич"
+ YUG_milojko_jankovic:0 "Милойко Янкович"
+ YUG_dusan_trifunovic:0 "Душан Трифунович"
+ YUG_aleksandar_beric:0 "Александр Берич"
+ SER_marko_pericin_kamenjar:0 "Марко Перичин Каменьяр"
+ YUG_rade_susa:0 "Раде Шуша"
+ SER_koca_popovic:0 "Коша Попович"
+ SER_petar_drapsin:0 "Петр Драпсин"
+ SER_stevan_roglic:0 "Стефан Роглич"
+ SER_milan_acimovic:0 "Милан Ачимович"
+ SER_velibor_jonic:0 "Велибор Йонич"
+ SER_ognjen_kuzmanovic:0 "Огньен Кузманович"
+ SER_tanasije_dinic:0 "Танасиье Дунич"
+ SER_kosta_musicki:0 "Кошта Мусицкий"
+ YUG_mirjan_polic:0 "Мирьян Полич"
+ YUG_julijan_luterotti:0 "Джулиан Лутеротти"
+ 
+ r56_yugoslavia.1.t:0 "Вмешательство регента"
+ r56_yugoslavia.1.d:0 "Из-за неспособности Стоядиновича решить «хорватский вопрос» вмешался принц-регент Павел и вынудил его покинуть свой пост. Он выбрал политика из Ниша, Драгиша Цветковича, в качестве преемника."
+ r56_yugoslavia.1.a:0 "Регент знает лучше..."
+ r56_yugoslavia_deaths.1.t:0 "Любомир Давидович скончался"
+ r56_yugoslavia_deaths.1.d:0 "Любомир Давидович, лидер Демократической партии, занимавший пост премьер-министра с 1919 по 1920 и в 1924 году, скончался. Поддерживая восстановление парламентаризма в Югославии, он был важным символом югославской демократии."
+ r56_yugoslavia_deaths.1.a:0 "Его будет не хватать."
+ r56_yugoslavia_deaths.1.b:0 "Скатертью дорога."
+ 
+  r56_yugoslavia_deaths.2.t:0 "Антон Корошец скончался"
+ r56_yugoslavia_deaths.2.d:0 "Ушел из жизни Антон Корошец, президент Словенской народной партии и автор Майской декларации, провозгласивший создание государства сербов, хорватов и словенцев 29 октября 1918 года. Он был одним из главных защитников словенской автономии в Югославии, а также отвечал за улучшение отношений с нацистской Германией. Поистине неоднозначная фигура в смутные времена."
+
+ r56_yugoslavia_deaths.3.t:0 "Мехмед Спахо скончался."
+ r56_yugoslavia_deaths.3.d:0 "Мехмед Спахо, лидер Югославской мусульманской организации и первый боснийский мусульманский политик в Королевстве сербов, хорватов и словенцев, он был сторонником автономии боснийских мусульман в Югославии. Его внезапная и загадочная смерть может обострить напряженность между агностиками и религиозными людьми по всей стране."
+ 
+ r56_yugoslavia.3.t:0 "Fate of Banat and Vojvodina"
+ r56_yugoslavia.3.d:0 "Fate of Banat cannot be left aside if we are to resolve ethnic conflicts among our people. \n\nThe [HUN.getAdjective]s and [ROM.getAdjective]s have been drawing worryingly close to our enemies according to our agents in their highest circles of power. Rapid fortifications in the North are suggested by our interior defense ministry if we are to protect Serbia and her autonomous protectorates. \n\nIt is, however, no secret that [HUN.getAdjective] and [ROM.getAdjective] nationalists seek to annex northern Serbia and incorporate those territories as their own. With lack of foreign support for our state, we could cede these territories in exchange for some degree of recognition and support. \n\nLiberal politicians are advocating for granting these regions autonomy and self-government under yet [YUG.getAdjective] rule, thus bringing an end to [ROM.getAdjective] and [HUN.getAdjective] claims on these regions.  \n\nWhat shall we do?"
+ r56_yugoslavia.3.a:0 "Fortify Banat. None shall pass!"
+ r56_yugoslavia.3.b:0 "Cede the territories for foreign support."
+ r56_yugoslavia.3.c:0 "Autonomy to the masses and nothing else!"
+ 
+ 
+ YUG_united_balkan_federation:0 "Объединенная Балканская федерация"
+ YUG_united_balkan_federation_DEF:0 "Объединенная Балканская федерация"
+ YUG_united_balkan_federation_ADJ:0 "Балканск."
+
+ YUG_form_the_balkan_federation:0 "Провозглашение Балканской федерации"
+ YUG_form_the_balkan_federation_desc:0 "Возвышение [ROOT.getnamedef] как политического лидера Балкан открыло возможность реализовать утопию, о которой раньше могли только мечтать несколько интеллектуалов - формирование Балканской федерации."
+ 
+ YUG_fate_of_banat:0 "Fate of Banat"
+ YUG_fate_of_banat_desc:0 "The Banat and Vojvodina region are home to not only Serbs, but Romanians and Hungarians. Recent reports from local authorities indicate a rapid increase of hostilities between various population groups as well growing nationalist and separatist sentiment among the population. Fate of Banat cannot be left aside if we are to resolve ethnic conflicts among our people. What shall we do?"

@@ -1,0 +1,16 @@
+﻿l_russian:
+ The_destiny_of_azerbaijan_category:0 "Судьба Азербайджана"
+ The_destiny_of_azerbaijan_category_desc:0 "Нефть Баку на перекрестке миров с течением времени, сделала Азербайджан регионом еще более стратегическим, чем когда-либо. После провала первой республики, рухнувшей при большевиках, надежды на восстановленние независимости сохранились в сердце некоторых. Благодаря нашей активной поддержке и решительной контратаке против Красной империи, можно верить в новую надежду и можно гарантировать возвращение суверенитета Азербайджана." 
+ AZR_liberators:0 "Освободитель Азербайджана"
+ 
+ AZR_form_azerbaijani_national_council:0 "Сформировать Азербайджанский Национальный совет"
+ AZR_establish_azerbaijani_legion:0 "Завербовать Азербайджанский легион"
+ AZR_establish_azerbaijani_legion_cost:0 "£army_experience §H10§! £pol_power §H25§! £command_power §H25§!"
+ AZR_establish_azerbaijani_legion_cost_blocked:0 "£army_experience §R10§! £pol_power §R25§! £command_power §R25§!"
+ AZR_establish_azerbaijani_legion_cost_tooltip:0 "Стоимость принятия £army_experience 10, £pol_power 25 и £command_power 25."
+ AZR_establish_national_azerbaijani_government:0 "Создание Национального правительства Азербайджана"
+ 
+ AZR_event.1.t:0 "Добровольцы хотят домой!"
+ AZR_event.1.desc:0 "Волонтерские подразделения были сформированы для борьбы с [SOV.GetName] во имя свободного Азербайджана. С поражением [SOV.GetAdjective], эти добровольцы чувствуют, что их миссия выполнена и они хотят, чтобы их отправляли домой."
+ AZR_event.1.a:0 "Убедите их остаться немного дольше" 
+ AZR_event.1.b:0 "Уничтожьте их."  

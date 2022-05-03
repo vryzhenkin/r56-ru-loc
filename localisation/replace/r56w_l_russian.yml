@@ -1,0 +1,347 @@
+﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
+
+l_russian:
+
+###------> Events <><> <><> <><> <><> <><>
+
+#Discover the Necrowombaticon
+ r56w.event.30.t:0 "Странная книга"
+ r56w.event.30.d:0 "Захват территории Орегона принес нам ряд интересных трофеев, наиболее заметным из которых является древняя книга, покрытая тайной и странной символикой. Некоторые из наших ученых считают, что ее стоит подробнейшим образом изучить, другие же считают ее обычной пустышкой."
+ r56w.event.30.a:0 "Связаться с темными силами? Запишите меня!"
+ r56w.event.30.b:0 "Нет, спасибо."
+ 
+#The Necrowombaticon can be studied
+ r56w.event.31.t:0 "Отчет наших ученых"
+ r56w.event.31.d:0 "После некоторого изучения стало ясно, что книга описывает сложный ритуал связанный с получением невообразимой силы. Среди прочего, он требует большого количества ароматических свечей, черного кота и огромного количества обогащенного урана. \ n \ n В процессе подготовки к ритуалу приходит загадочное послание: \ "Внимание! Дальнейшее развитие событий действительно испортит вашу игру и приведет к чему-то очень глупому. Сохраните сейчас, если сомневаетесь. \" \ n \ Должны ли мы шагнуть в бездну?"
+ r56w.event.31.a:0 "Я жру опасность на завтрак."
+ r56w.event.31.b:0 "...историчность важнее!"
+ 
+#The Necrowombaticon's deadly power is revealed
+ r56w.event.32.t:0 "Искажение пространства"
+ r56w.event.32.d:0 "Наши ученые выполнили ритуал в полном соответствии с инструкциями. К сожалению, это привело к появлению небольшого но очень ядреного адского разлома. По видимому эта штуковина рвет пространственно временную ткань. Армия невиданных существ вышла из искажения, отбросила наши войска и вообще живые позавидовали мертвым. Мы потеряли Орегон, а вместе с ним и часть нашего национального достоинства."
+ r56w.event.32.a:0 "Твоюж мать..."
+ 
+#News of the book's power reaches the world
+ r56w.event.33.t:0 "Странные проишествия"
+ r56w.event.33.d:0 "Сообщения о необычных проишествиях поступают из Северной Америки. Военные опровергают все слухи, однако это идет в разрез с их бегством из Орегона. Кажется совсем скоро мы узнаем что там происходит."
+ r56w.event.33.a:0 "Что же будет дальше?"
+ 
+#How do we react to these events?
+ r56w.event.34.t:0 "Дипломатическая увертюра"
+ r56w.event.34.d:0 "Представитель монстров прибыл к нам и вежливо попросил поговорить. Хотя их язык странный и загадочный, мы смогли различить один вопрос: \ n \ n \ "Может? \""
+ r56w.event.34.a:0 "Это все очень странно. Ничего не отвечайте!"
+ r56w.event.34.b:0 "Может они хотят сказать... Война?"
+ r56w.event.34.c:0 "Да пофигу."
+ 
+#The Tender Loving Empire is Defeated
+ r56w.event.35.t:0 "Невероятная победа"
+ r56w.event.35.d:0 "Сила монстров, которые пришли из ниоткуда в наш мир, была сломлена. Хотя они пытались стереть нас с лица земли, их усилия оказались в конечном счете напрасны. Наконец наступили спокойные деньки."
+ r56w.event.35.a:0 "Да они были чертовой имбой!"
+ 
+#To War or Not to War
+ r56w.event.36.t:0 "Военные игры"
+ r56w.event.36.d:0 "Наше военное руководство проводит активные маневры, что бы определить цель наших дальнейших завоеваний. Если мы захотим, то результаты этих маневров можно сразу же воплотить в жизнь."
+ r56w.event.36.a:0 "Прекрасно."
+ r56w.event.36.b:0 "Не сейчас..."
+ r56w.event.36.c:0 "Никаких больше вопросов!"
+ 
+#Invisibile DOW event
+ r56w.event.37.t:0 "Что-что они сделали!?"
+ r56w.event.37.d:0 ""
+ 
+#Hitler's Stach
+ r56w.event.38.t:0 "На острие правосудия"
+ r56w.event.38.d:0 "Наши министры предложили смелый план, чтобы победить одного из наших главных противников. Пришло время нанести удар ни по кому иному, а по самому Адольфу Гитлеру, надо же в конце концов наконец научить его нормально бриться. \ n \ nНаши агенты готовы, приступаем?"
+ r56w.event.38.a:0 "Это просто прекрасная идея!"
+ r56w.event.38.b:0 "Не сейчас."
+ r56w.event.38.c:0 "Это идиотизм..."
+ 
+#The World Learns of the Stache
+ r56w.event.40.t:0 "Катастрова с усами"
+ r56w.event.40.d:0 "Этим утром лидер немецкого третьего рейха проснулся и обнаружил, что с его зловещими усами произошла ужасная трагедия. Излишне говорить, что он был в ярости и запретил ношение усов во всем третьем рейхе до тех пор, пока его собственны усики не вернуться на свое законное место. "
+ r56w.event.40.a:0 "Национальное достояние было осквернено"
+ 
+#Proposal for Taking Europe
+ r56w.event.41.t:0 "Простое предложение"
+ r56w.event.41.d:0 "Один из наших министров предложил план по внедрению наших агентов в европейские державы. как нам стоит поступить?"
+ r56w.event.41.a:0 "Приступайте!"
+ r56w.event.41.b:0 "Нет, спасибо. И вообще я люблю блинчики."
+
+#Agent Werewaffle Reports
+ r56w.event.42.t:0 "Отчет нашего агента"
+ r56w.event.42.d:0 "Министр Умная Вафля сообщила, что сделала все необходимое для своей интеграции в бельгийское общество. Будучи вафлей-оборотнем, она может наносить удары по ночам, а в течение дня быть на виду у восхищенных бельгийцев."
+ r56w.event.42.a:0 "Изобретательно!"
+
+#News of the Belgian Takeover
+ r56w.event.44.t:0 "Вкусная революция"
+ r56w.event.44.d:0 "В Бельгии недавно произошли неожиданные изменения в руководстве. Пресс-конференцию вело нечто похожим на разумную Вафлю, затем оно превратилось в волка и отлупило близстоящего зам-министра. Эксперты теряются в догадках, что же повлечет за собой такая смена руководства. С уверенностью можно сказать одно - сиропа мы не увидим."
+ r56w.event.44.a:0 "Завтрак никогда не будет прежним"
+
+#GE Adopts a Cat
+ r56w.event.45.t:0 "Хороший поступок"
+ r56w.event.45.d:0 "Гуляя по переулкам Лондона, Грейтксперимент нашел бездомного котенка. Котенок тихо мяукнул, а потом попросил сигару. Мы же не пожалеем какой то сигарки для такого милого существа?"
+ r56w.event.45.a:0 "Да! Да начнется Хиджинкс!"
+ r56w.event.45.b:0 "Нет, это может привести к непредвиденным последствиям!" 
+
+#The Cat Runs Away
+ r56w.event.46.t:0 "Кошачьей мяты никогда не бывает много"
+ r56w.event.46.d:0 "Както ночью наш курящий сигары кот исчез из президентского дворца. В итоге мы смогли найти только странную записку, в которой говорилось что мы должны расставить везде побольше коробок..."
+ r56w.event.46.a:0 "Я чувствую поворот сюжета"
+
+#News of the Cat Takeover
+ r56w.event.48.t:0 "Восстание фантастических пушистиков"
+ r56w.event.48.d:0 "В глубине пустынь Саудовской Аравии из ниоткуда возникла грозная и слегка раздраженная армия. Объявив себя новой мировой силой, они без потребовали тунца, коробок и всеобщего поклонения."
+ r56w.event.48.a:0 "НевероМЯУтно!"
+ 
+#Daniel Craig Appears
+ r56w.event.49.t:0 "Выпустить Крейгкена!"
+ r56w.event.49.d:0 "Появился человек, претендующий на звание супер-шпиона из далекого будущего. Не сообщая подробностей, он утверждает, что для ему жизненно важно захватить Тибет. От этого зависит судьба мира."
+ r56w.event.49.a:0 "Да. Конечно, будь что будет..."
+ r56w.event.49.b:0 "Свяжите его скотчем!"
+ 
+ #Someone Found a Puppet
+ r56w.event.51.t:0 "Something Fluffy This Way Comes"
+ r56w.event.51.d:0 "Greatexperiment recently decided to go on a holiday to Britain. While on a stroll he came across a rather strange and terribly suspicious puppet hiding behind a phone booth. \n\n\"I really should infuse this thing with magic so that it will take over the country and cause absolute havok.\", Greatexperiment said to himself."
+ r56w.event.51.a:0 "Yeah, why not?"
+ r56w.event.51.b:0 "Nah. Throw it in the river"
+ 
+#News of the British Takeover
+ r56w.event.53.t:0 "A Hand on Power"
+ r56w.event.53.d:0 "For reasons utterly beyond all comprehension it seems that the sovereign government of Great Britain has decided to place all power in the felt-tipped hands of a sentient puppet. God save us all."
+ r56w.event.53.a:0 "That's politics for you"
+ 
+#Hitler and Baldur's Gate
+ r56w.event.100.t:0 "A Curious Door"
+ r56w.event.100.desc:0 "Today at the Reich Chancellery, Baldur von Schirach suggested to the Fuehrer his own design for the construction of Germania.\n\nAlways ready to discuss matters of culture, he designed in secret a new type of door that is causing some division among Hitler's inner circle. The motives are judged to be unworthy of the capital of Europe by Albert Speer while the rumor circulates that Himmler admires the nordic mythological references and judges it "authentically German".\n\nToday, no important work was done at the Reich Chancellery as the Nazi leadership was too busy discussing Baldur's gate."
+ r56w.event.100.a:0 "Send the plans to Arno Breker."
+
+#Comet Tank sighted
+r56w.event.101.t:0 "Comet Tank Sighted!"
+r56w.event.101.desc:0 "While it was driving too close from the limit of the Bovington military base, an experimental variant of our new Comet tank has been inadvertently sighted by a few civilians passing by. We must act quickly in order to ensure that the matter will be dealt with the necessary discretion. The MPs are understandably irritated and the tank driver is certainly going to be reprimanded.\n\nIf loose lips sink ships, they can also pierce armors."
+r56w.event.101.a:0 "Let's do a few phone calls."
+ 
+###------> Tooltips <><> <><> <><> <><> <><>
+
+#Generic
+ r56w_tt_nothing:0 "Ничего не произошло."
+ r56w_tt_failure:0 "Жалкий провал"
+ r56w_tt_mission_go:0 "Успех!!"
+
+###------> Countries <><> <><> <><> <><> <><>
+
+#WHY
+ WHY_neutrality:0 "Нежная Любящая Империя"
+ WHY_neutrality_DEF:0 "Нежная Любящая Империя"
+ WHY_neutrality_ADJ:0 "Тендерит"
+ 
+#Parties
+ r56w_anarchism:0 "Организованная анархия"
+ r56w_anarchism_desc:0 "Да, в этом есть смысл. Просто примите это как есть."
+ 
+#Factions
+ r56w_modderite:0 "Моддериты"
+ r56w_modderite_desc:0 "Каламбурчик!"
+ 
+###------> Ideas <><> <><> <><> <><> <><>
+
+#National Ideas
+ r56w_idea_national_tabletop_games:0 "Настольные игры"
+ r56w_idea_national_tabletop_games_desc:0 "Граждане этой страны любят играть в самые невероятные игры"
+ r56w_idea_national_poor_as_f:0 "Охренительная бедность"
+ r56w_idea_national_poor_as_f_desc:0 "Даже Taco Bell выглядит дорогим рестораном"
+ r56w_idea_national_got_up_early_today:0 "Встал рано"
+ r56w_idea_national_got_up_early_today_desc:0 "...и никто не рад этому."
+ r56w_idea_national_got_up_early_today_tooltip:0 "Может отклонить призыв к оружию из-за слишком сильной усталости."
+ r56w_idea_national_feeling_guilty:0 "Чувство вины"
+ r56w_idea_national_feeling_guilty_desc:0 "Отлично! Я помогу! Доволен?"
+ 
+#Advisors
+ r56w_idea_minister_zukas:0 "Зукас"
+ r56w_idea_minister_zukas_desc:0 ""
+ r56w_idea_minister_herman_lindqvist:0 "Герман Линдквист" 
+ r56w_idea_minister_herman_lindqvist_desc:0 "" 
+ r56w_idea_minister_thinking_waffle:0 "Умная Вафля"
+ r56w_idea_minister_thinking_waffle_desc:0 ""
+ r56w_idea_minister_linda:0 "Линда СУИ"
+ r56w_idea_minister_linda_desc:0 ""
+ r56w_idea_minister_pompelmo:0 "Грейпфрут"
+ r56w_idea_minister_pompelmo_desc:0 ""
+ r56w_idea_minister_patchie:0 "Паччи"
+ r56w_idea_minister_patchie_desc:0 ""
+ r56w_idea_minister_xuan_kamo:0 "Сюань Камо"
+ r56w_idea_minister_xuan_kamo_desc:0 ""
+ r56w_idea_minister_verenikin:0 "Макров"
+ r56w_idea_minister_verenikin_desc:0 ""
+ r56w_idea_minister_toasted_toaster:0 "Поджаренный Тостер"
+ r56w_idea_minister_toasted_toaster_desc:0 ""
+ r56w_idea_minister_jamryl:0 "Джамрил ИДС"
+ r56w_idea_minister_jamryl_desc:0 ""
+ r56w_idea_minister_dvenom:0 "Д. Веном"
+ r56w_idea_minister_dvenom_desc:0 ""
+ r56w_idea_minister_tugas_eagle_eye:0 "Тугас Орлиный Глаз"
+ r56w_idea_minister_tugas_eagle_eye_desc:0 ""
+ r56w_idea_minister_black_falcon:0 "Черный Сокол"
+ r56w_idea_minister_black_falcon_desc:0 ""
+ r56w_idea_minister_tai:0 "Тай"
+ r56w_idea_minister_tai_desc:0 ""
+ r56w_idea_minister_sorensen:0 "Соренсен"
+ r56w_idea_minister_sorensen_desc:0 ""
+ r56w_idea_minister_vfacure:0 "В. Факир"
+ r56w_idea_minister_vfacure_desc:0 ""
+ r56w_idea_minister_sangriacus:0 "Сангриакос"
+ r56w_idea_minister_sangriacus_desc:0 ""
+ r56w_idea_minister_master_splinter:0 "Мастер Сплинтер"
+ r56w_idea_minister_master_splinter_desc:0 ""
+ r56w_idea_minister_antonius_magnus:0 "Антониус Магнус"
+ r56w_idea_minister_antonius_magnus_desc:0 ""
+ r56w_idea_minister_johan_schmidt:0 "Йохан Шмидт"
+ r56w_idea_minister_johan_schmidt_desc:0 ""
+ r56w_idea_minister_mr_tsubodai:0 "Г-н Цубодай"
+ r56w_idea_minister_mr_tsubodai_desc:0 ""
+ r56w_idea_minister_kriplaik:0 "Криплайк"
+ r56w_idea_minister_kriplaik_desc:0 ""
+ r56w_idea_minister_toast:0 "Тост"
+ r56w_idea_minister_toast_desc:0 ""
+ r56w_idea_minister_karsta:0 "Карста"
+ r56w_idea_minister_karsta_desc:0 ""
+ r56w_idea_minister_pinback:0 "Пинбек"
+ r56w_idea_minister_pinback_desc:0 ""
+ r56w_idea_minister_vydazy:0 "Видажи"
+ r56w_idea_minister_vydazy_desc:0 ""
+ r56w_idea_minister_buffalo444:0 "Баффало444"
+ r56w_idea_minister_buffalo444_desc:0 ""
+ r56w_idea_minister_poor_tegga:0 "Пур Тегга"
+ r56w_idea_minister_poor_tegga_desc:0 ""
+ r56w_idea_minister_h_h:0 "H.H."
+ r56w_idea_minister_h_h_desc:0 ""
+ r56w_idea_minister_barry_white:0 "Барри Вайт"
+ r56w_idea_minister_barry_white_desc:0 ""
+ r56w_idea_minister_perjh:0 "Пержах"
+ r56w_idea_minister_perjh_desc:0 ""
+ 
+#Designers
+ r56w_idea_designer_massif_manufacturing:0 "Massif Manufacturing"
+ r56w_idea_designer_massif_manufacturing_desc:0 ""
+ r56w_idea_designer_holst_planet_foundry:0 "Holst Planet Foundry"
+ r56w_idea_designer_holst_planet_foundry_desc:0 ""
+ r56w_idea_designer_la_societe_construction:0 "La Société Arms"
+ r56w_idea_designer_la_societe_construction_desc:0 ""
+ r56w_idea_designer_efrafa_shipbuilding:0 "Efrafa Shipbuilding"
+ r56w_idea_designer_efrafa_shipbuilding_desc:0 ""
+ r56w_idea_designer_heyoka_air:0 "Heyoka Air"
+ r56w_idea_designer_heyoka_air_desc:0 ""
+ 
+
+###------> Traits <><> <><> <><> <><> <><>
+
+#Minister Traits
+ r56w_trait_minister_zukas:0 "Пират"
+ r56w_trait_minister_herman_lindqvist:0 "Супер Строитель" 
+ r56w_trait_minister_thinking_waffle:0 "НЕ ВАФЛЯ"
+ r56w_trait_minister_linda:0 "Очень спокоен"
+ r56w_trait_minister_pompelmo:0 "Ловец бабочек"
+ r56w_trait_minister_patchie:0 "Отрицательное число"
+ r56w_trait_minister_xuan_kamo:0 "Делитель на ноль"
+ r56w_trait_minister_verenikin:0 "Воображаемые числа"
+ r56w_trait_minister_toasted_toaster:0 "Такой поджаренный"
+ r56w_trait_minister_jamryl:0 "Не группа"
+ r56w_trait_minister_dvenom:0 "Позавтракал"
+ r56w_trait_minister_tugas_eagle_eye:0 "Глазастый"
+ r56w_trait_minister_black_falcon:0 "Смерть с небес"
+ r56w_trait_minister_tai:0 "Просто Тай"
+ r56w_trait_minister_sorensen:0 "Настоящий генерал"
+ r56w_trait_minister_vfacure:0 "Все еще не уверен"
+ r56w_trait_minister_sangriacus:0 "Дотошный"
+ r56w_trait_minister_master_splinter:0 "Альтернативная временная шкала"
+ r56w_trait_minister_antonius_magnus:0 "Великодушный"
+ r56w_trait_minister_johan_schmidt:0 "Любит цветы"
+ r56w_trait_minister_mr_tsubodai:0 "Галантный"
+ r56w_trait_minister_kriplaik:0 "Скрытный"
+ 
+#Designer Traits
+ r56w_trait_designer_massif_manufacturing:0 "Ну очень здоровый"
+ r56w_trait_designer_holst_planet_foundry:0 "Отссылочный"
+ r56w_trait_designer_la_societe_construction:0 "Не умею читать по-французски"
+ r56w_trait_designer_efrafa_shipbuilding:0 "Книги это прекрасно"
+ r56w_trait_designer_heyoka_air:0 "Привет, земля!"
+ 
+#Generic Traits
+ r56w_trait_generic_is_breathing:0 "Оно живое!"
+ r56w_trait_generic_is_breathing_desc:0 "Ага. Если только они зомби. Зомби могут быть где угодно."
+ r56_trait_anti_fascist:0 "Антифашистский"
+ r56_trait_anti_democratic:0 "Антидемократический"
+ 
+#Field Marshal Traits
+ r56w_trait_marshal_master_exploder:0 "Мастер исследований"
+ r56w_trait_marshal_master_exploder_desc:0 "Фильм был действительно хреновый..."
+
+#Land Commander Traits
+ r56w_trait_army_vibrates:0 "Мастер вибраций"
+ r56w_trait_army_vibrates_desc:0 "Этот генерал способен вибрировать на высокой скорости."
+ r56w_trait_army_packed_lunch:0 "Ланч"
+ r56w_trait_army_packed_lunch_desc:0 "Этот генерал всегда помнит о том, что надо собрать хороший обед, прежде чем идти в бой."
+ r56w_trait_army_saw_a_squirrel:0 "Видел белку"
+ r56w_trait_army_saw_a_squirrel_desc:0 "Эта была белка?! Куда она ломанулась?!"
+ r56w_trait_army_knows_what_you_did:0 "Знает что ты сделал"
+ r56w_trait_army_knows_what_you_did_desc:0 "Они знают."
+ r56w_trait_army_force_user:0 "Форсированный пользователь"
+ r56w_trait_army_force_user_desc:0 "Почему бы и нет?"
+ r56w_trait_army_is_a_lemur:0 "Лемур"
+ r56w_trait_army_is_a_lemur_desc:0 "Судя по всему этот генерал лемур."
+ r56w_trait_army_personal_space:0 "Личное пространство"
+ r56w_trait_army_personal_space_desc:0 "У этого генерала очень хорошее чувство личного пространства."
+ r56w_trait_army_free_coffee:0 "Качественный кофе"
+ r56w_trait_army_free_coffee_desc:0 "Только лучшее, прямо со склонов горы убийств."
+
+#Naval Commander Traits
+ r56w_trait_navy_ocean_haiku:0 "Хайку"
+ r56w_trait_navy_ocean_haiku_desc:0 "Я люблю воду \ n Это очень модно \ n Это хайку"
+ r56w_trait_navy_hates_water:0 "Ненавидит воду"
+ r56w_trait_navy_hates_water_desc:0 "Это скорее взаимная ненависть."
+ r56w_trait_navy_rubber_duck:0 "Резиновая утка"
+ r56w_trait_navy_rubber_duck_desc:0 "Этот генерал обладает резиновой уткой. Из будущего. Буквально обладает."
+ r56w_trait_navy_can_swim:0 "Умеет плавать"
+ r56w_trait_navy_can_swim_desc:0 "Возможно..."
+
+
+#Leader Traits
+ r56w_trait_leader_unemployed:0 "Безработный"
+ r56w_trait_leader_unemployed_desc:0 "Захват мира - это хобби"
+ r56w_trait_leader_punny:0 "Шутник"
+ r56w_trait_leader_punny_desc:0 "Рассказывает действительно ужасные старческие шутки и много каламбурит"
+ r56w_trait_leader_sounds_like_batman:0 "Звучит как бэтмен"
+ r56w_trait_leader_sounds_like_batman_desc:0 "Соседские дети так сказали"
+ r56w_trait_leader_life_experience:0 "Жизненный опыт"
+ r56w_trait_leader_life_experience_desc:0 "Пережил ужасающие события, где любой другой отдал бы концы."
+ r56w_trait_leader_shaved:0 "Бритый!"
+ r56w_trait_leader_shaved_desc:0 "...и все равно никому не нравится."
+ r56w_trait_leader_lycofluarop:0 "Ликавафлятроп"
+ r56w_trait_leader_lycofluarop_desc:0 "Проклят быть Волком ночью, Вафлей днем"
+ r56w_trait_leader_historical:0 "Супер Историчный"
+ r56w_trait_leader_historical_desc:0 "Сотрудники библиотеки знают считают его своим."
+ r56w_trait_leader_badass:0 "Засранец"
+ r56w_trait_leader_badass_desc:0 "Самый засранистый из всех засранцев."
+ r56w_trait_leader_fluffy:0 "Very Fluffy"
+ r56w_trait_leader_fluffy_desc:0 "It's almost comforting. In an evil sort of way."
+ 
+###------> Modifiers <><> <><> <><> <><> <><>
+
+#Opinion Modifiers
+ r56w_opinion_modifier_shaved_stache:0 "Бритые усы"
+ r56w_opinion_modifier_shaved_stache_desc:0 ""
+ r56w_opinion_modifier_not_in_the_club:0 "Не в клубе"
+ r56w_opinion_modifier_not_in_the_club_desc:0 ""
+ r56w_opinion_modifier_totally_op:0 "Имба"
+ r56w_opinion_modifier_totally_op_desc:0 "Публично осужден за то, что он имба, но на самом деле все просто слабачки."
+ r56w_opinion_modifier_naval_invasion:0 "Военно-морское вторжение"
+ r56w_opinion_modifier_naval_invasion_desc:0 ""
+ r56w_opinion_modifier_opened_portal:0 "Открытый портал"
+ r56w_opinion_modifier_opened_portal_desc:0 "Все немного расстроены тем, что вы открыли портал в адские измерения."
+ 
+###------> Focuses <><> <><> <><> <><> <><>
+
+#WHY
+ r56w_focus_WHY_totally_op:0 "Это ну просто мегаимба"
+ r56w_focus_WHY_totally_op_desc:0 "ДА, Я В КУРСЕ!"
+ 
+#####---------------------------------------------------------------------> End

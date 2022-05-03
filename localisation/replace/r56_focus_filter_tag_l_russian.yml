@@ -1,0 +1,13 @@
+﻿l_russian:
+ FOCUS_FILTER_ESPIONAGE:0 "Шпионаж"
+ FOCUS_FILTER_OIL:0 "Ресурс: Добыча нефти и синтез топлива" 
+
+ ## Added Resource: so they are grouped together.
+ FOCUS_FILTER_STEEL:0 "Ресурс: Сталь"
+ FOCUS_FILTER_CHROMIUM:0 "Ресурс: Хром"
+ FOCUS_FILTER_ALUMINIUM:0 "Ресурс: Алюминий"
+ FOCUS_FILTER_TUNGSTEN:0 "Ресурс: Вольфрам"
+ FOCUS_FILTER_RUBBER:0 "Ресурс: Резина" 
+ FOCUS_FILTER_MILITARY_EQUIPMENT:0 "Военное снаряжение"
+ FOCUS_FILTER_MILITARY_IMPROVEMENT:0 "Военные улучшения"
+ FOCUS_FILTER_ALLIANCE:0 "Альянс"

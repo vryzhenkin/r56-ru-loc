@@ -1,0 +1,32 @@
+﻿l_russian:
+
+#Non aligned leaders
+#    Dinu Simian (august 1938 - 31 ianuarie 1939)
+#    Grigore Cazacliu (1 februarie 1939 - 1940)
+
+#Grigore Turcuman political, naval reserve
+#Teodor Cojocaru military before war
+#Elefterie Sinicliu artillerist in 1919 still alive
+
+MOL_generic_democratic_reformer:0 "Даниель Чугуряну"
+MOL_generic_communist_revolutionary:0 "Тихон Константинов"
+MOL_anton_crihan:0 "Антон Крихан"
+MOL_stefan_ciobanu:0 "Стефан Чиобану"
+MOL_nicolae_bosie_codreanu:0 "Николае Босье-Кодряну"
+MOL_fedor_brovko:0 "Фёдор Бровко"
+MOL_leonte_rautu:0 "Лев Николаевич Ойгенштейн"
+MOL_zinovie_serdiuk:0 "Зиновий Сердюк"
+MOL_grigore_cazacliu:0 "Григори Качалию"
+MOL_elefterie_sinicliu:0 "Элефтерий Синиклиу"
+MOL_grigore_turcuman:0 "Григор Туркуман"
+MOL_teodor_cojocaru:0 "Теодор Кожочару"
+MOL_gherman_pantea:0 "Герман Пантеа"
+
+MOL_union_with_ROM:0 "Запрос унии с [ROM.GetNameDef]"
+MOL_integrate_historical_moldova:0 "Интеграция исторической Молдовы"
+MOL_integrate_bukovina:0 "Интеграция Буковины"
+
+r56_moldova.1.t:0 "[MOL.GetNameDef] запрашивает объединение"
+r56_moldova.1.desc:0 "Представители государства [MOL.GetNameDef] связались с нашим правительством и заявили, что их правительство единогласно решило попросить, чтобы их страна была интегрирована в Румынию, восстановив таким образом Великую Румынию."
+r56_moldova.1.a:0 "Конечно!"
+r56_moldova.1.b:0 "Не в наших интересах."

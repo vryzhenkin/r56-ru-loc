@@ -1,0 +1,322 @@
+﻿l_russian:
+##Add in focus tree fight between german influenced and more radical Hlinka guard, more and more imitating the SS and the Slovak Popular Party (still fascist)
+
+ idea_state_security_ministry:0 "Министерство Государственной Безопасности"
+ idea_communist_central_management:0 "Бюро Экономического Планирования "
+ maintenance_company_tech:0 "Ремонтные Компании" 
+ 
+ OVERLORD_TRIGGER:0 "Оверлорд"
+
+ axis_minors.1.t:0 "Празднование независимости"
+ axis_minors.1.desc:0 "Отныне, мы нация со своим правительством и это правительство должно скорее принять свои первые политические решения. У других государств были годы на то, чтобы организовать политическую стабильность и подготовить свои армии, в то время как мы должны сделать то же самое в течение нескольких дней."
+ axis_minors.1.a:0 "У нас еще есть время подготовиться к надвигающейся буре."
+ axis_minors.1.b:0 "Давайте, наконец, сформируем правительство."
+ axis_minors.1.c:0 "Давайте, наконец, сформируем правительство."
+ axis_minors.1.d:0 "Давайте, наконец, сформируем правительство."
+ axis_minors.1.e:0 "Давайте, наконец, сформируем правительство."
+ axis_minors.1.f:0 "Давайте, наконец, сформируем правительство."
+ axis_minors.1.g:0 "Давайте, наконец, сформируем правительство." 
+
+ axis_minors_balance_event_tooltip:0 "Это событие предоставляет очки ПВ на основе текущего года, чтобы частично компенсировать политическую власть, не полученную в период, когда страна была оккупирована другим государством.\n"
+
+ ##Add in focus tree fight between german influenced and more radical Hlinka guard, more and more imitating the SS and the Slovak Popular Party (still fascist)
+ aftermath_of_the_munich_agreement:0 "Последствия раздела Чехословакии"
+ aftermath_of_the_munich_agreement_desc:0 "Распад Чехословакии привел к многочисленным событиям и политическим возможностям, которые были почти немыслимы всего несколько лет назад." 
+ RUT_puppet_yourself_to_survive:0 "Поиск компромисса с Германией"
+ SLO_seek_support_from_german_slovaks:0 "Поиск поддержки у словацких фольксдойче"
+ volkdeutsch_support:0 "Есть поддержка §YФольксдойче§! "
+ RUT_provide_autonomy_to_ruthenia:0 "Предоставить автономию Карпатской Украине"
+ RUT_award_ruthenia_to_hungary:0 "Передать Карпатскую Русь [HUN.GetNameDef]"
+ 
+#Bulgaria 2 and 3 were not working and removed.
+
+ axis_minors_bulgaria.1.t:0 "Болгарское правительство заявляет о своей поддержке коммунизма с балканскими признаками"
+ axis_minors_bulgaria.1.desc:0 "С успехом пролетарских революций в обеих странах мы установили очень хорошие отношения с болгарским коммунистическим правительством. Выяснилось, что они поддерживают наш выбор искать собственный путь, подальше от влияния Москвы, и хотят заключить союз, объединяющий наши страны."
+ axis_minors_bulgaria.1.a:0 "Это ускорит наши долгосрочные проекты."
+ axis_minors_bulgaria.1.b:0 "Мы не нуждаемся в их помощи."
+
+ axis_minors_bulgaria.4.t:0 "Техники улучшают производство грузовиков"
+ axis_minors_bulgaria.4.desc:0 "Сотрудничество с производителями грузовых автомобилей, позволило повысить эффективность производства."
+ axis_minors_bulgaria.4.a:0 "Это ускорит наши долгосрочные проекты." 
+
+ axis_minors_bulgaria.5.t:0 "Утрата технических знаний"
+ axis_minors_bulgaria.5.desc:0 "Поскольку никто не поддерживает производство грузовиков среди членов нашего альянса, мы больше не можем получать прибыль от их опыта."
+ axis_minors_bulgaria.5.a:0 "Мы должны наращивать наше сотрудничество." 
+
+ axis_minors_bulgaria.6.t:0 "Техники совершенствуют производство огнестрельного оружия"
+ axis_minors_bulgaria.6.desc:0 "Сотрудничество с производителями огнестрельного оружия, позволило повысить эффективность производства."
+ axis_minors_bulgaria.6.a:0 "Это ускорит наши долгосрочные проекты." 
+ 
+ axis_minors_bulgaria.7.t:0 "Утрата технических знаний"
+ axis_minors_bulgaria.7.desc:0 "Поскольку никто не поддерживает производство огнестрельного оружия среди членов нашего альянса, мы больше не можем получать прибыль от их опыта."
+ axis_minors_bulgaria.7.a:0 "Мы должны наращивать наше сотрудничество."
+
+ axis_minors_bulgaria.8.t:0 "Техники совершенствуют производство артиллерии"
+ axis_minors_bulgaria.8.desc:0 "Сотрудничество с производителями артиллерии, позволило повысить эффективность производства."
+ axis_minors_bulgaria.8.a:0 "Это ускорит наши долгосрочные проекты." 
+ 
+ axis_minors_bulgaria.9.t:0 "Утрата технических знаний"
+ axis_minors_bulgaria.9.desc:0 "Поскольку никто не поддерживает производство артиллерии среди членов нашего альянса, мы больше не можем получать прибыль от их опыта."
+ axis_minors_bulgaria.9.a:0 "Мы должны наращивать наше сотрудничество."  
+
+ axis_minors_bulgaria.10.t:0 "Техники совершенствуют производство танков"
+ axis_minors_bulgaria.10.desc:0 "Сотрудничество с производителями средних танков, позволило повысить эффективность производства."
+ axis_minors_bulgaria.10.a:0 "Это ускорит наши долгосрочные проекты."
+ 
+ axis_minors_bulgaria.11.t:0 "Утрата технических знаний"
+ axis_minors_bulgaria.11.desc:0 "Поскольку никто не поддерживает производство средних танков среди членов нашего альянса, мы больше не можем получать прибыль от их опыта."
+ axis_minors_bulgaria.11.a:0 "Мы должны наращивать наше сотрудничество." 
+
+ axis_minors_bulgaria.12.t:0 "Техники совершенствуют производство танков"
+ axis_minors_bulgaria.12.desc:0 "Сотрудничество с производителями легких танков, позволило повысить эффективность производства.."
+ axis_minors_bulgaria.12.a:0 "Это ускорит наши долгосрочные проекты."
+ 
+ axis_minors_bulgaria.13.t:0 "Утрата технических знаний"
+ axis_minors_bulgaria.13.desc:0 "Поскольку никто не поддерживает производство легких танков среди членов нашего альянса, мы больше не можем получать прибыль от их опыта."
+ axis_minors_bulgaria.13.a:0 "Мы должны наращивать наше сотрудничество." 
+
+ axis_minors_bulgaria.14.t:0 "Техники совершенствуют производство танков"
+ axis_minors_bulgaria.14.desc:0 "Сотрудничество с производителями тяжелых танков, позволило повысить эффективность производства.."
+ axis_minors_bulgaria.14.a:0 "Это ускорит наши долгосрочные проекты." 
+ 
+ axis_minors_bulgaria.15.t:0 "Утрата технических знаний"
+ axis_minors_bulgaria.15.desc:0 "Поскольку никто не поддерживает производство тяжелых танков среди членов нашего альянса, мы больше не можем получать прибыль от их опыта."
+ axis_minors_bulgaria.15.a:0 "Мы должны наращивать наше сотрудничество." 
+
+ axis_minors_bulgaria.16.t:0 "Техники совершенствуют производство истребителей"
+ axis_minors_bulgaria.16.desc:0 "Сотрудничество с производителями истребителей, позволило повысить эффективность производства."
+ axis_minors_bulgaria.16.a:0 "Это ускорит наши долгосрочные проекты."  
+ 
+ axis_minors_bulgaria.17.t:0 "Утрата технических знаний"
+ axis_minors_bulgaria.17.desc:0 "Поскольку никто не поддерживает производство истребителей среди членов нашего альянса, мы больше не можем получать прибыль от их опыта."
+ axis_minors_bulgaria.17.a:0 "Мы должны наращивать наше сотрудничество."
+
+ axis_minors_bulgaria.18.t:0 "Техники совершенствуют производство производство средней авиации"
+ axis_minors_bulgaria.18.desc:0 "Сотрудничество с производителями средней авиации, позволило повысить эффективность производства.."
+ axis_minors_bulgaria.18.a:0 "Это ускорит наши долгосрочные проекты."
+ 
+ axis_minors_bulgaria.19.t:0 "Утрата технических знаний"
+ axis_minors_bulgaria.19.desc:0 "Поскольку никто не поддерживает производство средней авиации среди членов нашего альянса, мы больше не можем получать прибыль от их опыта."
+ axis_minors_bulgaria.19.a:0 "Мы должны наращивать наше сотрудничество." 
+
+ axis_minors_bulgaria.20.t:0 "Техники совершенствуют производство тяжелых бомбардировщиков"
+ axis_minors_bulgaria.20.desc:0 "Сотрудничество с производителями тяжелых бомбардировщиков, позволило повысить эффективность производства.."
+ axis_minors_bulgaria.20.a:0 "Это ускорит наши долгосрочные проекты."
+ 
+ axis_minors_bulgaria.21.t:0 "Утрата технических знаний"
+ axis_minors_bulgaria.21.desc:0 "Поскольку никто не поддерживает производство тяжелых бомбардировщиков среди членов нашего альянса, мы больше не можем получать прибыль от их опыта."
+ axis_minors_bulgaria.21.a:0 "Мы должны наращивать наше сотрудничество." 
+
+ axis_minors_bulgaria.22.t:0 "Техники совершенствуют производство морских бомбардировщиков"
+ axis_minors_bulgaria.22.desc:0 "Сотрудничество с производителями морских бомбардировщиков, позволило повысить эффективность производства.."
+ axis_minors_bulgaria.22.a:0 "Это ускорит наши долгосрочные проекты." 
+ 
+ axis_minors_bulgaria.23.t:0 "Утрата технических знаний"
+ axis_minors_bulgaria.23.desc:0 "Поскольку никто не поддерживает производство морских бомбардировщиков среди членов нашего альянса, мы больше не можем получать прибыль от их опыта."
+ axis_minors_bulgaria.23.a:0 "Мы должны наращивать наше сотрудничество." 
+
+ axis_minors_bulgaria.24.t:0 "Техники совершенствуют производство штурмовиков"
+ axis_minors_bulgaria.24.desc:0 "Сотрудничество с производителями штурмовиков, позволило повысить эффективность производства.."
+ axis_minors_bulgaria.24.a:0 "Это ускорит наши долгосрочные проекты." 
+ 
+ axis_minors_bulgaria.25.t:0 "Утрата технических знаний"
+ axis_minors_bulgaria.25.desc:0 "Поскольку никто не поддерживает производство штурмовиков среди членов нашего альянса, мы больше не можем получать прибыль от их опыта."
+ axis_minors_bulgaria.25.a:0 "Мы должны наращивать наше сотрудничество."  
+ 
+ axis_minors_bulgaria.26.t:0 "Потеря иностранной экспертизы"
+ axis_minors_bulgaria.26.desc:0 "Теперь, когда мы разорвали наши связи с нашими старыми союзниками, мы больше не можем получать их производственные советы."
+ axis_minors_bulgaria.26.a:0 "Это было ожидаемо." 
+#Ruthenia
+
+ axis_minors_ruthenia.1.t:0 "Подкарпатская Русь объявляет себя автономной областью"
+ axis_minors_ruthenia.1.desc:0 "В связи с ослаблением чехословацкого правительства, область Подкарпатской Руси, преимущественно населенная русинами (украинская подгруппа), объявила себя автономной областью. Теперь она будет пользоваться всеми правами, которые ей были обещаны, но ограничены правительством Праги."
+ axis_minors_ruthenia.1.a:0 "В любом случае это их право."
+ axis_minors_ruthenia.1.b:0 "Мы наконец-то восстановим свою государственность (играть Карпатской Русью)."
+ axis_minors_ruthenia.1.c:0 "Ну и черт с ними."
+ axis_minors_ruthenia.1.d:0 "Пусть они примут свою судьбу (играть независимой Карпато-Украиной)."
+ 
+ axis_minors_ruthenia.2.t:0 "Венгерская угроза"
+ axis_minors_ruthenia.2.desc:0 "С падением Чехословакии риск вторжения растет день ото дня. Возможно, мы смогли бы пережить быстрые изменения, сотрясающие регион, предложив присоединиться к Венгерскому королевству, сохранив при этом максимум автономии." 
+ axis_minors_ruthenia.2.a:0 "Отправьте гонцов в Будапешт."
+ axis_minors_ruthenia.2.b:0 "Пусть приходят, мы их встретим." 
+ axis_minors_ruthenia.2.c:0 "Они не готовы к войне (объявить войну)."
+ 
+ axis_minors_ruthenia.3.t:0 "Карпато-Украина в поиске защиты"
+ axis_minors_ruthenia.3.desc:0 "Сегодня прибыла делегация из так называемой "Республики Карпато-Украина" и предложила нам неожиданную сделку. Они осведомлены о рисках вторжения и наших претензиях на их территорию, они готовы отказаться от своей независимости в обмен на автономию в составе Венгрии. Хотя принятие ограничило бы наше влияние на этот небольшой регион, лишь частично восстановив границы исторической Венгрии, вторжение в регион может привести к более опасным последствиям." 
+ axis_minors_ruthenia.3.a:0 "Интегрировать их как автономный регион."
+ axis_minors_ruthenia.3.b:0 "Подкарпатье входит в состав исторической Венгрии, оккупируем их." 
+ 
+ axis_minors_ruthenia.4.t:0 "Вторжение в Карпато-Украину?"
+ axis_minors_ruthenia.4.desc:0 "Самопровозглашенная республика Карпато-Украина является новой и изолированной. Как часть исторической Венгрии, она должна находиться под венгерским правительством. С распадом Чехословакии, регион готов вернуться к законным владельцам." 
+ axis_minors_ruthenia.4.a:0 "Это того не стоит."
+ axis_minors_ruthenia.4.b:0 "Начать план вторжения." 
+ 
+ axis_minors_ruthenia.5.t:0 "Свободное общество"
+ axis_minors_ruthenia.5.desc:0 "Со сменой политического руководства, основные свободы вновь гарантируются по всей стране. В связи с этим в стране формируются общества и распространяются демократические идеи." 
+ axis_minors_ruthenia.5.a:0 "Мы должны дорожить возвращением свободы." 
+ 
+ axis_minors_ruthenia.6.t:0 "Рутения в поиске компромисса"
+ axis_minors_ruthenia.6.desc:0 "С исчезновением Чехословакии горные русины, проживавшие на самой экстремальной территории Чехословакии, требуют сохранить определенный уровень автономии." 
+ axis_minors_ruthenia.6.a:0 "Гарантировать их автономию."  
+ axis_minors_ruthenia.6.b:0 "Поместить их под словацкое влияние."
+ axis_minors_ruthenia.6.c:0 "Атаковать их." 
+ 
+ axis_minors_ruthenia.7.t:0 Рутения запрашивает унификацию"
+ axis_minors_ruthenia.7.desc:0 "[RUT.GetLeader], лидер самой крайней территории Чехословакии запрашивает о включении территории русинов в состав украинского государства." 
+ axis_minors_ruthenia.7.a:0 "Замечательно."  
+ axis_minors_ruthenia.7.b:0 "Отказать."
+ #Croatia
+ 
+ axis_minors_croatia.1.t:0 "Объединение с Югославией"
+ axis_minors_croatia.1.desc:0 "Теперь, когда Тито возглавляет оба наших правительства, пришло время объединиться с Югославией."
+ axis_minors_croatia.1.a:0 "Да здравствует СФР Югославия!"
+ 
+ axis_minors_croatia.2.t:0 "Хорватские коммунисты желают нашего правления"
+ axis_minors_croatia.2.desc:0 "Хорватские коммунисты хотят присоединиться к нашему славному Союзу южных славян."
+ axis_minors_croatia.2.a:0 "С возвращением!"
+ 
+ axis_minors_croatia.3.t:0 "Претензия на Великую Хорватию"
+ axis_minors_croatia.3.desc:0 "Босния исторически была частью Хорватии, чтобы идти по стопам Томислава, мы должны восстановить наши исторические границы."
+ axis_minors_croatia.3.a:0 "Это по праву наша земля!"
+
+ axis_minors_croatia.4.t:0 "Будущее мастерской "Электра" решено"
+ axis_minors_croatia.4.desc:0 "В честь памяти Героя народа, электромеханика и коммунистического боевика Раде Конкара, завод электронных запчастей "Электра" будет переименован в "Конкар Электроиндустрия"."
+ axis_minors_croatia.4.a:0 "Он был истинным мучеником нашего дела!"
+ 
+ axis_minors_croatia.5.t:0 "Конец коммунистической тирании"
+ axis_minors_croatia.5.desc:0 "Красный террор закончился! Коммунисты отстранены от власти, их антиутопическая экономическая система уничтожается."
+ axis_minors_croatia.5.a:0 "Царствование большевизма закончилось." 
+ 
+ axis_minors_croatia.6.t:0 "Конец фашистской тирании"
+ axis_minors_croatia.6.desc:0 "Черный террор закончился! Фашисты отстранены от власти, их антиутопический режим уничтожается."
+ axis_minors_croatia.6.a:0 "Эпоха ультранационализма и расизма закончилась."  
+ 
+ axis_minors_croatia.7.t:0 "Конец парламентского режима!"
+ axis_minors_croatia.7.desc:0 "Из-за захвата радикальных элементов, многопартийность является прошлой особенностью хорватского общества, поскольку революционеры формируют правительство и устанавливают свою диктатуру."
+ axis_minors_croatia.7.a:0 "Темные времена ждут." 
+ 
+ axis_minors_croatia.8.t:0 "Коммунисты вернули себе власть!"
+ axis_minors_croatia.8.desc:0 "Революционное коммунистическое правительство вернулось к власти и предыдущие политические реформы быстро восстанавливаются."
+ axis_minors_croatia.8.a:0 "Коммунизм - это будущее!"
+
+ axis_minors_croatia.9.t:0 "Страна вновь вернулась под контроль фашистов!"
+ axis_minors_croatia.9.desc:0 "Ультра-националисты в очередной раз взяли под контроль страны. Коллаборационистов уже отслеживают, в то время как милитаристская пропаганда снова пытается вовлечь массы в свое движение."
+ axis_minors_croatia.9.a:0 "Мы истинные Хорваты!" 
+ 
+ axis_minors_croatia.10.t:0 "Демократические силы оказались сильнее!"
+ axis_minors_croatia.10.desc:0 "После борьбы эпических масштабов и жестоких репрессий, сторонники свободы и демократии создали новое правительство."
+ axis_minors_croatia.10.a:0 "Мы будем сражаться за нашу свободу!"
+
+ axis_minors_croatia.11.t:0 "Наследие прошлого"
+ axis_minors_croatia.11.desc:0 "В то время как наша нация вступает в новую эру, наши текущие знания основаны на том, что было изучено в прошлом."
+ axis_minors_croatia.11.a:0 "Вперед в светлое будущее!" 
+ #slovakia
+ axis_minors_slovakia.1.t:0 "Наша граница со Словакией неудовлетворительна"
+ axis_minors_slovakia.1.desc:0 "Мы взяли под свой контроль Кошице и объединили Карпатскую Русь, но даже с этими завоеваниями, завоевание региона все еще не завершено. Многие деревни, населенные по праву венгерскими русинами, все еще находятся под контролем Словакии. Поскольку новая граница со Словакией еще не установлена, необходимо принять меры сейчас, чтобы перерисовать ее в нашу пользу, прежде чем она станет фиксированной и признанной границей."
+  axis_minors_slovakia.1.a:0 "Провести небольшое наступление, чтобы занять спорный регион."
+ axis_minors_slovakia.1.b:0 "Только дипломатия вернет нам наши законные земли."
+
+ axis_minors_slovakia.2.t:0 "Мы проиграли Маленькую войну."
+ axis_minors_slovakia.2.desc:0 "Несмотря на мужество наших войск, мы не смогли остановить продвижение венгерских войск. Германия вынудила наши страны прекратить огонь и урегулировала вопрос в пользу Венгрии. Поэтому мы были вынуждены уступить им; 78 муниципалитетов на территории 1697 км/2, заселенной 69930 жителей"
+ axis_minors_slovakia.2.a:0 "Германия обещала нам помочь!"
+
+ axis_minors_slovakia.3.t:0 "Триумф в Карпатии!"
+ axis_minors_slovakia.3.desc:0 "После наших успешных операций в восточной части Словакии, Германия заключила перемирие и перерисовала границу в нашу пользу! Теперь мы контролируем всю Карпатию и даже освободили несколько венгерских деревень. Солдаты поют, празднуют этот славный шаг на нашем пути восстановления Великой Венгрии."
+ axis_minors_slovakia.3.a:0 ""Мы все солдаты Миклоша Хорти.""
+
+ axis_minors_slovakia.4.t:0 "Наши военные потерпели неудачу против словаков"
+ axis_minors_slovakia.4.desc:0 "Похоже, мы недооценили словацкую армию. Они жестко отреагировали на наше наступление, которое длилось целую неделю. В то время как только мы добились прогресса, Германия решила вмешаться и установила благоприятное для Словакии перемирие."
+ axis_minors_slovakia.4.a:0 "Это небольшая оплошность."
+
+ axis_minors_slovakia.5.t:0 "Мы отбились от мерзких Мадьяр"
+ axis_minors_slovakia.5.desc:0 "После целой недели героического сопротивления, наши силы отбили венгерские вооруженные силы, которые вероломно напали на нас. Вмешательство нашего защитника, фюрера Германии, положило конец конфликту, признало нашу победу и приняло решение в нашу пользу."
+ axis_minors_slovakia.5.a:0 "Мы хотим только то, что по праву принадлежит нам."
+
+ axis_minors_slovakia.6.t:0 "Венгры напали на нас!"
+ axis_minors_slovakia.6.desc:0 "После завоевания ими Подкарпатья венгры утверждают, что граница была проведена неправильно. Чтобы исправить эту несправедливость, они начали небольшое наступление на нашу территорию. Мы запросили помощь у Германии, но они не хотят вмешиваться в данный момент, поскольку, кажется, не хотят ставить под угрозу свои отношения с Венгрией."
+ axis_minors_slovakia.6.a:0 "Мы должны защитить Отечество!"
+ 
+ axis_minors_slovakia.7.t:0 "Немцы хотят прекращения боевых действий."
+ axis_minors_slovakia.7.desc:0 "Война продолжается уже неделю и у немцев заканчивается терпение в отношении венгерско-словацкого конфликта. Немцы не хотели огорчать венгров и поначалу оставались в стороне от конфликта, но теперь, когда военные действия показали свою важность, пришло время положить конец этому конфликту между ее союзниками и посмотреть, нужно ли снова корректировать карту Европы."
+ axis_minors_slovakia.7.a:0 "Они, несомненно, будут благосклонны к нам."
+
+ axis_minors_slovakia.8.t:0 "Наше завоевание Карпатии завершено"
+ axis_minors_slovakia.8.desc:0 "Хотя мы добились огромного успеха в завоевании Карпатии, оно, тем не менее, является неполным. По другую сторону границы, в самой восточной части Словакии, также проживают русины, которые заслуживают того, чтобы присоединиться к нашей стране, потому что они не являются этническими словаками."
+ axis_minors_slovakia.8.a:0 "Мы должны быть уверены в германской поддержке."
+
+ axis_minors_slovakia.9.t:0 "Словацкая интервенция в Кощице"
+ axis_minors_slovakia.9.desc:0 "После объявления о том, что в Южной Чехословакии будет создано словацкое государство, словацкое население взяло в руки оружие и с вмешательством армии территория теперь надежно находится в словацких руках."
+ axis_minors_slovakia.9.a:0 "Только мы можем претендовать на эту территорию."  
+ 
+ axis_minors_slovakia.10.t:0 "Наследие прошлого"
+ axis_minors_slovakia.10.desc:0 "В то время как наша нация вступает в новую эру, наши текущие знания основаны на том, что было изучено в прошлом."
+ axis_minors_slovakia.10.a:0 "Вперед в светлое будущее!" 
+ 
+ #EFR vichy france
+ axis_minors_vichy_france.2.t:0 "Félix Éboué Joins the Free French Forces"
+ axis_minors_vichy_france.2.desc:0 "Félix Éboué, governor of French Equatorial Africa has announced that he will continue the fight against Germany, bringing with him French Equatorial Africa. This territory will now act as a basis in order to prepare the liberation of France." 
+ axis_minors_vichy_france.2.a:0 "Free France will continue the fight on land, air and sea."
+
+ axis_minors_vichy_france.3.t:0 "One Legitimate France"
+ axis_minors_vichy_france.3.desc:0 "With the defeat of the Marechalists, our government can exert autority over France and the empire. While some collaborators are still somewhere in exile, repression of Pétain's supporters by the 'French Forces of the Interior' (FFI) have lead to mass arrestations, executions. In addition, women who had affairs with the enemy were often shaven to be struck for months by the seal of infamy." 
+ axis_minors_vichy_france.3.a:0 "Vive la France!"
+
+ axis_minors_vichy_france.4.t:0 "The General Juin Joins the Free French Forces"
+ axis_minors_vichy_france.4.desc:0 "The general Alphonse Juin, who served in the Vichyst armistice army had decided to continue fight against the tyranny of Fascism."
+ axis_minors_vichy_france.4.a:0 "France Must be Freed!"
+
+ axis_minors_vichy_france.5.t:0 "The General Juin Joins the Free French Forces"
+ axis_minors_vichy_france.5.desc:0 "The general Alphonse Juin, betrayed us and joined the so called "Free French Forces". He is now our enemy as every one of those traitors who seeks to destroy the national revolution and deny France its place in the new european order by serving the interests of the [Root.GetFactionName]."
+ axis_minors_vichy_france.5.a:0 "Traitors will be exectued!" 
+
+ axis_minors_vichy_france.6.t:0 "The General De Lattre de Tassigny Criticized Collaboration"
+ axis_minors_vichy_france.6.desc:0 "One of our most reknowned officers, the talented general Delattre de Tassigny has criticized our politic of collaboration with Germany. This is a grave threat as he could try to join the so called Free French Forces of the General De Gaulle or spread confusion in what remains of our military forces."
+ axis_minors_vichy_france.6.a:0 "Arrest him!"
+ axis_minors_vichy_france.6.b:0 "Let him free." 
+ 
+ axis_minors_vichy_france.7.t:0 "De Lattre de Tassigny Attempted to Escape from prison"
+ axis_minors_vichy_france.7.desc:0 "The general De Lattre de Tassigny, who was imprisonned after he criticized our relation with Germany attempted to evade last night."
+ axis_minors_vichy_france.7.a:0 "He Must be Catched"
+ axis_minors_vichy_france.8.t:0 "De Lattre Escaped!"
+ axis_minors_vichy_france.8.desc:0 "Thee General Delattre de Tassigny escaped in a car in the night. We now have the received the confirmation that he joined the Free French Forces"
+ axis_minors_vichy_france.8.a:0 "Ah, the traitor!" 
+
+ axis_minors_vichy_france.9.t:0 "The General De Lattre de Tassigny Joins our Side!"
+ axis_minors_vichy_france.9.desc:0 "After a successful evasion, the general Delattre de Tassigny has successfully joined the Free French Forces. He is now ready to fight for the liberation of France."
+ axis_minors_vichy_france.9.a:0 "One more step in the liberation of France." 
+
+ axis_minors_vichy_france.10.t:0 "The General De Lattre Died while Attempting to Escape from Prison"
+ axis_minors_vichy_france.10.desc:0 "While a complex evasion was attempted by a terrorist group backed by the anti-french judeo-british forces, the courage of the French police enabled to foil the conspiracy. Sadly the general De Lattre died in the process."
+ axis_minors_vichy_france.10.a:0 "He Was a Traitor Anyway."
+ axis_minors_vichy_france.11.t:0 "The General De Lattre Died while Attempting to Escape from Prison"
+ axis_minors_vichy_france.11.desc:0 "While a complex evasion was attempted by a terrorist group backed by the anti-french judeo-british forces, the courage of the French police enabled to foil the conspiracy. Sadly the general De Lattre died in the process."
+ axis_minors_vichy_france.11.a:0 "A Martyr of the Liberation." 
+
+ axis_minors_vichy_france.12.t:0 "Talented offcier promoted"
+ axis_minors_vichy_france.12.desc:0 "As the war continue, new talents are allowed to show their commanding ability on the battlefield. One of those talented officers was recently promoted to the rank of general and is ready to be assigned a commandement."
+ axis_minors_vichy_france.12.a:0 ""Vive la Classe""
+ axis_minors_vichy_france.13.t:0 "Talented offcier promoted"
+ axis_minors_vichy_france.14.t:0 "Talented offcier promoted" 
+ axis_minors_vichy_france.17.t:0 "Confirmation of the French Occupation Zone"
+ axis_minors_vichy_france.17.desc:0 "According to the Article II of the convention of armistice between the French State and the German Reich: "To safeguard the interests of the German Reich, French State territory north and west of the line drawn on the attached map will be occupied by German troops. As far as the parts to be occupied still are not in control of German troops, this occupation will be carried out immediately after the conclusion of this treaty."\n\n Therefore any territory that is unlawfully under the control of the French government must be put under the control of the Militärbefehlshaber in Frankreich."
+ axis_minors_vichy_france.17.a:0 "The armistice must be respected."
+ 
+ axis_minors_vichy_france.18.t:0 "Hiding Military Equipment"
+ axis_minors_vichy_france.18.desc:0 "After the armistice, some elements in the military planned to create caches in order to saveguard some of the content of the military arsenals in order to have equipment available."
+ axis_minors_vichy_france.18.a:0 "Prepare the caches." 
+ axis_minors_vichy_france.18.b:0 "The armistice must be respected."
+ 
+ axis_minors_vichy_france.20.t:0 "Germany is about to Invade the Free Zone!"
+ axis_minors_vichy_france.20.desc:0 "With the loss of our colonial empire, the enemy presence in mediterranean caused fear in the german high command that the allies would land in southern France. They have are now preparing to invade our territory while our defenseless and the majority of the government wants to continue the collaboration."
+ axis_minors_vichy_france.20.a:0 "Forbade the officers to respond militarily, they are here to protect us."
+ axis_minors_vichy_france.20.b:0 "This is a treason, we must resist! Aux armes!"
+ axis_minors_vichy_france.20.c:0 "Take a plane to Africa and join De Gaulle."
+ axis_minors_vichy_france.20.d:0 "Persuade the chancellor of the Reich to continue the collaboration."
+ 
+ axis_minors_vichy_france.21.t:0 "Zazous Dancing Contests are Disturbing Public Order!"
+ axis_minors_vichy_france.21.desc:0 "Recently groups of Zazous are creating more and more problems. While on the surface they are simply weirdly dressed young people, they are actually a disturbing force. By wearing long clothes while access to fabric is restricted, following the american love for the zoot suit or sewing a yellow star on their jacket with "Swing" or "Goi" written on it, they are openly defying autority. Those jazz lovers have recently organized dancing competitions that have attracted even more young people on that path of debauchery."
+ axis_minors_vichy_france.21.a:0 "Those people are corrupt physically and morally."
+
+ axis_minors_vichy_france.22.t:0 "A new hope in Africa."
+ axis_minors_vichy_france.22.desc:0 "With the signature of the armistice, most of France is now occupied or "neutral". But a handful of officers gathered behind the General de Gaulle in order to continue the fight. They struck their first success when they obtained the rallying of Félix Eboué, colonial governor of French Equatorial Africal. A free french government has been established as the "comitee for the defense of the Empire", resolved to fight nazism and free France from foreign occupation."
+ axis_minors_vichy_france.22.a:0 "We must continue the fight, France must be freed!""

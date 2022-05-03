@@ -1,0 +1,27 @@
+﻿#####-----> Achievements Localization by Greatexperiment <><> <><> <><> <><> <><>
+
+l_russian:
+
+###---> Achievements <><> <><> <><>
+ r56_local_text_achievements_group: "Сверни меня"
+ 
+#-> Achievement Tooltips <><>
+        r56_tooltip_achievements_01: "Чистка, Чистка и еще раз Чистка \n §RФокус "Контр-переворот" завершен в Советском древе§!"
+        r56_tooltip_achievements_02: "Некровомбикон"
+        r56_tooltip_achievements_03: "Некровомбикон"
+        r56_tooltip_achievements_04: "Некровомбикон"
+        r56_tooltip_achievements_05: "Некровомбикон"
+        r56_tooltip_achievements_06: "Некровомбикон"
+        r56_tooltip_achievements_07: "Некровомбикон"
+        r56_tooltip_achievements_08: "Некровомбикон"
+        r56_tooltip_achievements_09: "Некровомбикон"
+        r56_tooltip_achievements_10: "Некровомбикон"
+        r56_tooltip_achievements_11: "Некровомбикон"
+        r56_tooltip_achievements_12: "Некровомбикон"
+        r56_tooltip_achievements_13: "Некровомбикон"
+        r56_tooltip_achievements_14: "Некровомбикон"
+        r56_tooltip_achievements_15: "Некровомбикон"
+        r56_tooltip_achievements_16: "Некровомбикон"
+ 
+ 
+#####-----> End of File <><> <><> <><> <><> <><>

@@ -1,0 +1,30 @@
+﻿l_russian:
+
+integration_mongolian_lands_category:0 "Интеграция монгольских земель"
+integration_mongolian_lands_category_desc:0 "Контроль земель, населенных монголами, дает нам возможность расширить наше управление этими регионами и интегрировать их в наше государство.."
+MON_decision_integrate_tuva:0 "Интеграция Тувы"
+MON_decision_integrate_mongolia:0 "Интеграция Монголии"
+MON_decision_integrate_south_chahar:0 "Интеграция Южного Чахара"
+MON_decision_integrate_north_chahar:0 "Интеграция Северного Чахара"
+MON_decision_integrate_suiyuan:0 "Интеграция Суйюаня"
+MON_decision_integrate_ordos:0 "Интеграция Ордоса"
+MON_decision_integrate_jiuquan:0 "Интеграция Цзюцюаня"
+MON_decision_integrate_buryatia:0 "Интеграция Бурятии"
+MON_decision_integrate_irkutsk:0 "Интеграция Иркутска"
+
+MON_go_on_pilgrimage_to_the_burkhan_khaldun:0 "Отправиться в паломничество в Бурхан Халдун"
+MON_go_on_pilgrimage_to_the_burkhan_khaldun_desc:0 "Самая святая гора в Монголии, Бурхан Халдун также была местом отдыха Чингисхана и его преемников. Место, имеющее большое значение для любого монгола, желающего доминировать над всеми под одним небом."
+
+mongol.7.t:0 "Танцующие тени"
+mongol.7.d:0 "Массовые политические перестановки произошли в государстве [SOV.GetNameDef]. Многие чиновники в [SOV.GetName] боятся, что[Root.GetName] можыт укрывать у себя врагов режима [SOV.GetLeader]. Они требуют, чтобы потенциальные враги [SOV.GetNameDef] были экстрадированы. Более того [SOV.GetLeader] считает товарища [Root.GetLeader] одним из тех, кто желает и будет помогать краху [SOV.GetNameDef]. Поэтому генсек желает его быстрого суда и казни."
+mongol.7.a:0 "Здесь нет пятой колонны. [Root.GetLeader] патриот и ярый коммунист."
+mongol.7.b:0 "[SOV.GetName] прав, антикоммунисты засели в тени."
+
+TAN_khertek_anchimaa_toka:0 "Хертек Анчимаа-Тока"
+TAN_kidispey_choodu:0 "Кидиспей Чоду"
+TAN_lapshyn_oyun:0 "Лапсхин Ойюн"
+TAN_seren_kuzhuget:0 "Серен Кужугет"
+
+
+GEN_tuva_annex_ussr:0 "Советы.. Что?"
+GEN_tuva_annex_ussr_desc:0 "Поздравляем! Вы обнаружии секретный фокус, предложенный кем-то на разногласиях команды Дороги к 56-му. Он думал, что его просьбу проигнорировали, но, несмотря ни на что, его призыв был услышан. Милостивый Вафл выслушал его молитву и воплотил в жизнь свою клятву под безлунным небом. Получайте удовольствие, наслаждаясь легким покорением тувинского мира."

@@ -1,0 +1,30 @@
+﻿l_russian:
+ HYD_mir_laiq_ali:0 "Мир Лайк Али"
+ HYD_janab_mohammad_abdus_sattar:0 "Джанаб Мохаммад Абдус Саттар"
+ HYD_bahadur_yar_jung:0 "Бахадур Йар Джанг"
+
+
+ # WLS_steel_company_of_wales:0 "Steel Company of Wales"
+ HYD_generic_industrial_concern:0 "Хайдерабадский сигаретный завод"
+ #fictious
+ HYD_generic_infantry_equipment_manufacturer:0 "Хайдарабадские кузницы"
+ HYD_generic_artillery_equipment_manufacturer:0 "Пражские иснтрументы"
+ HYD_generic_motorized_equipment_manufacturer:0 "«Олвин Метал Уоркс»" 
+  
+ #Nizam's Guaranteed State Railway
+ HYD_generic_tank_manufacturer:0 "«НГСР»"
+ HYD_generic_heavy_aircraft_manufacturer:0 "«Декан Эйрвейс Лимитед»"
+ HYD_generic_medium_aircraft_manufacturer:0 "«Декан Эйрвейс Лимитед»"
+
+#Parties
+ HYD_neutrality_party:0 "Династия Низам"
+ HYD_neutrality_party_long:0 "Династия Низам"
+
+ HYD_fascism_party:0 "Разакары"
+ HYD_fascism_party_long:0 "Разакары"
+ 
+ HYD_communism_party:0 "Движение Телангана"
+ HYD_communism_party_long:0 "Освободительное движение Телангана"
+ 
+ HYD_democratic_party:0 "Хайдерабад Удаар Самити"
+ HYD_democratic_party_long:0 "Хайдерабад Удаар Самити"

@@ -1,0 +1,15 @@
+﻿l_russian:
+ WLS_steel_company_of_wales:0 "Сталелитейная компания Уэльса"
+ WLS_generic_industrial_concern:0 "«Ричард Томас и Компания»"
+ WLS_generic_electronics_concern:0 "«Смит Инструментс»" 
+ WLS_generic_artillery_manufacturer:0 "РОФ Ньюпорт"
+ WLS_generic_infantry_equipment_manufacturer:0 "РОФ Хирваун"
+ WLS_generic_tank_manufacturer:0 "РОФ Кардифф"
+ WLS_generic_heavy_aircraft_manufacturer:0 "Завод «Викерс Хаварден»"
+ WLS_generic_light_aircraft_manufacturer:0 "«Аклес энд Поллок»"
+ WLS_generic_medium_aircraft_manufacturer:0 "РОФ Глазгод"
+ WLS_generic_naval_manufacturer:0 "Военно-морской завод в Каервенте" 
+ 
+ #Parties
+ WLS_democratic_party:0 "Plaid Cymru - Партия Уэльса"
+ WLS_democratic_party_long:0 "Plaid Cymru - Партия Уэльса"

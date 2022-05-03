@@ -1,0 +1,41 @@
+﻿l_russian:
+ 
+ SLV_fascism_party:0 "ССПС"
+ SLV_fascism_party_long:0 "СС-Партия Словении"
+ SLV_communism_party:0 "ФКС"
+ SLV_communism_party_long:0 "Федерация Коммунистов Словении"
+ SLV_neutrality_party:0 "Народное Собрание"
+ SLV_neutrality_party_long:0 "Народное Собрание Словении"
+ SLV_democratic_party:0 "(СПС)"
+ SLV_democratic_party_long:0 "Социалистическая Партия Словении"
+ 
+ SLV_anton_korosec:0 "Антон Корошеч"
+ SLV_bogumil_vosnjak:0 "Богумил Вошньяк"
+ SLV_boris_furlan:0 "Борис Фурлан"
+ SLV_ernest_peterlin:0 "Эрнест Петерлин"
+ SLV_fran_kulovec:0 "Франк Куловец"
+ SLV_franc_leskosek:0 "Франк Лескошек"
+ SLV_leon_rupnik:0 "Леон Рупник"
+ SLV_marko_natlacen:0 "Марко Натлачен"
+ SLV_vuk_rupnik:0 "Вук Рупник"
+ SLV_franc_krenner:0 "Франк Кренер"
+ SLV_niko_silih:0 "Нико Шилих"
+ 
+ SLV_franc_krener:0 "Франк Кренер"
+ SLV_milko_vizjak:0 "Милко Визьяк"
+ SLV_ernest_peterlin2:0 "Эрнест Петерлин"
+ SLV_peter_rozman:0 "Петер Розман"
+ SLV_ivan_crnkovic:0 "Иван Чрнкович"
+ SLV_mihajlo_tomasic:0 "Михайло Томашич"
+ SLV_ivan_prezelj:0 "Иван Прежелич"
+ SLV_karl_novak:0 "Карл Новак"
+ 
+ ###by Darkneon312
+ SLV_boris_kidric:0 "Борис Кидрич"
+ SLV_edvard_kardelj:0 "Эдвард Карделж"
+ SLV_zdenko_uzelic:0 "Жденко Юзелич"
+ SLV_ivan_kern:0 "Иван Керн"
+ SLV_dusan_kveder:0 "Душан Кведер"
+ SLV_josip_cerni:0 "Йосип Черный"
+
+ SLV_generic_industrial_concern:0 "Карниольская промышленная компания"

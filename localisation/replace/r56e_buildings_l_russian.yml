@@ -1,0 +1,24 @@
+﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
+
+#--> Buildings
+
+l_russian:
+
+
+ aluminum_mill:0 "Алюминиевая фабрика"
+ aluminum_mill_plural:0 "Алюминиевые фабрики"
+ aluminum_mill_desc:0 "Это здание предоставляет государству новые ресурсы"
+ aluminum_mill_amount:0 "$VALUE|Y0=$"
+ aluminum_mill_resource:0 "£resources_strip|$FRAME$" 
+ steel_mill:0 "Металлургическая фабрика"
+ steel_mill_plural:0 "Металлургические фабрики"
+ steel_mill_desc:0 "Это здание предоставляет государству новые ресурсы"
+ steel_mill_amount:0 "$VALUE|Y0=$"
+ steel_mill_resource:0 "£resources_strip|$FRAME$" 
+ rubber_refinery:0 "Резиновый НПЗ"
+ rubber_refinery_plural:0 "Резиновые НПЗ"
+ rubber_refinery_desc:0 "Это здание предоставляет государству новые ресурсы"
+ rubber_refinery_amount:0 "$VALUE|Y0=$"
+ rubber_refinery_resource:0 "£resources_strip|$FRAME$" 
+ 
+#####---------------------------------------------------------------------> End

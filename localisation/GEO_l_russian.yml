@@ -1,0 +1,19 @@
+﻿l_russian:
+ fate_of_georgia_category:0 "Судьба Грузии"
+ fate_of_georgia_category_desc:0 "Грузия, древнее царство с богатой историей, возвращающейся в средние века, ненадолго освободилось от русского ига после мировой войны. С большевиками пришел еще один тип российского господства. Через добровольцев из страны и членов старой элиты, проживающих в изгнании, можно восстановить свободу земли Тамар."
+ GEO_liberators:0 "Освободитель Грузии"
+ 
+ GEO_form_georgian_national_council:0 "Сформировать Грузинский Национальный совет"
+ GEO_establish_georgian_legion:0 "Завербовать Грузинский легион"
+ GEO_establish_georgian_legion_cost:0 "£army_experience §H10§! £pol_power §H25§! £command_power §H25§!"
+ GEO_establish_georgian_legion_cost_blocked:0 "£army_experience §R10§! £pol_power §R25§! £command_power §R25§!"
+ GEO_establish_georgian_legion_cost_tooltip:0 "Стоимость принятия £army_experience 10, £pol_power 25 и £command_power 25."
+ GEO_establish_national_georgian_government:0 "Создание Национального правительства Грузии"
+ 
+ GEO_event.1.t:0 "Добровольцы желают вернуться домой!"
+ GEO_event.1.desc:0 "Волонтерские подразделения были сформированы для борьбы с [SOV.GetName] во имя свободной Грузии. С поражением [SOV.GetAdjective], эти добровольцы чувствуют, что их миссия выполнена и они хотят, чтобы их отправляли домой." 
+ GEO_event.1.a:0 "Убедите их остаться немного дольше." 
+ GEO_event.1.b:0 "Уничтожьте их."  
+ 
+ 
+ GEO_generic_light_aircraft_manufacturer:0 "Тбилисская авиастроительная государственная ассоциация"

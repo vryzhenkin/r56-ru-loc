@@ -1,0 +1,389 @@
+﻿l_russian:
+
+ #####-----> Game Rules Localization <><> <><> <><> <><> <><>
+ 
+ ###---> Country Boosts <><> <><> <><>
+ CUSTOM_DIFFICULTY_GROUP_NAME:0 "Усиление стран"
+ 
+ ###---> Focus Tree Selection <><> <><> <><>
+ RULE_GROUP_CHOOSE_FOCUS_TREE:0 "Выбор дерева фокусов"
+ 
+ RULE_OPTION_R56_TREE:0 "Дерево фокусов мода"
+ RULE_OPTION_R56_TREE_DESC:0 "Использование дерева фокусов "Дороги к 56" по умолчанию, которое поставляется вместе с модом."
+ RULE_OPTION_STANDARD_TREE:0 "Стандартное дерево фокусов"
+ RULE_OPTION_STANDARD_TREE_DESC:0 "Использование стандартного дерева дереве национальных фокусов, которое входит в базовую версию игры. Любые платные деревья или пути фокусов по-прежнему требуют соответствующего загружаемого контента."
+ 
+ AST_FOCUS_TREE_SELECTION:0 "@AST Австралия"
+ GER_FOCUS_TREE_SELECTION:0 "@GER Германия"
+ HOL_FOCUS_TREE_SELECTION:0 "@HOL Нидерланды"
+ MEX_FOCUS_TREE_SELECTION:0 "@MEX Мексика (непереведено)"
+ SAF_FOCUS_TREE_SELECTION:0 "@SAF Южная Африка"
+ CAN_FOCUS_TREE_SELECTION:0 "@CAN Канада (непереведено)"
+ RAJ_FOCUS_TREE_SELECTION:0 "@RAJ Индия (непереведено)" 
+ SPR_FOCUS_TREE_SELECTION:0 "@SPR Испания"
+ POR_FOCUS_TREE_SELECTION:0 "@POR Португалия"
+ GRE_FOCUS_TREE_SELECTION:0 "@GRE Греция"
+ BUL_FOCUS_TREE_SELECTION:0 "@BUL Болгария"
+ TUR_FOCUS_TREE_SELECTION:0 "@TUR Турция"  
+ 
+ 
+ ###---> AI Behavior <><> <><> <><>
+ RULE_GROUP_AI_BEHAVIOR:0 "Поведение ИИ"
+ RULE_OPTION_DEFAULT_AI_DESC:0 "ИИ будет принимать решения, основываясь на других настройках игрового процесса, таких как возможность навязывать исторические фокусы и другие сценарии игрового процесса."
+
+ #-> Generic <><>
+ RULE_OPTION_AUTHORITARIAN:0 "Авторитаризм"
+ RULE_OPTION_AUTHORITARIAN_HISTORICAL:0 "Авторитаризм - историчный"
+ RULE_OPTION_MONARCHIST:0 "Монархизм"
+ RULE_OPTION_MONARCHIST_HISTORICAL:0 "Монархизм - историчный"
+ RULE_OPTION_DEMOCRATIC_ALTERNATE_AI_DESC:0 "Страна пойдет по неисторическому демократическому пути."
+ 
+ #-> Rt56 AI <><>
+ RT56_AI_BEHAVIOR:0 "Поведение ИИ The Road to 56"
+ RULE_OPTION_DEFAULT_RT56_AI:0 "По умолчанию (Рекомендуется)"
+ RULE_OPTION_DEFAULT_RT56_AI_DESC:0 "Рекомеднованные настройки поведения ИИ The Road to 56. Активированы сценарии и стратегии ИИ для предотвращения принятия ИИ сомнительных решений."
+ RULE_OPTION_OLD_SCHOOL:0 "Старая школа"
+ RULE_OPTION_OLD_SCHOOL_AI_DESC:0 "Сценарии и стратегии ИИ, которые не позволяют ИИ делать сомнительный выбор, были отключены. Подобно тому, как ИИ отреагировал в 2017 году на The Road to 56. Сюда входят предательства фракций и союзников, а также плохие объявления войн."
+ 
+ #-> ALB: Albania <><>
+ ALB_AI_BEHAVIOR:0 "@ALB Албания"
+ RULE_OPTION_MONARCHIST_HISTORICAL_ALB_AI_DESC:0 "Албанский ИИ поддержит короля и пойдет по направлению конституционной монархии, пройдя по соответствующему пути в дереве национального дереве национальных фокусов."
+ 
+ #-> AUS: Austria <><>
+ AUS_AI_BEHAVIOR:0 "@AUS Австрия"
+ RULE_OPTION_AUTHORITARIAN_HISTORICAL_AUS_AI_DESC:0 "Австрийский ИИ не будет фокусироваться на политических делах, вместо этого будет наращивать свою промышленность, идя по соответствующему пути в дереве национального дереве национальных фокусов."
+ 
+ #-> ENG: United Kingdom <><>
+ RULE_OPTION_VISIT_GERMANY:0 "Государственный визит в Германию"
+ RULE_OPTION_VISIT_GERMANY_ENG_AI_DESC:0 "Британский ИИ выберет государственный визит в Германию и станет фашистом, пройдя по соответствующему пути в дереве национального дереве национальных фокусов."
+ 
+ #-> FRA: France <><>
+ FRA_AI_BEHAVIOR:0 "@FRA Франция"
+ RULE_OPTION_DEMOCRATIC_LITTLE_ENTENTE_FRA:0 "Демократия - Малая Антанта"
+ RULE_OPTION_DEMOCRATIC_LITTLE_ENTENTE_FRA_AI_DESC:0 "Французский ИИ поддержит Блюма и создаст альянс «Малая Антанта», пройдя по соответствующему пути в дереве национального дереве национальных фокусов"
+ RULE_OPTION_DEMOCRATIC_HISTORICAL_FRA_AI_DESC:0 "Французский ИИ поддержит Даладье и последует пути статуса-кво и присоединения к Союзникам, пройдя по соответствующему пути в дереве национального дереве национальных фокусов."
+ RULE_OPTION_COMMUNIST_HUMANITE_UNIE_FRA:0 "Коммунизм - Единство человечества"
+ RULE_OPTION_COMMUNIST_HUMANITE_UNIE_FRA_AI_DESC:0 "Французский ИИ радикализирует фронт и отвергнет власть Москвы в создании собственного коммунистического альянса, пройдя по соответствующему пути в дереве национального дереве национальных фокусов."
+ RULE_OPTION_COMMUNIST_COMINTERN_FRA:0 "Коммунизм - Коминтерн"
+ RULE_OPTION_COMMUNIST_COMINTERN_FRA_AI_DESC:0 "Французский ИИ радикализирует фронт и останется лояльным по отношению к Советам и в конечном итоге попытается присоединиться к Коминтерну, пройдя по соответствующему пути в дереве национального дереве национальных фокусов."
+ RULE_OPTION_FASCIST_FRONT_LIBERTE_FRA:0 "Фашизм - Front Liberté"
+ RULE_OPTION_FASCIST_FRONT_LIBERTE_FRA_AI_DESC:0 "Французский ИИ поддержит крайне правые лиги и проведет референдум, в результате которого новое фашистское государство пожелает присоединиться к Оси, пройдя по соответствующему пути в дереве национального дереве национальных фокусов."
+ RULE_OPTION_FASCIST_LA_CAGOULE_COUP_FRA:0 "Фашизм - Переворот Кагуляров"
+ RULE_OPTION_FASCIST_LA_CAGOULE_COUP_FRA_AI_DESC:0 "Французский ИИ поддержит ультраправые лиги и устроит государственный переворот, ведущий к агрессивному фашистскому государству настроенному против Германии, пройдя по соответствующему пути в дереве национального дереве национальных фокусов."
+ RULE_OPTION_MONARCHIST_ORLEANISTS_FRA:0 "Монархизм - Орлеанисты"
+ RULE_OPTION_MONARCHIST_ORLEANISTS_FRA_AI_DESC:0 "Французский ИИ восстановит монархию и примет сторону Орлеанистов и сформирует альянс «Латинский Союз», пройдя по соответствующему пути в дереве национального дереве национальных фокусов."
+ RULE_OPTION_MONARCHIST_BONAPARTISTS_FRA:0 "Монархизм - Бонапартисты"
+ RULE_OPTION_MONARCHIST_BONAPARTISTS_FRA_AI_DESC:0 "Французский ИИ восстановит монархию и примет сторону Бонапартистов и установит новую Континентальную систему, пройдя по соответствующему пути в дереве национального дереве национальных фокусов."
+ RULE_OPTION_MONARCHIST_LEGITIMISTS_FRA:0 "Монархизм - Легитимисты"
+ RULE_OPTION_MONARCHIST_LEGITIMISTS_FRA_AI_DESC:0 "Французский ИИ восстановит монархию и примет сторону Легитимистов."
+
+
+  #-> BEL: Belgium <><>
+ BEL_AI_BEHAVIOR:0 "@BEL Бельгия"
+ RULE_OPTION_DEMOCRATIC_BEL_ALLY_BRITAIN:0 "Демократия - Союзник Британии"
+ RULE_OPTION_DEMOCRATIC_BEL_ALLY_BRITAIN_AI_DESC:0 "Бельгийский ИИ постарается как можно скорее заключить союз с Великобританией." 
+ RULE_OPTION_DEMOCRATIC_BEL_BENELUX:0 "Демократия - Формирование Бенилюкса"
+ RULE_OPTION_DEMOCRATIC_BEL_BENELUX_AI_DESC:0 "Бельгийский ИИ возглавит демократический альянс Нижних Земель."
+ RULE_OPTION_COMMUNISM_BEL_COMINTERN:0 "Коммунизм - Вступление в Коминтерн"
+ RULE_OPTION_COMMUNISM_BEL_COMINTERN_AI_DESC:0 "Бельгийский ИИ пойдет по коммунистическому пути и будет следовать приказам Москвы."
+ RULE_OPTION_COMMUNISM_BEL_INDEPENDENT:0 "Коммунизм - Независимая революция"
+ RULE_OPTION_COMMUNISM_BEL_INDEPENDENT_AI_DESC:0 "Бельгийский ИИ станет коммунистическим не признавая авторитета СССР."
+ RULE_OPTION_FASCISM_BEL_VERDINASO:0 "Фашизм - Вердинасо"
+ RULE_OPTION_FASCISM_BEL_VERDINASO_AI_DESC:0 "Бельгийский ИИ примем фашизм и во главе с Йорисом Ван Севереном."
+ RULE_OPTION_FASCISM_BEL_REX:0 "Фашизм - Рексисты"
+ RULE_OPTION_FASCISM_BEL_REX_AI_DESC:0 "Бельгийский ИИ примем фашизм и во главе с Леоном Дегрелем."
+
+
+ #-> CHI China <><>
+ CHI_AI_BEHAVIOR:0 "@CHI Китай"
+ RULE_OPTION_CHI_NEUTRALITY_HISTORICAL:0 "Нейтралитет - историчный"
+ RULE_OPTION_CHI_NEUTRALITY_HISTORICAL_AI_DESC:0 "Китайская Республика создаст нестабильный союз с КНР, чтобы спасти китайскую нацию от японского империализма, и далее будет следовать историческому пути в дереве национального дереве национальных фокусов"
+ RULE_OPTION_CHI_NEUTRALITY_ALTERNATE:0 "Нейтралитет - Внутреняя безопасность"
+ RULE_OPTION_CHI_NEUTRALITY_ALTERNATE_AI_DESC:0 "Китай последует указаниям Гоминьдана и первым нанесет удар по КНР и военачальникам, закрепив свое господство на Центральной равнине."
+ RULE_OPTION_CHI_DEMOCRATIC:0 "Наследие Сунь Ятсеня"
+ RULE_OPTION_CHI_DEMOCRATIC_AI_DESC:0 "Гоминьдан будет склоняться к своему гражданскому крылу, чтобы стать первым оплотом демократии в Азии и потенциально союзником основных демократий мира."
+ RULE_OPTION_CHI_FASCIST_GERMAN:0 "Власть Синерубашечников"
+ RULE_OPTION_CHI_FASCIST_GERMAN_AI_DESC:0 "Китай будет следовать политике движений синих рубашек, поддержке фашистское дела перед Германией и будет добиваться восстановления территорий, потерянных в пользу империалистов, одновременно выступая против распространения коммунизма в Средней Азии."
+ RULE_OPTION_CHI_FASCIST_JAPAN:0 "Великая Восточноазиатская сфера сопроцветания"
+ RULE_OPTION_CHI_FASCIST_JAPAN_AI_DESC:0 "Осознавая угрозу, которую представляют империалисты в лице Британии и Франции стабильности Восточной Азии, Ван Цзинвэй сформирует прояпонское правительство сотрудничества, которое станет союзником Империи Восходящего Солнца и очистит Азию от военачальников и европейских колонизаторов."
+
+  #-> CHL Chile <><>
+ CHL_AI_BEHAVIOR:0 "@CHL Чили"
+ RULE_OPTION_NEUTRALITY_CHL_LIBERAL_PARTY:0 "Нейтралитет - Либеральная партия"
+ RULE_OPTION_NEUTRALITY_CHL_LIBERAL_PARTY_AI_DESC:0 "Либеральная партия сохранит власть."
+ RULE_OPTION_FASCISM_CHL:0 "Фашизм"
+ RULE_OPTION_FASCISM_CHL_AI_DESC:0 "Американская Пруссия примет южноамериканский нацизм."
+ RULE_OPTION_COMMUNISM_CHL:0 "Коммунизм"
+ RULE_OPTION_COMMUNISM_CHL_AI_DESC:0 "Станет коммунистом."
+ 
+ 
+ #-> GER: Germany <><>
+ GER_AI_BEHAVIOR:0 "@GER Германия"
+ RULE_OPTION_DEMOCRATIC_GER_AI_DESC:0 "Германский ИИ попытается восстановить демократический свет и будет стремиться к миру или к прочному оборонительному альянсу с Европой, пройдя по соответствующему пути в дереве национального дереве национальных фокусов. \n§YЭта опция будет адаптироваться в зависимости от того, какое дерево дереве национальных фокусов вы выбрали (Стандартное или мода).§! \n§RТребуется расширение «Waking the Tiger», если выбрано стандартное дерево фокусов.§!"
+ RULE_OPTION_COMMUNIST_GER_AI_DESC:0 "Германский ИИ попытается разжечь красное пламя революции и перейти к коммунизму, что приведет либо к сотрудничеству с Советами, либо к его собственной сфере влияния.\n§RЭта опция работает только при выбранном дереве дереве национальных фокусов The Road to 56. Если выбрано стандартное дерево фокусов, ИИ выберет случайный путь.§!"
+ RULE_OPTION_FASCIST_HISTORICAL_GER_AI_DESC:0 "Германский ИИ ремилитаризует Рейнскую область и расширил свой «Лебенсраум» и влияние в Европе, используя агрессивные методы, пройдя по соответствующему пути в дереве национального дереве национальных фокусов.\n§YЭта опция будет адаптироваться в зависимости от того, какое дерево фокусов вы выбрали (Стандартное или мода).§!"
+ RULE_OPTION_MONARCHIST_GER_AI_DESC:0 "Германский ИИ попытается восстановить кайзера и вернуть Германскую империю, которая поведет к знакомым альянсам и территориальным экспансиям, пройдя по соответствующему пути в дереве национального дереве национальных фокусов.\n§YЭта опция будет адаптироваться в зависимости от того, какое дерево фокусов вы выбрали (Стандартное или мода).§!\n§RТребуется расширение «Waking the Tiger», если выбрано стандартное дерево фокусов.§!"
+ 
+ #-> ITA: Italy <><>
+ ITA_AI_BEHAVIOR:0 "@ITA Италия"
+ RULE_OPTION_FASCIST_HISTORICAL_ITA_AI_DESC:0 "Итальянский ИИ (попытается) победит в Эфиопии и продолжит медленную военную экспансию в Европе, прежде чем в конечном итоге вступит в союз с Германией."
+ RULE_OPTION_FASCIST_STRESA_FRONT:0 "Фашизм - Возрождение Фронта Стрезы"
+ RULE_OPTION_FASCIST_STRESA_FRONT_ITA_AI_DESC:0 "Итальянский ИИ попытается заставить Британию и Францию возродить Фронт Стрезы в ответ на растущую враждебность Германии и сосредоточится на защите Европы."
+ RULE_OPTION_FASCIST_ROME_PROTOCOLS:0 "Фашизм - Милитаризация Римских протоколов"
+ RULE_OPTION_FASCIST_ROME_PROTOCOLS_ITA_AI_DESC:0 "Итальянский ИИ попытается милитаризировать Римские протоколы с Австрией и Венгрией. После этого будет предпринята попытка территориальной экспансии в Европе вместе с растущей фракцией латиноамериканских членов."
+ RULE_OPTION_MONARCHIST_ITA_AI_DESC:0 "Итальянский ИИ разожжет гражданскую войну и (надеюсь) выйдет победителем, поставив Виктора Эммануила III во главе страны."
+ 
+ #-> MEX: Mexico <><>
+ MEX_AI_BEHAVIOR:0 "@MEX Мексика"
+ 
+ #-> SIA: Siam <><>
+ SIA_AI_BEHAVIOR:0 "@SIA Сиам"
+ RULE_OPTION_DEMOCRATIC_LIBERAL_SIA:0 "Демократия - Либерализм"
+ RULE_OPTION_DEMOCRATIC_LIBERAL_SIA_AI_DESC:0 "Сиамский ИИ сформирует либерально-демократическое правительство и попытается объединиться с другой демократической нацией, пройдя по соответствующему пути в дереве национального дереве национальных фокусов."
+ RULE_OPTION_DEMOCRATIC_CONSERVATIVE_SIA:0 "Демократия - Консерватизм"
+ RULE_OPTION_DEMOCRATIC_CONSERVATIVE_SIA_AI_DESC:0 "Сиамский ИИ сформирует консервативное демократическое правительство и попытается вступить в союз с другой демократической нацией, пройдя по соответствующему пути в дереве национального дереве национальных фокусов."
+ RULE_OPTION_COMMUNIST_SOVIET_SIA:0 "Коммунизм - Советская модель"
+ RULE_OPTION_COMMUNIST_SOVIET_SIA_AI_DESC:0 "Сиамский ИИ установит коммунистический режим, следуя советской модели и попытается присоединиться к Коминтерну, пройдя по соответствующему пути в дереве национального дереве национальных фокусов."
+ RULE_OPTION_COMMUNIST_PEASANT_SIA:0 "Коммунизм - Крестьянский коммунизм"
+ RULE_OPTION_COMMUNIST_PEASANT_SIA_AI_DESC:0 "Сиамский ИИ установит коммунистический режим через построение социализма, предназначенного для их крестьян и попытается создать альянс с другими азиатскими коммунистическими нациями, пройдя по соответствующему пути в дереве национального дереве национальных фокусов."
+ RULE_OPTION_FASCIST_HISTORICAL_SIA_AI_DESC:0 "Сиамский ИИ объединит Кхана Ратсадон и в дальнейшем уклонится к фашизму и может объединиться с одной из держав Оси, пройдя по соответствующему пути в дереве национального дереве национальных фокусов."
+ RULE_OPTION_MONARCHIST_SIA_AI_DESC:0 "Сиамский ИИ восстановит монархию, вернув Раму VII, пройдя по соответствующему пути в дереве национального дереве национальных фокусов."
+ 
+ #-> SOV: Russia <><>
+ RULE_OPTION_ANTI_CAPITALIST_DIPLOMACY:0 "Антикапиталистическая дипломатия"
+ RULE_OPTION_ANTI_CAPITALIST_DIPLOMACY_SOV_AI_DESC:0 "Советский Союз проигнорирует фашистскую угрозу и подорвет основные капиталистические державы, стремясь также к агрессивной экспансии в Китае и на Ближнем Востоке."
+ RULE_OPTION_WORLD_REVOLUTION:0 "Троцкитская мировая революция"
+ RULE_OPTION_ANTI_WORLD_REVOLUTION_SOV_AI_DESC:0 "Советский Союз попытается вернуть Троцкого и пойти по ветке фокусов Мировой Революции."
+ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Возвращение Царя"
+ RULE_OPTION_RETURN_OF_THE_TSAR_SOV_AI_DESC:0 "Романов вернётся на Российский престол."
+ RULE_OPTION_RUSSIAN_FASCISM:0 "Русский фашизм"
+ RULE_OPTION_RUSSIAN_FASCISM_SOV_AI_DESC:0 "Фашисты из Маньчжурии выиграют борьбу за власть."
+ RULE_OPTION_RUSSIAN_REPUBLIC:0 "Новая республика"
+ RULE_OPTION_RUSSIAN_REPUBLIC_SOV_AI_DESC:0 "Россия избавится от коммунизма и установит демократию."
+
+ #-> SWE: Sweden <><>
+ SWE_AI_BEHAVIOR:0 "@SWE Швеция"
+ RULE_OPTION_DEMOCRATIC_HISTORICAL_SWE_AI_DESC:0 "Шведский ИИ будет придерживаться демократии и политики нейтралитета."
+ RULE_OPTION_COMMUNIST_SWE_AI_DESC:0 "Шведский ИИ отменит Аландскую конвенцию и пойдет по пути коммунизма."
+ RULE_OPTION_FASCIST_SWE_AI_DESC:0 "Шведский ИИ отменит Аландскую конвенцию и пойдет по пути фашизма."
+ RULE_OPTION_MONARCHIST_SWE_AI_DESC:0 "Шведский ИИ введет короля в Совет, передав ему полную власть и сформировав фракцию Северного сияния."
+ 
+ #-> TUR: Turkey <><>
+ TUR_AI_BEHAVIOR_R56:0 "@TUR Турецкое древо фокусов Дорожки"
+ TUR_AI_BEHAVIOR:0 "@TUR Турция"
+ RULE_OPTION_DEMOCRATIC_TUR_AI_DESC:0 "Турецкий ИИ будет следовать наследию Ататюрка, но после все возрастающего враждебного влияния в Европе, в конечном итоге, перейдет к демократии и присоединится к Союзникам."
+ RULE_OPTION_COMMUNIST_TUR_AI_DESC:0 "Турецкий ИИ освободит Хюсню из ссылки, что приведет к полноценной коммунистической революции, за которой последует либо сотрудничество с Советами, либо создание собственной сферы влияния."
+ RULE_OPTION_FASCIST_TUR_AI_DESC:0 "Турецкий ИИ будет поддерживать фашистских офицеров, что приведет к фашистской диктатуре и тесному сотрудничеству с Германией наряду с потенциальным членством в Оси."
+ RULE_OPTION_ATATURK_HISTORICAL:0 "Наследие Ататюрка - историчный"
+ RULE_OPTION_ATATURK_HISTORICAL_TUR_AI_DESC:0 "Турецкий ИИ укрепит наследие Ататюрка и сосредоточится на нейтралитете, подписав несколько пактов с другими странами."
+ 
+ #-> YUG: Yugoslavia <><>
+ RULE_OPTION_COMMUNIST_YUG_AI_DESC:0 "The Yugoslavian AI will go communist under Tito and attempt to join the Comintern."
+
+ ###---> Map Fragmentation <><> <><> <><>
+ RULE_GROUP_GAME_SETUP:0 "Раздробленность карты"
+ 
+ #adding flags base game titles
+ ENG_FRAGMENTATION_STATUS:0 "@ENG Статус раздробленности Британии"
+ YUG_FRAGMENTATION_STATUS:0 "@YUG Статус раздробленности Югославии"
+ SOV_FRAGMENTATION_STATUS:0 "@SOV Статус раздробленности Советского Союза"
+ RAJ_FRAGMENTATION_STATUS:0 "@RAJ Статус раздробленности Индии"
+
+ RULE_OPTION_YUG_FRAGMENTED_DESC:0 "Все высвобождаемые государства, составляющие Югославию, освобождаются как свободные и независимые нации на начало игры. Если вы выберете Югославию, вы начнете игру за Сербию."
+ RULE_OPTION_YUG_FRAGMENTED_SERBIA:0 "Югославия раздроблена - Сербия"
+ RULE_OPTION_YUG_FRAGMENTED_SERBIA_DESC:0 "При выборе Югославии вы начнете игру за Сербию." 
+ RULE_OPTION_YUG_FRAGMENTED_CROATIA:0 "Югославия раздроблена - Хорватия"
+ RULE_OPTION_YUG_FRAGMENTED_CROATIA_DESC:0 "При выборе Югославии вы начнете игру за Хорватию."
+ 
+ #new fragmentations
+ BEL_FRAGMENTATION_STATUS:0 "@BEL Статус раздробленности Бельгии"
+ RULE_OPTION_BEL_FRAGMENTED:0 "Бельгия раздроблена"
+ RULE_OPTION_BEL_FRAGMENTED_DESC:0 "Все высвобождаемые государства, составляющие Бельгию, освобождаются как свободные и независимые нации на начало игры. Если вы выберете Бельгию, вы начнете игру за Фландрию."
+ RULE_OPTION_BEL_FRAGMENTED_GREATER_FLANDERS:0 "Великая Фландрия"
+ RULE_OPTION_BEL_FRAGMENTED_GREATER_FLANDERS_DESC:0 "Разделение Бельгии между Фландрией и Валлонией, но Фландрия берет под свой контроль регион Нор-Па-де-Кале. Если вы выберете Бельгию, вы начнете игру за Фландрию."
+ 
+ CZE_FRAGMENTATION_STATUS:0 "@CZE Статус раздробленности Чехословакии"
+ RULE_OPTION_CZE_FRAGMENTED:0 "Чехословакия раздроблена"
+ RULE_OPTION_CZE_FRAGMENTED_DESC:0 "Все высвобождаемые государства, составляющие Чехословакию, освобождаются как свободные и независимые нации на начало игры."
+ RULE_OPTION_CZE_DECENTRALIZED:0 "Чехословакия децентрализована"
+ RULE_OPTION_CZE_DECENTRALIZED_DESC:0 "Все высвобождаемые государства, составляющие Чехословакию, освобождаются как марионетки на начало игры."
+ RULE_OPTION_ENG_FRAGMENTED_IRE_UNITED:0 "Объединенная Ирландия"
+ RULE_OPTION_ENG_FRAGMENTED_IRE_UNITED_DESC:0 "Вместо того, чтобы освобождать Северную Ирландию вместе с другими странами, образующими Соединенное Королевство, Ирландия возьмет под свой контроль север своего острова."
+ RULE_OPTION_ENG_FRAGMENTED_CELTIC_UNION:0 "Кельтское объединение"
+ RULE_OPTION_ENG_FRAGMENTED_CELTIC_UNION_DESC:0 "Все кельтские государства будут объединены под шотландским правлением. Если вы выберете Ирландию, вы начнете игру за Кельтский союз."
+ DEN_FRAGMENTATION_STATUS:0 "@DEN Статус раздробленности Дании"
+ RULE_OPTION_DEN_FRAGMENTED:0 "Дания раздроблена"
+ RULE_OPTION_DEN_FRAGMENTED_DESC:0 "Все высвобождаемые государства, составляющие Данию, освобождаются как свободные и независимые нации на начало игры."
+ RULE_OPTION_DEN_DECENTRALIZED:0 "Дания децентрализована"
+ RULE_OPTION_DEN_DECENTRALIZED_DESC:0 "Все высвобождаемые государства, составляющие Данию, освобождаются как марионетки на начало игры."
+ 
+ SPR_FRAGMENTATION_STATUS:0 "@SPR Статус раздробленности Испании"
+ RULE_OPTION_SPR_FRAGMENTED:0 "Испания раздроблена"
+ RULE_OPTION_SPR_FRAGMENTED_DESC:0 "Все высвобождаемые государства, составляющие Испанию, освобождаются как свободные и независимые нации на начало игры."
+ RULE_OPTION_SPR_DECENTRALIZED:0 "Испания децентрализована"
+ RULE_OPTION_SPR_15TH_CENTURY_ARAGON:0 "15-й век Арагона"
+ RULE_OPTION_SPR_15TH_CENTURY_ARAGON_DESC:0 "Каталония будет контролировать южную Италию. Если вы выберете Испанию, вы начнете игру за Каталонию."
+ RULE_OPTION_SPR_DECENTRALIZED_DESC:0 "Все высвобождаемые государства, составляющие Испанию, освобождаются как марионетки на начало игры."
+ RULE_OPTION_SPR_ANDALUSIA:0 "Андалусия"
+ RULE_OPTION_SPR_ANDALUSIA_DESC:0 "Чтобы играть за Андалусию, выберите Испанию."
+ FRA_FRAGMENTATION_STATUS:0 "@FRA Статус раздробленности Континентальной Франции"
+ RULE_OPTION_FRA_FRAGMENTED:0 " Франция раздроблена"
+ RULE_OPTION_FRA_FRAGMENTED_DESC:0 "Все высвобождаемые государства, составляющие Континентальную Францию, освобождаются как свободные и независимые нации на начало игры."
+ RULE_OPTION_FRA_DECENTRALIZED:0 "Франция децентрализована"
+ RULE_OPTION_FRA_DECENTRALIZED_DESC:0 "Все высвобождаемые государства, составляющие Континентальную Францию, освобождаются как марионетки на начало игры."
+ CAN_FRAGMENTATION_STATUS:0 "@CAN Статус раздробленности Канады"
+ RULE_OPTION_CAN_FRAGMENTED:0 "Канада раздроблена"
+ RULE_OPTION_CAN_FRAGMENTED_DESC:0 "Все высвобождаемые государства, составляющие Канаду, освобождаются как свободные и независимые нации на начало игры."
+ RULE_OPTION_CAN_DECENTRALIZED:0 "Канада децентрализована"
+ RULE_OPTION_CAN_DECENTRALIZED_DESC:0 "Все высвобождаемые государства, составляющие Канаду, освобождаются как марионетки на начало игры."
+ POL_FRAGMENTATION_STATUS:0 "@POL Статус раздробленности Польши"
+ RULE_OPTION_POL_FRAGMENTED:0 "Польша раздроблена"
+ RULE_OPTION_POL_FRAGMENTED_DESC:0 "Все высвобождаемые государства, составляющие Польшу, освобождаются как свободные и независимые нации на начало игры."
+ RULE_OPTION_POL_DECENTRALIZED:0 "Польша децентрализована"
+ RULE_OPTION_POL_DECENTRALIZED_DESC:0 "Все высвобождаемые государства, составляющие Польшу, освобождаются как марионетки на начало игры."
+ RULE_OPTION_POL_COMMONWEALTH:0 "Речь Посполитая"
+ RULE_OPTION_POL_COMMONWEALTH_DESC:0 "Речи Посполитая существует в 20-м веке и формирует мощный оплот против своих тоталитарных соседей."
+ 
+ #-> RAJ: India
+ RAJ_AI_BEHAVIOR:0 "@RAJ Индия"
+ RULE_OPTION_LORD_LINLITHGOW:0 "Исторический - Нейтралитет"
+ RULE_OPTION_LORD_LINLITHGOW_AI_DESC:0 "Страна усилит британское правление под руководством лорда Линлитгоу."
+ RULE_OPTION_FREE_INDIA:0 "Фашизм"
+ RULE_OPTION_FREE_INDIA_AI_DESC:0 "Субхас Чандра Бос возглавит восстание против британского владычества."
+ RULE_OPTION_FREE_INDIA_MARXIST:0 "Коммунизм - Революция"
+ RULE_OPTION_FREE_INDIA_MARXIST_AI_DESC:0 "Субхас Чандра Бос возглавит восстание против британского владычества, которое затем будет свергнуто марксистским крылом."
+ RULE_OPTION_PROVINCIAL_ELECTIONS:0 "Выборы в провинциях"
+ RULE_OPTION_PROVINCIAL_ELECTIONS_AI_DESC:0 "В стране пройдут провинциальные выборы. Результат будет определять ИИ."
+ RULE_OPTION_INC:0 "Демократия"
+ RULE_OPTION_INC_AI_DESC:0 "В стране пройдут провинциальные выборы. Индийский национальный конгресс победит и будет стремиться к созданию демократической, независимой и единой Индии."
+ RULE_OPTION_UPA:0 "Нейтралитет - Самоуправление"
+ RULE_OPTION_UPA_AI_DESC:0 "В стране пройдут провинциальные выборы. Юнионистская партия победит и будет стремиться получить статус Доминиона как объединенная Индия."
+ RULE_OPTION_ILP:0 "Коммунизм - Реформы"
+ RULE_OPTION_ILP_AI_DESC:0 "В стране пройдут провинциальные выборы. Независимая рабочая партия победит и попытается построить социализм."
+
+ ITA_FRAGMENTATION_STATUS:0 "@ITA Статус раздробленности Италии"
+ RULE_OPTION_ITA_FRAGMENTED:0 "Италия раздроблена"
+ RULE_OPTION_ITA_FRAGMENTED_DESC:0 "Все высвобождаемые государства, составляющие Италию, освобождаются как свободные и независимые нации на начало игры."
+ RULE_OPTION_ITA_FRAGMENTED_NEAPOLITAN_SICILY:0 "Неаполитанская Сицилия"
+ RULE_OPTION_ITA_FRAGMENTED_NEAPOLITAN_SICILY_DESC:0 "Италия будет раздроблена, но Неаполь завладеет Сицилией."
+ RULE_OPTION_ITA_DECENTRALIZED:0 "Италия децентрализована"
+ RULE_OPTION_ITA_DECENTRALIZED_DESC:0 "Все высвобождаемые государства, составляющие Италию освобождаются как марионетки на начало игры."
+ RULE_OPTION_ITA_FRAGMENTED_SERENISSIMA:0 "Серениссима"
+ RULE_OPTION_ITA_FRAGMENTED_SERENISSIMA_DESC:0 "Венеция со старта владеет Критом, Далмацией и большим войском (в основном взятых у Италии). Во имя Святого Марка!"
+ RULE_OPTION_ITA_FRAGMENTED_SERENISSIMA_TWO_SICILES:0 "Серениссима и Две Сицилии"
+ RULE_OPTION_ITA_FRAGMENTED_SERENISSIMA_TWO_SICILES_DESC:0 "Неаполь и Венеция сильны. Если вы выберете Италию, вы начнете игру за Венецию."
+ 
+ SMI_LIBERATION_STATUS:0 "@SMI Статус освобождения Лапландии"
+ RULE_OPTION_SMI_LIBERATED:0 "Саамы освобождены"
+ RULE_OPTION_SMI_LIBERATED_DESC:0 "Все страны с саамским национальными территориями освободят государство саамов, столица будет установлена в Северной Норвегии."
+ RULE_OPTION_SMI_LIBERATED_NOR_SWITCH:0 "Для игры за саамов выберите Норвегию."
+ RULE_OPTION_SMI_LIBERATED_NOR_SWITCH_DESC:0 "Для игры за саамов выберите Норвегию."
+ KUR_LIBERATION_STATUS:0 "@KUR Статус освобождения Курдистана"
+ RULE_OPTION_KUR_LIBERATED:0 "Курдистан освобождён"
+ RULE_OPTION_KUR_LIBERATED_DESC:0 "Все страны с курдскими провинциями освободят Курдистан, его столица будет установлена в иракском Курдистане."
+ RULE_OPTION_KUR_LIBERATED_IRQ_SWITCH:0 "Если вы выберете Ирак, вы начнете игру за Курдистан."
+ RULE_OPTION_KUR_LIBERATED_IRQ_SWITCH_DESC:0 "Если вы выберете Ирак, вы начнете игру за Курдистан, на старте будет 0 фабрик."
+ CENTRAL_AMERICA_UNIFICATION_STATUS:0 "@HON Статус объединения Центральной Америки"
+ 
+ HISPANOAMERICA_UNIFICATION_STATUS:0 "Статус объединения Испанской Америки"
+  
+ GER_FRAGMENTATION_STATUS:0 "@GER Статус раздробленности Германии"
+ RULE_OPTION_GER_FRAGMENTED:0 "Германия раздроблена"
+ RULE_OPTION_GER_FRAGMENTED_DESC:0 "Все высвобождаемые государства, составляющие Германию, освобождаются как свободные и независимые нации на начало игры."
+ RULE_OPTION_GER_DECENTRALIZED:0 "Германия децентрализована"
+ RULE_OPTION_GER_DECENTRALIZED_DESC:0 "Все высвобождаемые государства, составляющие Германию, освобождаются как марионетки на начало игры."
+ RULE_OPTION_GER_EAST_VS_WEST:0 "Восток против Запада"
+ RULE_OPTION_GER_EAST_VS_WEST_DESC:0 "Германия будет заменена Восточной и Западной Германиями, хотя это может нарушить некоторые деревья фокусов."
+ RULE_OPTION_GER_EAST_VS_WEST_COM:0 "Дом Революции"
+ RULE_OPTION_GER_EAST_VS_WEST_COM_DESC:0 "Играть за Восточную Германию против Западной."
+ RULE_OPTION_GER_EAST_VS_WEST_VS_BAVARIA:0 "Восток против Запада против Баварии"
+ RULE_OPTION_GER_GERMAN_KINGDOMS:0 "Германские королевства"
+ RULE_OPTION_GER_GERMAN_KINGDOMS_desc:0 "Германия будет разделена на королевства и герцогства."
+ RULE_OPTION_GER_GERMAN_KINGDOMS2:0 "Германские королевства - одна фракция"
+ RULE_OPTION_GER_GERMAN_KINGDOMS2_desc:0 "Германия будет разделена на королевства и герцогства и объединена в единную фракцию."
+ 
+ RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED:0 "Гондурас реформирует Центральную Америку"
+ RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED_DESC:0 "Все страны Центральной Америки аннексированы Гондурасом, вы получаете базовые сведения об этих странах и ваше имя меняется на Соединенные Штаты Центральной Америки."
+ 
+ RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED:0 "Испанская Южная Америка"
+ RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED_DESC:0 "Все испаноязычные государства Южной Америки аннексированы Чили. Она получает национальные территории этих стран и меняет название на Испанскую Америку."
+
+ RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED_BIGGER:0 "Объединенная Испанская Америка"
+ RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED_BIGGER_DESC:0 "Все испаноязычные государства Испанской Америки аннексированы Чили. Она получает национальные территории этих стран и меняет название на Испанскую Америку."
+
+ RULE_IDEOLOGY_JOIN_FACTION:0 "Вступления во фракции (настройка мода)"
+ RULE_IDEOLOGY_JOIN_FACTION_SAME_IDEOLOGY_DESC:0 "Вы можете присоединиться только к фракциям той же идеологии или через фокусы/приглашения"
+ RULE_ALLOW_JOIN_FACTION_DESC:0 "Любая идеология может присоединиться к любой фракции, учитывая правильные обстоятельства."
+ RULE_OPTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED:0 "Та же идеология - за исключением нейтралитета"
+ RULE_IDEOLOGY_JOIN_FACTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED_DESC:0 "Страны могут присоединиться к фракции другой идеологии, только если у нее имеется минимум 30% популярности нужной партии, за исключением нейтральных (авторитарных) стран или с помощью фокусов/событий."
+ RULE_OPTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED:0 "Та же идеология - за исключением нейтралитета"
+ RULE_IDEOLOGY_JOIN_FACTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED_DESC:0 "Страны могут присоединиться к фракции другой идеологии, только если у нее имеется минимум 30% популярности нужной партии, за исключением нейтральных (авторитарных) стран или с помощью фокусов/событий." 
+ RULE_OPTION_EVENTS_ONLY:0 "Только по ивентам"
+ RULE_IDEOLOGY_JOIN_FACTION_EVENTS_ONLY_DESC:0 "Страны присоединяются к фракциям только через события или после завершения нужных фокусов."
+ RULE_STARTING_FACTIONS:0 "Стартовые фракции"
+ RULE_OPTION_DEFAULT_STARTING_FACTIONS_DESC:0 "Стартовые фракции останутся нетронутыми, наслаждайтесь обычной Осью против Союзников (против Коминтерна, против Азиатского договора)."
+ RULE_OPTION_DISBANDED:0 "Фракции распущены"
+ RULE_OPTION_STARTING_FACTIONS_DISBANDED_DESC:0 "Стартовые фракции будут распущены с самого начала и мир, несомненно, будет еще более хаотичным."
+# RULE_OPTION_POPULARITY_FACTION_LEADER_IDEOLOGY:0 "Faction Leader's ideology influence"
+# RULE_OPTION_POPULARITY_FACTION_LEADER_IDEOLOGY_DESC:0 "You can only join a faction if you have 30% of the leader's ruling ideology."
+
+  ###---> Gameplay Rules <><> <><> <><>
+ RULE_ALLOW_NATIONAL_CHARACTERS:0 "Национальные символы (настройка мода)"
+ RULE_ALLOW_NATIONAL_CHARACTERS_ALLOWED_DESC:0 "Страны могут свободно использовать национальные символы."
+ RULE_ALLOW_NATIONAL_CHARACTERS_BLOCKED_DESC:0 "Страны заблокированы от использования национальных символов."
+ NATIONAL_CHARACTERS_BLOCKED:0 "Национальные символы отключены"
+ 
+ RULE_EXTRA_OPERATIVES:0 "Количество оперативников"
+ RULE_OPTION_DEFAULT_EXTRA_OPERATIVES_DESC:0 "Количество шпионов будет соответствовать настройкам по умолчанию."
+ RULE_OPTION_ONE_EXTRA:0 "Один дополнительный оперативник"
+ RULE_OPTION_ONE_EXTRA_DESC:0 "Каждая страна с разведывательным агентством получит дополнительного оперативника."
+ RULE_OPTION_TWO_EXTRA:0 "Два дополнительных оперативника"
+ RULE_OPTION_TWO_EXTRA_DESC:0 "Каждая страна с разведывательным агентством получит двух дополнительных оперативников."
+ RULE_OPTION_THREE_EXTRA:0 "Три дополнительных оперативника"
+ RULE_OPTION_THREE_EXTRA_DESC:0 "Каждая страна с разведывательным агентством получит трех дополнительных оперативников."
+ idea_game_rule_extra_spy_1:0 "Игровое правило: 1 дополнительный оперативник"
+ idea_game_rule_extra_spy_2:0 "Игровое правило: 2 дополнительных оперативника"
+ idea_game_rule_extra_spy_3:0 "Игровое правило: 3 дополнительных оперативника"
+
+
+ RULE_RESISTANCE:0 "Рост сопротивления"
+ RULE_OPTION_DEFAULT_RESISTANCE_DESC:0 "Как и в основной игре."
+ RULE_OPTION_RESISTANCE_25_MORE:0 "На 25% больше"
+ RULE_OPTION_RESISTANCE_25_MORE_DESC:0 "Каждая страна получит + 25% к росту сопротивления в оккупированных регионах." 
+ RULE_OPTION_RESISTANCE_25_LESS:0 "На 25% меньше"
+ RULE_OPTION_RESISTANCE_25_LESS_DESC:0 "Каждая страна получит + 25% к росту сопротивления в оккупированных регионах."
+ idea_game_rule_resistance_increase_25:0 "Правило игры - сопротивление"
+ idea_game_rule_resistance_decrease_25:0 "Правило игры - сопротивление"
+
+
+ RULE_COMPLIANCE:0 "Рост подчинения"
+ RULE_OPTION_DEFAULT_COMPLIANCE_DESC:0 "Как и в основной игре."
+ RULE_OPTION_COMPLIANCE_25_MORE:0 "+0.25% в день"
+ RULE_OPTION_COMPLIANCE_25_MORE_DESC:0 "Каждая страна получит +0,25% подчинения в день в оккупированных регионах." 
+ RULE_OPTION_COMPLIANCE_25_LESS:0 "-0.25% в день"
+ RULE_OPTION_COMPLIANCE_25_LESS_DESC:0 "Каждая страна получит -0,25% подчинения в день в оккупированных регионах"
+ idea_game_rule_compliance_increase_25:0 "Правило игры - подчинение"
+ idea_game_rule_compliance_decrease_25:0 "Правило игры - подчинение"
+
+ RULE_STARTING_AGENCIES:0 "Стартовая агентура"
+ RULE_OPTION_DEFAULT_STARTING_AGENCIES_DESC:0 "Как и в базовой игре, ни одна страна не начнет с готовой службой разведки." 
+ RULE_OPTION_NON_US_MAJORS:0 "Все крупные страны, кроме США"
+ RULE_OPTION_NON_US_MAJORS_DESC:0 "Каждый крупная страна (а также Польша), за исключением США (по историческим причинам), начнет игру с готовым разведывательным управлением."
+ RULE_OPTION_ALL_MAJORS:0 "Все крупные страны"
+ RULE_OPTION_ALL_MAJORS_DESC:0 "Все крупные страны, а также Польша, начнут игру с готовыми разведывательными управлениями."
+ RULE_OPTION_ALL_MAJORS_AND_STRONG_MINORS:0 "Все крупные страны и сильные мелкие страны"
+ RULE_OPTION_ALL_MAJORS_AND_STRONG_MINORS_DESC:0 "Все крупные страны и некоторые мелкие страны, начнут игру с готовыми разведывательными управлениями."
+ RULE_OPTION_ALL_COUNTRIES:0 "Все страны"
+ RULE_OPTION_ALL_COUNTRIES_DESC:0 "Каждая страна начнет игру с готовым разведывательным управлением."
+ 
+ RULE_SPECIAL_FORCES_LIMIT:0 "Численность войск специального назначения"
+ RULE_OPTION_DEFAULT_SPECIAL_FORCES_DESC:0 "По умолчанию"
+ RULE_OPTION_100_SPECIAL_FORCES:0 "Численность дивизий +10000%"
+ RULE_OPTION_100_SPECIAL_FORCES_DESC:0 "Устали от предела для дивизий спецназа? Думаю, вам хватит этого модификатора. Наслаждайтесь."
+
+
+ RULE_ALLOW_EXTENDED_TECHS:0 "Разрешить расширенные технологии"
+ RULE_ALLOW_R56_TECHS_ALLOWED_DESC:0 "Будет доступно дерево Отдела специальных исследований из модификации."
+ RULE_ALLOW_R56_TECHS_BLOCKED_DESC:0 "Дерево Отдела специальных исследований из модификации не будет доступно."
+ 
+ #####-----> End of File <><> <><> <><> <><> <><>

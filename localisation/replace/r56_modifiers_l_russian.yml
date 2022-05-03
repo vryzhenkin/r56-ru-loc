@@ -1,0 +1,20 @@
+﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
+
+#--> All the modifiers created by new buildings/techs
+
+l_russian: 
+   neutrality_acceptance:0 "Принятие авторитарной дипломатии"
+   naval_armor_tech_research:0 "Скорость исследования брони флота"
+   naval_gunnery_tech_research:0 "Скорость исследования орудий флота"
+   modifier_production_speed_steel_mill_factor:0 "Скорость строительства §YМеталлургической фабрики§!"
+   modifier_production_speed_aluminum_mill_factor:0 "Скорость строительства §YАлюминиевой фабрики§!"
+   modifier_production_speed_rubber_refinery_factor:0 "Скорость строительства §YРезинового НПЗ§!"
+   darien_gap:0 "Darién Gap"
+   quebec_conscription_crisis:0 "Кризис призыва в Квебеке"
+   quebec_conscription_crisis_compromise:0 "Компромисс с призывом в Квебеке"
+   looting_resistance:0 "Сопротивление грабежу"
+   r56_severe_jim_crow:0 "Суровый Джим Кроу"
+   r56_jim_crow:0 "Джим Кроу"
+   r56_mild_jim_crow:0 "Мягкий Джим Кроу"
+      r56_clandestine_propaganda_techniques:0 "Тайные методы пропаганды"
+      r56_mild_jim_crow:0 "Мягкий Джим Кроу"

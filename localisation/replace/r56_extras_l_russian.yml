@@ -1,0 +1,28 @@
+﻿#####-----> Patreon Localization <><> <><> <><> <><> <><>
+
+l_russian:
+
+ ###---> Meep <><> <><> <><>
+ r56_local_text_patreon_group: "Свернуть меня"
+ 
+ ###---> Patreon Tooltips <><> <><> <><>
+ r56_tooltip_patreon_credits: "Показывает кредиты для нашего «Патреона» и особую благодарность тем, кто внес свой вклад."
+ r56_tooltip_patreon_easteregg: "Активирует цепочку событий «Пасхальное яйцо», разблокируя весь скрытый контент. Для ленивых людей, которые не могут сделать это трудным путем."
+ r56_tooltip_patreon_turnedoff: "Это свернет меню дополнительных решений, раз уж вы так вежливо попросили."
+ r56_tooltip_patreon_leaders: "Размещает всех наших генералов и лидеров страны «Патреона», для использования кем угодно."
+   
+ ###---> Patreon Events <><> <><> <><>
+ r56.event.patreon.01.title: "Список солдат"
+ r56.event.patreon.01.description: "Эти прекрасные люди внесли свой вклад в наши усилия и им должны быть благодарны! \n\n CTomic, James Michael Smith, TastesLikeWall, John Stinde, Emily Zimmerman-Kościuszko, VisualVx, Spencer, Logan Calkins, Jystr, Max Putinsev и Wei! \n\n Огромное спасибо. Вы лучшие и мы бы умерли без вашей сладкой любви."
+ r56.event.01.default: "Очень мило!"
+ r56.event.01.alternate: "Хорошо, но никогда больше не показывайте это."
+ 
+ #---> Patreon Decisions <><> <><> <><>
+ r56_decision_category_patreon: "Дополнительно"
+ r56_decision_category_patreon_desc: "Содержит некоторые дополнительные опции и другие плюшки!"
+ r56_decision_patreon_credits: "Последователи"
+ r56_decision_patreon_easteregg: "Активация Некровомбикона"
+ r56_decision_patreon_turnedoff: "Я изгоняю тебя!"
+ r56_decision_patreon_leaders: "Создать генералов и лидеров «Патреона»"
+
+#####-----> End of File <><> <><> <><> <><> <><>

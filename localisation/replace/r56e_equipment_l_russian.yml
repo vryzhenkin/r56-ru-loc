@@ -1,0 +1,363 @@
+﻿#####---------------------------------------------------------------------Mod by Sig "GreatExperiment" Altre
+
+l_russian: 
+
+###------> Variants <><> <><> <><> <><> <><>
+ COL_EQUIPMENT_VERSION_1:0 "-I"
+ COL_EQUIPMENT_VERSION_2:0 "-II"
+ COL_EQUIPMENT_VERSION_3:0 "-III"
+ COL_EQUIPMENT_VERSION_4:0 "-IV"
+ COL_EQUIPMENT_VERSION_5:0 "-V"
+ COL_EQUIPMENT_VERSION_6:0 "-VI"
+ COL_EQUIPMENT_VERSION_7:0 "-VII"
+ COL_EQUIPMENT_VERSION_8:0 "-VIII"
+ COL_EQUIPMENT_VERSION_9:0 "-IX"
+ COL_EQUIPMENT_VERSION_10:0 "-X"
+ COL_EQUIPMENT_VERSION_11:0 "-XI"
+ COL_EQUIPMENT_VERSION_12:0 "-XII"
+ COL_EQUIPMENT_VERSION_13:0 "-XIII"
+ COL_EQUIPMENT_VERSION_14:0 "-XIV"
+ 
+ FRI_EQUIPMENT_VERSION_1:0 "série A"
+ FRI_EQUIPMENT_VERSION_2:0 "série B"
+ FRI_EQUIPMENT_VERSION_3:0 "série C"
+ FRI_EQUIPMENT_VERSION_4:0 "série D"
+ FRI_EQUIPMENT_VERSION_5:0 "série E"
+ FRI_EQUIPMENT_VERSION_6:0 "série F"
+ FRI_EQUIPMENT_VERSION_7:0 "série G"
+ FRI_EQUIPMENT_VERSION_8:0 "série H"
+ FRI_EQUIPMENT_VERSION_9:0 "série I"
+ FRI_EQUIPMENT_VERSION_10:0 "série J"
+ FRI_EQUIPMENT_VERSION_11:0 "série K"
+ FRI_EQUIPMENT_VERSION_12:0 "série L"
+ FRI_EQUIPMENT_VERSION_13:0 "série M"
+ 
+ POR_EQUIPMENT_VERSION_1:0 "P-10"
+ POR_EQUIPMENT_VERSION_2:0 "P-20"
+ POR_EQUIPMENT_VERSION_3:0 "P-30"
+ POR_EQUIPMENT_VERSION_4:0 "P-40"
+ POR_EQUIPMENT_VERSION_5:0 "P-50"
+ POR_EQUIPMENT_VERSION_6:0 "P-60"
+ POR_EQUIPMENT_VERSION_7:0 "P-70"
+ POR_EQUIPMENT_VERSION_8:0 "P-80"
+ POR_EQUIPMENT_VERSION_9:0 "P-90"
+ POR_EQUIPMENT_VERSION_11:0 "P-100"
+ POR_EQUIPMENT_VERSION_12:0 "P-110"
+ POR_EQUIPMENT_VERSION_13:0 "P-120"
+ POR_EQUIPMENT_VERSION_14:0 "P-130"
+ 
+###------> Naval Units <><> <><> <><> <><> <><>
+ coastal_defense_ship:0"Броненосцы береговой обороны"
+ coastal_defense_ship_desc:0"Тип «Сверье» состоял из трех линейных линейных кораблей, построенных для ВМС Швеции до Первой мировой войны. Корабли больше напоминали тяжелые крейсеры как по размеру (водоизмещение более 6800 тонн), так и по вооружению (четыре орудия 2812 мм / 44К / 45 М12). Корабли были относительно медленными для крейсера, но были очень хорошо бронированы. Все три корабля служили и во время Второй мировой войны."
+ coastal_defense_ship_1:0"Тип «Сверье»"
+ coastal_defense_ship_1_desc:0"Тип «Сверье» состоял из трех линейных линейных кораблей, построенных для ВМС Швеции до Первой мировой войны. Корабли больше напоминали тяжелые крейсеры как по размеру (водоизмещение более 6800 тонн), так и по вооружению (четыре орудия 2812 мм / 44К / 45 М12). Корабли были относительно медленными для крейсера, но были очень хорошо бронированы. Все три корабля служили и во время Второй мировой войны."
+ torpedo_equipment_research:0 "Исследование торпед"
+ 
+###------> Battlecruisers
+ battle_cruiser_3:0 "Полусовременный линейный крейсер"
+ battle_cruiser_3_short:0 "Полусовременный линейный крейсер"
+ battle_cruiser_3_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это кухонная раковина."
+
+ 
+#-<><><> Battlecruiser Flavor 
+ GER_battle_cruiser_3:0 "«Шлахткройцер» обр. 1948 г."
+ GER_battle_cruiser_3_short:0 "«Шлахткройцер» обр. 1948 г."
+ SOV_battle_cruiser_3:0 "Тип «Москва»"
+ SOV_battle_cruiser_3_short:0 "Тип «Москва»"
+ 
+#-<><><> Heavy Battleships 
+ SH_battleship_3:0 "Современный линкор"
+ SH_battleship_3_short:0 "Современный линкор"
+ SH_battleship_3_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это лёдогенератор."
+
+
+#-<><><> Heavy Battleship Flavor
+ GER_SH_battleship_3:0 "«Шлахтшифф H52»"
+ GER_SH_battleship_3_short:0 "«Шлахтшифф H52»"
+ SOV_SH_battleship_3:0 "«Октябрьская революция»"
+ SOV_SH_battleship_3_short:0 "«Октябрьская революция»"
+
+#-<><><> Destroyers
+ destroyer_5:0 "Полусовременный эсминец"
+ destroyer_5_short:0 "Полусовременный эсминец"
+ destroyer_5_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это кухонная раковина."
+
+#-<><><> 
+ destroyer_6:0 "Современный эсминец"
+ destroyer_6_short:0 "Современный эсминец"
+ destroyer_6_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это лёдогенератор."
+
+#-<><><> 
+ destroyer_7:0 "Эсминец обр. 1956 г."
+ destroyer_7_short:0 "Эсминец обр. 1956 г."
+ destroyer_7_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это телевизор."
+
+
+#-<><><> Destroyer Flavor
+ GER_destroyer_5:0 "«Цёрсшторер» обр. 1948 г."
+ GER_destroyer_5_short:0 "«Цёрсшторер» обр. 1948 г."
+ GER_destroyer_6:0 "«Цёрсшторер» обр. 1952 г."
+ GER_destroyer_6_short:0 "«Цёрсшторер» обр. 1952 г."
+ GER_destroyer_7:0 "«Цёрсшторер» обр. 1956 г."
+ GER_destroyer_7_short:0 "«Цёрсшторер» обр. 1956 г."
+ SOV_destroyer_5:0 "Тип «Неустрашимый»"
+ SOV_destroyer_5_short:0 "Тип «Неустрашимый»"
+ SOV_destroyer_6:0 "Тип «Спокойный»"
+ SOV_destroyer_6_short:0 "Тип «Спокойный»"
+ SOV_destroyer_7:0 "Тип «Бедовый»"
+ SOV_destroyer_7_short:0 "Тип «Бедовый»"
+
+
+#-<><><> Submarines <><> <><> <><> <><> <><>
+ submarine_5:0 "Полусовременная подводная лодка"
+ submarine_5_short:0 "Полусовременная подводная лодка"
+ submarine_5_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это кухонная раковина."
+
+#-<><><> 
+ submarine_6:0 "Современная подводная лодка"
+ submarine_6_short:0 "Современная подводная лодка"
+ submarine_6_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это лёдогенератор."
+
+#-<><><> 
+ submarine_7:0 "Подводная лодка обр. 1956 г."
+ submarine_7_short:0 "Подводная лодка обр. 1956 г."
+ submarine_7_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это телевизор."
+
+#-<><><> 
+ submarine_nuc:0 "Атомная подводная лодка"
+ submarine_nuc_short:0 "Атомная подводная лодка"
+ submarine_nuc_desc:0 "Сила! Свет! Мгновенно готовящийся тост!"
+
+
+#-<><><> Submarine Flavor
+ GER_submarine_5:0 "Тип XXIII"
+ GER_submarine_5_short:0 "Тип XXIII"
+ GER_submarine_6:0 "Тип XXVII"
+ GER_submarine_6_short:0 "Тип XXVII"
+ GER_submarine_7:0 "Тип XXXV"
+ GER_submarine_7_short:0 "Тип XXXV"
+ GER_submarine_nuc:0 "Тип XL"
+ GER_submarine_nuc_short:0 "Тип XL"
+ SOV_submarine_5:0 "Проект 613"
+ SOV_submarine_5_short:0 "Проект 613"
+ SOV_submarine_6:0 "Проект 641"
+ SOV_submarine_6_short:0 "Проект 641"
+ SOV_submarine_7:0 "Проект 629"
+ SOV_submarine_7_short:0 "Проект 629"
+ SOV_submarine_nuc:0 "Проект 627"
+ SOV_submarine_nuc_short:0 "Проект 627"
+
+#-<><><> Light Cruisers <><> <><> <><> <><> <><>
+ light_cruiser_5:0 "Полусовременный легкий крейсер"
+ light_cruiser_5_short:0 "Полусовременный легкий крейсер"
+ light_cruiser_5_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это кухонная раковина."
+
+#-<><><> 
+ light_cruiser_6:0 "Современный легкий крейсер"
+ light_cruiser_6_short:0 "Современный легкий крейсер"
+ light_cruiser_6_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это лёдогенератор."
+
+#-<><><> 
+ light_cruiser_7:0 "Легкий крейсер обр. 1956 г."
+ light_cruiser_7_short:0 "Легкий крейсер обр. 1956 г."
+ light_cruiser_7_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это телевизор."
+
+ 
+#-<><><> Light Cruiser Flavor <><> <><> <><> <><> <><> 
+ GER_light_cruiser_5:0 "Тип «Хаген»"
+ GER_light_cruiser_5_short:0 "Тип «Хаген»"
+ GER_light_cruiser_6:0 "Тип «Вупперталь»" 
+ GER_light_cruiser_6_short:0 "Тип «Вупперталь»"
+ GER_light_cruiser_7:0 "Тип «Крефельд»"
+ GER_light_cruiser_7_short:0 "«Крефельд»" 
+ SOV_light_cruiser_5:0 "Тип «Адмирал Лазарев»"
+ SOV_light_cruiser_5_short:0 "Тип «Адмирал Лазарев»"
+ SOV_light_cruiser_6:0 "Тип «Адмирал Корнилов»"
+ SOV_light_cruiser_6_short:0 "Тип «Адмирал Корнилов»"
+ SOV_light_cruiser_7:0 "Тип «Михаил Кутузов»"
+ SOV_light_cruiser_7_short:0 "Тип «Михаил Кутузов»"
+ 
+#-<><><> Heavy Cruisers <><> <><> <><> <><> <><>
+ heavy_cruiser_5:0 "Полусовременный тяжелый крейсер"
+ heavy_cruiser_5_short:0 "Полусовременный тяжелый крейсер"
+ heavy_cruiser_5_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это кухонная раковина."
+
+#-<><><> 
+ heavy_cruiser_6:0 "Современный тяжелый крейсер"
+ heavy_cruiser_6_short:0 "Современный тяжелый крейсер"
+ heavy_cruiser_6_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это лёдогенератор."
+
+#-<><><> 
+ heavy_cruiser_7:0 "Тяжелый крейсер обр. 1956 г."
+ heavy_cruiser_7_short:0 "Тяжелый крейсер обр. 1956 г."
+ heavy_cruiser_7_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это телевизор."
+
+ 
+#-<><><> Heavy Cruiser Flavor
+ GER_heavy_cruiser_5:0 "Тип «Альбрехт»"
+ GER_heavy_cruiser_5_short:0 "Тип «Альбрехт»"
+ GER_heavy_cruiser_6:0 "Тип «Биттенфелд»"
+ GER_heavy_cruiser_6_short:0 "Тип «Биттенфелд»"
+ GER_heavy_cruiser_7:0 "Тип «Роон»"
+ GER_heavy_cruiser_7_short:0 "Тип «Роон»"
+ SOV_heavy_cruiser_5:0 "Тип «Адмирал Головко»"
+ SOV_heavy_cruiser_5_short:0 "Тип «Адмирал Головко»"
+ SOV_heavy_cruiser_6:0 "Тип «Грозный»"
+ SOV_heavy_cruiser_6_short:0 "Тип «Грозный»"
+ SOV_heavy_cruiser_7:0 "Тип «Адмирал Зозуля»"
+ SOV_heavy_cruiser_7_short:0 "Тип «Адмирал Зозуля»"
+ 
+#-<><><> Battleships <><> <><> <><> <><> <><>
+ battleship_5:0 "Полусовременный линкор"
+ battleship_5_short:0 "Полусовременный линкор"
+ battleship_5_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это кухонная раковина."
+
+#-<><><> 
+ battleship_6:0 "Современный линкор"
+ battleship_6_short:0 "Современный линкор"
+ battleship_6_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это лёдогенератор."
+
+#-<><><> 
+ battleship_7:0 "Линкор обр. 1956 г."
+ battleship_7_short:0 "Линкор обр. 1956 г."
+ battleship_7_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это телевизор."
+
+#-<><><> 
+ battleship_nuc:0 "Атомный линкор"
+ battleship_nuc_short:0 "Атомный линкор"
+ battleship_nuc_desc:0 "Сила! Свет! Мгновенно готовящийся тост!"
+
+ 
+#-<><><> Battleship Flavor <><> <><> <><> <><> <><> 
+ GER_battleship_5:0 "Тип «Цейтцлер»"
+ GER_battleship_5_short:0 "Тип «Цейтцлер»"
+ GER_battleship_6:0 "Тип «Хойзингер»"
+ GER_battleship_6_short:0 "Тип «Хойзингер»"
+ GER_battleship_7:0 "Тип «Гудериан»"
+ GER_battleship_7_short:0 "Тип «Гудериан»"
+ GER_battleship_nuc:0 "Тип «Кёниграйх»"
+ GER_battleship_nuc_short:0 "Тип «Кёниграйх»"
+ SOV_battleship_5:0 "Тип «Андрей Первозванный»"
+ SOV_battleship_5_short:0 "Тип «Андрей Первозванный»"
+ SOV_battleship_6:0 "Тип «Советская Белоруссия»"
+ SOV_battleship_6_short:0 "Тип «Советская Белоруссия»"
+ SOV_battleship_7:0 "Тип «Советская Украина»"
+ SOV_battleship_7_short:0 "Тип «Советская Украина»"
+ SOV_battleship_nuc:0 "Тип «Советская Россия»"
+ SOV_battleship_nuc_short:0 "Тип «Советская Россия»"
+
+#-<><><> Carriers <><> <><> <><> <><> <><> 
+ carrier_5:0 "Полусовременный авианосец"
+ carrier_5_short:0 "Полусовременный авианосец"
+ carrier_5_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это кухонная раковина."
+
+#-<><><> 
+ carrier_6:0 "Современный авианосец"
+ carrier_6_short:0 "Современный авианосец"
+ carrier_6_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это лёдогенератор."
+
+#-<><><> 
+ carrier_7:0 "Авианосец обр. 1956 г."
+ carrier_7_short:0 "Авианосец обр. 1956 г."
+ carrier_7_desc:0 "Почти всё, от оружия до двигателей было улучшено. Теперь все, что нам нужно, это телевизор."
+
+#-<><><> 
+ carrier_nuc:0 "Атомный авианосец"
+ carrier_nuc_short:0 "Атомный авианосец"
+ carrier_nuc_desc:0 "Сила! Свет! Мгновенно готовящийся тост!"
+
+ 
+#-<><><> Carrier Flavor <><> <><> <><> <><> <><> 
+ GER_carrier_5:0 "Тип «Золинген»"
+ GER_carrier_5_short:0 "Тип «Золинген»"
+ GER_carrier_6:0 "Тип «Леверкузен»"
+ GER_carrier_6_short:0 "Тип «Леверкузен»"
+ GER_carrier_7:0 "Тип «Оснабрюк»"
+ GER_carrier_7_short:0 "Тип «Оснабрюк»"
+ GER_carrier_nuc:0 "Тип «Терра»"
+ GER_carrier_nuc_short:0 "Тип «Терра»"
+ SOV_carrier_5:0 "Тип «Киев»"
+ SOV_carrier_5_short:0 "Тип «Киев»"
+ SOV_carrier_6:0 "Тип «Минск»"
+ SOV_carrier_6_short:0 "Тип «Минск»"
+ SOV_carrier_7:0 "Тип «Новороссийск»"
+ SOV_carrier_7_short:0 "Тип «Новороссийск»"
+ SOV_carrier_nuc:0 "Тип «Ульяновск»"
+ SOV_carrier_nuc_short:0 "Тип «Ульяновск»"
+
+ 
+###------> Missile Flavor
+ guided_missile_equipment_4:0 "Раняя МБР"
+ guided_missile_equipment_4_short:0 "Раняя МБР"
+ guided_missile_equipment_4_desc:0 "Теперь мы можем создавать высокоточные и дальнобойные ракеты, способные пробивать самые толстые слои атмосферы."
+ FRA_guided_missile_equipment_4:0 "Раняя МББ"
+ FRA_guided_missile_equipment_4_short:0 "«Кулак Республики»"
+ FRA_guided_missile_equipment_4_desc:0 "Наши пекари и инженеры-ракетостроители потратили годы на этот проект, и теперь мы обрушимся на врагов с помощью межконтинентального баллистического багета!"
+ GER_guided_missile_equipment_4:0 "Раняя МБР"
+ GER_guided_missile_equipment_4_short:0 "«Кулак Рейха»"
+ GER_guided_missile_equipment_4_desc:0 "Любовное письмо от нас к врагу, дождь поверх смерти."
+ USA_guided_missile_equipment_4:0 "Раняя МБР"
+ USA_guided_missile_equipment_4_short:0 "«Кулак Свободы»"
+ USA_guided_missile_equipment_4_desc:0 "Пусть дух Харамбе безопасно направит нашу МБР к врагу."
+ SOV_guided_missile_equipment_4:0 "Раняя МБР"
+ SOV_guided_missile_equipment_4_short:0 "«Кулак Революции»"
+ SOV_guided_missile_equipment_4_desc:0 "Любовное письмо от нас к врагу, дождь поверх смерти."
+
+ 
+###------> Light Carriers   <><> <><> <><> <><> <><>
+ light_carrier_1:0 "Авианосец сопровождения"
+ light_carrier_2:0 "Легкий авианосец I"
+ light_carrier_3:0 "Легкий авианосец II"
+ light_carrier_1_desc:0 "Авианосцы сопровождения небольшие, медленные и уязвимые, но дешевые в производстве. Подходят в основном для сопровождения конвоев и защиты подводных лодок."
+ light_carrier_2_desc:0 "Более легкие и более способные, чем авианосцы сопровождения, легкие авианосцы могут выполнять небольшие самостоятельные операции по поддержке эскорта."
+ light_carrier_3_desc:0 "Значительное усовершенствование существующих конструкций легких авианосцев. Бюджетная альтернатива полноразмерному авианосцу."
+ cvl_tech:0 "Модели легкого авианосца"
+ light_carrier:0 "Легкий авианосец"
+ light_carrier_desc:0 "Менее способная, но более доступная версия авианосца, предназначенная в основном для защиты конвоя и сопровождения более ценных военных кораблей."
+ ENG_light_carrier_1:0 "Тип «Рулер»"
+ ENG_light_carrier_2:0 "Тип «Колосс»"
+ ENG_light_carrier_3:0 "Тип «Маджестик»"
+ JAP_light_carrier_1:0 "Тип «Тайе»"
+ JAP_light_carrier_2:0 "Тип «Дзуйхо»"
+ JAP_light_carrier_3:0 "Проект G-15"
+ USA_light_carrier_1:0 "Тип «Боуг»"
+ USA_light_carrier_2:0 "Тип «Индепенденс»"
+ USA_light_carrier_3:0 "Тип «Сайпан»"
+ FRA_light_carrier_1:0 "Тип «Сена»" 
+ FRA_light_carrier_2:0 "Тип «Руан»"
+ FRA_light_carrier_3:0 "Тип «Луара»" 
+ GER_light_carrier_1:0 "«Авзония»"
+ GER_light_carrier_2:0 "«Джейд»"
+ GER_light_carrier_3:0 "«Хохблассен»"
+ ITA_light_carrier_1:0 "«Эйруан»"
+ ITA_light_carrier_2:0 "«Корво»"
+ ITA_light_carrier_3:0 "«Грифон»"
+ SOV_light_carrier_1:0 "«Каракуль»"
+ SOV_light_carrier_2:0 "«Новороссийск»"
+ SOV_light_carrier_3:0 "«Волга»"
+ CAN_light_carrier_1:0 "Тип «Антилопа»"
+ CAN_light_carrier_2:0 "Тип «Ворриор»"
+ CAN_light_carrier_3:0 "Тип «Бонавентура»"
+ CHI_light_carrier_1:0 "Тип «Фейхонг»"
+ CHI_light_carrier_2:0 "Тип «Хайцен»"
+ CHI_light_carrier_3:0 "Тип «Ляонин»"
+ BRA_light_carrier_1:0 "Тип «Амазонас»"
+ BRA_light_carrier_2:0 "Тип «Минас-Жейрас»"
+ BRA_light_carrier_3:0 "Тип «Сан-Пауло»"
+ SPR_light_carrier_1:0 "Тип «Лоп-де-Аггир»"
+ SPR_light_carrier_2:0 "Тип «Блас-де-Лезо»"
+ SPR_light_carrier_3:0 "Тип «Касто Нуньес»"
+ MEX_light_carrier_1:0 "Тип «Пуэрто Виларта»"
+ MEX_light_carrier_2:0 "Тип «Тампико»"
+ MEX_light_carrier_3:0 "Тип «Веракрус
+ AST_light_carrier_1:0 "Тип «Алис-Спрингс»"
+ AST_light_carrier_2:0 "Тип «Сидней»"
+ AST_light_carrier_3:0 "Тип «Мелббурн»"
+ ARG_light_carrier_1:0 "Тип «Некочеа»"
+ ARG_light_carrier_2:0 "Тип «Гилльермо Браун»"
+ ARG_light_carrier_3:0 "«Мануэль Белграно»"
+ TUR_light_carrier_1:0 "Тип «Марты»"
+ TUR_light_carrier_2:0 "Тип «Касикчукушу»"
+ TUR_light_carrier_3:0 "Тип «Баликчил»"
+
+#####---------------------------------------------------------------------End

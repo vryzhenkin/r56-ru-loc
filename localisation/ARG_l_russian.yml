@@ -1,0 +1,50 @@
+﻿l_russian:
+ ARG_spanish_civil_war_involvement:0 "Участие в испанской гражданской войне"
+ ARG_spanish_civil_war_involvement_desc:0 "Мы не можем позволить нашим испанским братьям сражаться друг с другом и не можем остаться в стороне."
+ r56_ARG_spanish_civil_war_involvement:0 "Участие в испанской гражданской войне"
+ 
+ 
+ ARG_instituto_aerotecnico_de_cordoba:0 "Институт авиатехники Кордовы"
+ 
+ ARG_american_oil_concern:0 "Промышленный нефтянной концерн"
+ ARG_american_oil_concern_desc:0 "Наши запасы нефти могут быть разработаны благодаря американскому опыту."
+ ARG_american_industrial_investments:0 "Американские промышленные инвестиции"
+ ARG_american_industrial_investments_desc:0 "Американский капитал может помочь развитию нашей страны и укрепить наше стратегическое значение."
+ ARG_join_the_defense_of_the_hemisphere:0 "Присоединиться к обороне полушария"
+ ARG_join_the_defense_of_the_hemisphere_desc:0 "Американцы являются ведущей силой в защите Америки, для обеспечения мира, который мы лелеем. Мы должны помочь им."
+ 
+ #####Advisors#####
+ ARG_carlos_saavedra_lamas:0 "Карлос Сааведра Ламас"
+ ARG_juan_domingo_peron:0 "Хуан Доминго Перон"
+ ARG_luis_podesta_costa:0 "Луис Подеста Коста"
+ ARG_manuel_maria_de_iriondo:0 "Мануэль Мария де Ириондо"
+ ARG_manuel_savio:0 "Мануэль Савио"
+ ARG_geronimo_arnedo_alvarez:0 "Херонимо Арнедо Альварес"
+ ARG_lisandro_de_la_torre:0 "Лисандро де ла Торре"
+ ARG_juan_bautista_molina:0 "Хуан Баутиста Молина"
+ ARG_manuel_a_rodriguez:0 "Мануэль А. Родригез"
+ ARG_pedro_pablo_ramirez:0 "Педро Пабло Рамирез"
+ ARG_antonio_parodi:0 "Атонио Пароди"
+ ARG_susana_ferrari:0 "Сьюзана Феррари"
+ ARG_pedro_s_casal:0 "Педро Сегундо Касаль"
+ ARG_alberto_teisaire:0 "Альберто Тейшейра"
+ ARG_basilio_pertine:0 "Базилио Пертин"
+ ARG_nicolas_accame:0 "Николас Аккаме"
+ ARG_kenneth_charney:0 "Кеннет Чарни"
+ ARG_eleazar_videla:0 "Элеазар Видэла"
+ ARG_leon_scasso:0 "Леон Скассо"
+ ARG_humberto_sosa_molina:0 "Умберто Соса Молина"
+ ARG_agustin_pedro_justo:0 "Августин Педро Юсто"
+ 
+
+ ARG_supremacy_over_brazil:0 "Господство над Бразилией"
+ ARG_supremacy_over_brazil_desc:0 "Бразилия, крупнейшая и самая индустриальная страна Южной Америки, несомненно, угрожает нашей быстро расширяющейся сфере влияния. Если мы хотим сохранить свое господство в этой части мира, нам нужно установить дружественный режим и лучше под нашим прямым управлением."
+
+ #threats
+ ARG_malvinas_claim_threat:0 "Аргентина требует Фолклендские острова"
+ ARG_south_georgia_claim_threat:0 "Аргентина требует Южную Георгию"
+ ARG_uruguay_claim_threat:0 "Аргентина выдвинула претензии на Уругвай"
+ ARG_paraguay_claim_threat:0 "Аргентина претендует на Парагвайские территории"
+ ARG_bolivia_claim_threat:0 "Аргентина претендует на Боливию"
+ ARG_chile_claim_threat:0 "Аргентина претендует на Чили"
+ ARG_brazil_puppet_threat:0 "Аргентина желает господства над Бразилией"
