@@ -53,7 +53,6 @@ def add_non_existing_keys(orig, target):
     for key in keys_to_add:
         li = build_kv_line(key, orig_parced[key])
         lines_to_be_added.append(li)
-    print(lines_to_be_added)
 
     with open(target, "a") as f:
         f.writelines(lines_to_be_added)

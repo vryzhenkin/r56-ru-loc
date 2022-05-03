@@ -35,3 +35,5 @@ function main () {
     python3 "$BASEDIR"/localize.py "$TARGET_DIR"/"$i"_l_english.yml "$RU_TMPL_DIR"/"$i"_l_russian.yml
   done
 }
+
+main "$@"
