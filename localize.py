@@ -30,6 +30,8 @@ def readfile(name):
     prepared_kv_lines = {}
     for line in non_empty_lines:
         sp_l = line.split(' "')
+        if len(sp_l) != 2:
+            sp_l = line.split(':"')
         prepared_kv_lines[sp_l[0].strip()] = sp_l[1].strip('"')
 
     return prepared_kv_lines
