@@ -11,7 +11,7 @@ def readfile(name):
             # Create ru template translate if not exists
             with open(name, 'w') as f:
                 f.write("l_russian:")
-        with open(name, "r", encoding='utf-8') as f:
+        with open(name, "r", encoding='utf-8-sig') as f:
             lines = f.read().splitlines()
     except Exception as e:
         print("Could not read file " + name + "!")
@@ -54,7 +54,7 @@ def add_non_existing_keys(orig, target):
         li = build_kv_line(key, orig_parced[key])
         lines_to_be_added.append(li)
 
-    with open(target, "a") as f:
+    with open(target, "a", encoding='utf-8-sig') as f:
         f.writelines(lines_to_be_added)
         f.close()
 
@@ -69,7 +69,7 @@ def show_gone_or_changed_keys(orig, target):
     if len(keys_gone) == 0:
         print("Lucky you, no changed/gone keys")
     else:
-        print("{0} file have keys that does not exist in original")
+        print("{0} file have keys that does not exist in original".format(target))
         print(keys_gone)
 
 
