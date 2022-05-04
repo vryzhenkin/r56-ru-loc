@@ -319,3 +319,8 @@
  cacadores_desc:0 "Elite support company with strong bonuses."
 
  
+r56_portuguese_focus:0 "Portuguese National Focus"
+portuguese_focus:0 "Portuguese Vanilla National Focus"
+POR_extra_tech_slot2:0 "Extra Research Slot II"
+POR_extra_tech_slot2_desc:0 "Research is important and must not be forgotten. This way we can level up our technology to levels never seen before."
+portugal.t1.t:0 "[POR.getAdjective] territorial demands."

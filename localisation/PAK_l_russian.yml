@@ -277,3 +277,5 @@ PAK_A_New_Regime:2 "Новый режим"
 PAK_A_New_Regime_desc:0 ""
 PAK_Further_Recruitment:2 "Дальнейший рекрутинг"
 PAK_Further_Recruitment_desc:0 ""
+
+substract3ban:0 "Reduces §YBangladeshi Liberty Desire§! by §G3§!"

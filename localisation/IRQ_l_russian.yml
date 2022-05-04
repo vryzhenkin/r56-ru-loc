@@ -369,3 +369,13 @@
    arab.11.d:0 "Ирак желает присоединиться к нашему альянсу."
    arab.11.a:0 "В это неопределенное время нам нужны союзники."
    arab.11.b:0 "Ирак не может ничего внести в наши военные усилия."
+
+iraqi_focus:0 "Iraqi National Focus"
+IRQ_improve_army_logistics:0 "Improve Army Logistics"
+IRQ_improve_army_logistics_desc:0 "We need to create heavy tanks to break through heavily entrenched enemy lines. But without any comprehensive logistics, any such endeavor would fail."
+IRQ_cruisers_experiments:0 "Cruiser Experiments"
+IRQ_cruisers_experiments_desc:0 "World powers have been creating new 'Cruiser' tanks, which combine both heavy and light tanks."
+IRQ_persian_gulf_supremacy:0 "Persian Gulf Supremacy"
+IRQ_persian_gulf_supremacy_desc:0 "We need to create a navy that can wrest control of the seas, blocking both the [ENG.GetAdjective] and [PER.GetAdjective]s."
+IRQ_persian_gulf_navy:0 "Persian Gulf Navy"
+IRQ_persian_gulf_navy_desc:0 "A thorough effort to reinvent our naval strategy will be of great importance if we are to utilize our ships in the Red Sea."
