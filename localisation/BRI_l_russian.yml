@@ -198,3 +198,8 @@
  BRI_cliffs_arent_enough_desc:0 "Оборонять порты"
  BRI_Brest_Oil_Industry:0 "Брестский очистительный завод"
  BRI_Brest_Oil_Industry_desc:0 "Так утончен, что все в порядке!" 
+ brittany_focus:0 "Национальный фокус Бретани"
+ BRI_jet_focus:0 "К реактивным самолетам"
+ BRI_jet_focus_desc:0 "Турбодвигатели — будущее авиации."
+ BRI_brest_oil_industry:0 "Брестский НПЗ"
+ BRI_brest_oil_industry_desc:0 "Так заправлено, что правильно!"
