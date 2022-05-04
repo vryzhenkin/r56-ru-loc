@@ -63,4 +63,5 @@
  
  YUG_yugoslav_reunification_category:0 "Воссоединение Югославии"
  YUG_yugoslav_reunification_category_desc:0 "Югославию раскололи центробежные силы, но идея союза южных славян продолжает жить."
- r56_unite_puppet_with_yug:0 "Unite [FROM.getNameDef] with Yugoslavia"
+ r56_unite_puppet_with_yug:0 "Едины [FROM.getNameDef] с Югославией"
+ YUG_very_strong_communists:0 "§GОчень сильны!§!" "

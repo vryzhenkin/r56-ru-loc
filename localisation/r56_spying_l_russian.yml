@@ -71,3 +71,5 @@ resistance_60:0 "Подземные разведывательные сети"
 resistance_60_effect_tooltip:0 "[FROM.GetNameWithFlag], будет получен §G+1§! §YОперативник§! если существует разведбюро?."
 
 EFFECT_CREATE_INTELLIGENCE_AGENCY:0 "Create an §YIntelligence Agency§!."
+operative_skill_3:0 "Спецагент"
+operative_skill_4:0 "Агент высшего эшелона"
