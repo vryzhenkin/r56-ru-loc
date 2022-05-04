@@ -301,3 +301,6 @@
  EST_jaan_flag:0 "Яан Тыниссон победил на выборах"
  EST_mae_flag:0 "Хьялмар Майе победил на выборах"
  EST_sare_flag:0 "Карл Сяре победил на выборах"
+ estonian_focus:0 "Национальный фокус Эстонии"
+ EST_foreign_cooperation:0 "Зарубежное сотрудничество"
+ EST_foreign_cooperation_desc:0 "Эстония во многом полагается на страны, готовые помочь в борьбе с [SOV.getNameDef]."
