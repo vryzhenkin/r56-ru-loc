@@ -274,7 +274,7 @@
  
 
  colombian_focus:0 "Колумбийские национальные фокусы"
- colombia.1001.t:0 "New Defensive Pact Formed"
- colombia.1001.d:0 "Seeing growing Gran Colombian ambitions of the [COL.getAdjective] government, concerned officials of [ECU.getNameDef] and [PAN.getNameDef] have opened fierce negotiations focusing on forming a defensive pact opposing the rise of the more-than-dead state of gran Colombia.\n\nBoth countries are bringing troops to the borders, ready to fight to the last man for their independence."
- colombia.1001.a:0 "This shall secure our states for a little longer!"
- COL_war_with_andean_threat:0 "Bolivarian Ambitions in the Andes"
+ colombia.1001.t:0 "Заключен новый оборонительный пакт"
+ colombia.1001.d:0 "Видя растущие амбиции [COL.getAdjective] правительства в отношении Великой Колумбии, заинтересованные официальные лица [ECU.getNameDef] и [PAN.getNameDef] начали ожесточенные переговоры, сосредоточив внимание на формировании оборонительного пакта, противодействующего подъему более чем мертвого государства Великая Колумбия.\n\nОбе страны стягивают к границам войска, готовые сражаться до последнего человека за свою независимость."
+ colombia.1001.a:0 "Это еще немного обезопасит наши государства!"
+ COL_war_with_andean_threat:0 "Боливарианские амбиции в Андах"
