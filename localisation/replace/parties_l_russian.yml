@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
  communism:0 "Коммунизм"
  communism_noun:0 "Коммунизм"
  democratic:0 "Демократия"
@@ -172,7 +172,7 @@
  FIN_communism_party_long:0 "Коммунистическая партия Финляндии"
  DEN_democratic_party:0 "Социал-демократическая партия"
  DEN_democratic_party_long:0 "Социал-демократическая партия"
- DEN_fascism_party:0 "НСРП"
+ DEN_fascism_party:0 "НСРПД"
  DEN_fascism_party_long:0 "Национал-социалистическая рабочая партия Дании"
  DEN_communism_party:0 "КПД"
  DEN_communism_party_long:0 "Коммунистическая партия Дании"
