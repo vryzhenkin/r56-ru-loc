@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
 DOD_hungary.1.t:0 "[HUN.GetNameDefCap] Demands a Referendum"
 DOD_hungary.1.desc:0 "In a speech in Budapest, [HUN.GetLeader] has demanded that his [AUS.GetAdjective] subjects be permitted to return to his rule. However, in a gesture of reconciliation, he has publicly noted that the [AUS.GetAdjective] people should be allowed to make that choice for themselves."
 DOD_hungary.1.a:0 "Let the people have their say."

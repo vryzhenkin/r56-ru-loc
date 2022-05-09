@@ -3,7 +3,7 @@
  URG_neutrality_party_long:0 "Партия Колорадо"
 
  URG_fascism_party:0 "Национальная партия (Эррера)"
- URG_fascism_party_long::0 "Национальная партия (Эррера)"
+ URG_fascism_party_long:0 "Национальная партия (Эррера)"
 
  URG_colorado_party_terra_party_long:0 "Партия Колорадо (Терра)"
  URG_colorado_party_terra_party:0 "Колорадо (Терра)" 
@@ -96,7 +96,6 @@
  URG_federico_garcia:0 "Федерико Гарсиа"
  URG_juan_battione:0 "Хуан Баттион"
  URG_juan_jose_amezaga:0 "Хуан Хосе де Амезага"
-URG_fascism_party_long:0 "Partido Nacional (Herrera)"
 URG_national_steel_works:0 "National Steel Works"
 URG_national_steel_works_desc:0 "National Steel Works"
 URG_join_the_american_revolution:0 "Join the American Revolution"

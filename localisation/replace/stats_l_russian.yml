@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
 STAT_NAVY_LG_ATTACK:1 "Атака легкой батареи:"
 STAT_NAVY_LG_ATTACK_DESC:0 "Повреждения, наносимые легкими пушками. Легкие пушки лучше справляются с меньшими кораблями."
 STAT_NAVY_LG_ATTACK_VALUE:0 "$VALUE|H1$"

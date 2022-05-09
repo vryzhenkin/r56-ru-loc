@@ -911,7 +911,7 @@
  r56_CAN_conscription_crisis_tt:0 "£trigger_yes Может изменить законы о воинской повинности"
  canadian_fuhrer_tt:0 "§YАдриан Арканд§! Получит черту:\n§YКанадский фюрер§!\nПрирост политической власти: §G+15%§!\nПоддержка войны: §G+5.00%§!"
  r56_CAN_usa_ships_tt:0 "§Y[USA.GetName]§! передаст нам несколько судов."
- r56_CAN_defence_scheme_no2_trigger_tt:0 "§YМы§! или §Y[USA.GetName]§! оправдываем или имеем цель войны против §Y[JAP.GetName]§!\или §Y[JAP.GetName]§! оправдывает или имеет цель войны против §YНас§! or §Y[USA.GetName]§!, или начали фокус §YЗахват Филиппин§!"
+ r56_CAN_defence_scheme_no2_trigger_tt:0 "§YМы§! или §Y[USA.GetName]§! оправдываем или имеем цель войны против §Y[JAP.GetName]§!\nИли §Y[JAP.GetName]§! оправдывает или имеет цель войны против §YНас§! or §Y[USA.GetName]§!, или начали фокус §YЗахват Филиппин§!"
  newfoundland_labrador_tt:0 "Владелец §Y[331.GetName]§! и §Y[332.GetName]§! находится в состоянии войны."
  CAN_state_manpower_tt:0 "§Y[466.GetName]§! И §Y[468.GetName]§!:\nФактор военнообязанного населения: §G+75%§!\n\n"
  quebec_conscription_tt:0 "§YКвебек§! и §YСент-Лоренс§!:\nФактор военнообязанного населения: §R-75%§!"
