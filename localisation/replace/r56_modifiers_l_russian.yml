@@ -18,3 +18,7 @@ l_russian:
    r56_mild_jim_crow:0 "Мягкий Джим Кроу"
       r56_clandestine_propaganda_techniques:0 "Тайные методы пропаганды"
       r56_mild_jim_crow:0 "Мягкий Джим Кроу"
+
+   r56_upa_state_modifier:0 "Деятельность Украинской повстанческой армии"
+   r56_upa_state_modifier_desc:0 "В этой области действует Украинская повстанческая армия."
+   cat_r56_guerilla_warfare_cost_factor:0 "Стоимость доктрины асимметричной войны"

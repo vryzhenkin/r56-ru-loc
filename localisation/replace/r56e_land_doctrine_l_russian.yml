@@ -45,3 +45,7 @@ r56_operational_concentration_desc:0 "Ключ к любым военным де
 
 
 
+
+tactic_masterful_double_envelopment:0 "Тактика Мотти"
+r56_enable_motti_tactics:0 "§WАктивирует тактику:§! §YТактика Мотти§!"
+masterful_double_envelopment:0 "Тактика Мотти"
