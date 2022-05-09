@@ -256,3 +256,6 @@ l_russian:
  custom_diff_strong_asia_central:0 "Усилить Центральную Азию"
  
 #####-----> End of File <><> <><> <><> <><> <><>
+custom_diff_strong_nav:0 "@NAV Усилить Страну Басков"
+custom_diff_strong_bya:0 "@BYA Усилить Бурятию"
+custom_diff_strong_fla:0 "@FLA Усилить Фландрию"

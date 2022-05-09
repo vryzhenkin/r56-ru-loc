@@ -30,7 +30,12 @@ def readfile(name):
     prepared_kv_lines = {}
     for line in non_empty_lines:
         sp_l = re.split(' "|0"', line, maxsplit=1)
-        prepared_kv_lines[sp_l[0].strip()] = sp_l[1].strip('"')
+        try:
+            prepared_kv_lines[sp_l[0].strip()] = sp_l[1].strip('"')
+        except Exception as e:
+            print('Broken Line')
+            print(sp_l)
+            raise e
 
     return prepared_kv_lines
 

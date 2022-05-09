@@ -14,3 +14,5 @@
  wtt_germany.82.t:0 "[FROM.GetName] отвергает ультиматум"
  wtt_germany.82.d:0 "[FROM.GetAdjective] правительство ясно дало понять, что они не вернут нам Северный Шлезвиг, а значит остается лишь путь войны."
  wtt_germany.82.a:0 "Значит, ты выбрал смерть..."
+r56_leader_events.1.t:0 "[From.GetNameDefCap] cбежал чудесным образом"
+r56_leader_events.1.desc:0 "Командуя своими войсками, [From.GetRank] [From.GetName] подверг [From.GetHerselfHimself] опасности, и какое-то время боялся, что [From.GetSheHe] будет поражен лично. Но, несмотря на попытки врага, у судьбы были другие планы на [From.GetRank] [From.GetName], кто невредим и готов продолжать войну."

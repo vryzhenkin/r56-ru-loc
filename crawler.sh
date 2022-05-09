@@ -27,7 +27,11 @@ function die {
 }
 
 function main () {
-  echo "Target dir: $1"
+  echo "Orig dir: $1"
+  if [[ ! -z $2 ]]; then
+      echo "Target dir: $2"
+      RU_TMPL_DIR=$2
+  fi
   TARGET_DIR=$1
   orig_files_no_loc=$(ls "$TARGET_DIR" | sed "s/_l_english.yml//g")
   for i in $orig_files_no_loc
