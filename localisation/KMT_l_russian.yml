@@ -2888,3 +2888,8 @@ kmt.12.d_2:0 "[ENG.GetNameDefCap] has agreed to redraw the McMahon Line in our f
 kmt.236.b:0 "True peacekeepers we are!"
 kmt.266.b:0 "Who do they think we are?"
 chi_jap.5.d:0 "Our request to join the [From.GetFactionName] has been denied!"
+CHI_unequal_treaties:0 "The Unequal Treaties"
+CHI_unequal_treaties_desc:0 "One of the last remainders of Qings humiliation on the world stage, treaty ports represent desires of European and Japanese imperialists in the China Proper, seeking to exploit and subjugate [ROOT.getAdjective] people in our time of weakness. \n\nUsing the situation to our advantage, we can pursue closer ties with those who seek similar values to us while overthrowing unlawful regimes who own our rightful lands!"
+CHI_dealing_with_trade_port_decision:0 "[FROM.getName]"
+CHI_success_chance_depends_on_stability_tt:0 "§HHigher stability§! ensures higher chances for the §Gsuccessful coup§!!"
+hk_returned_tp:0 "Returned Treaty Port"
