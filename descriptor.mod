@@ -1,6 +1,6 @@
-version="1.10.3"
+version="0.2"
 tags={
 	"Translation"
 }
-name="The Road To 56 Русская Локализация"
+name="The Road To 56 RU (Русская локализация)"
 supported_version="1.11.10"
