@@ -11,3 +11,5 @@
  FOCUS_FILTER_MILITARY_EQUIPMENT:0 "Военное снаряжение"
  FOCUS_FILTER_MILITARY_IMPROVEMENT:0 "Военные улучшения"
  FOCUS_FILTER_ALLIANCE:0 "Альянс"
+ FOCUS_FILTER_MILITARY_RESEARCH:0 "Военные исследования"
+ FOCUS_ARMY_IMPROVEMENT:0 "Улучшения армии"

@@ -48,7 +48,7 @@
  LIT_GATHERING_STORM_DESC:0 "Born in the aftermath of the Great War, Lithuania found itself in a difficult position. Not only was it nearly annexed to the Oberost German eastern colonial project, but the Poles managed to take over and annex Vilnius to the new Polish state. Unlike all the states of the area mainly worried about the ambitions of the Nazis and a possible return of the USSR, we also are a country without its offical capital, occupied by those who were our partners for centuries..."
  
  ###---> Scenario Names <><> <><> <><>
- GATHERING_STORM_NAME:0 "Надвигающайся шторм)"
+ GATHERING_STORM_NAME:0 "Надвигающайся шторм"
  BLITZKRIEG_NAME:0 "НЕ ПОДДЕРЖИВАЕТСЯ"
  
  FE_HISTORICAL:0 "Исторический приоритет ИИ"
