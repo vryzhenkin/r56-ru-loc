@@ -56,9 +56,9 @@
  armored_car_at_equipment_3_desc:0 "Бронеавтомобили часто использовались совместно с войсками для поддержки пехоты."
 
  #-> Towed artillery <><> 
- artillery_equipment:0 "Towed Artillery"
- artillery_equipment_short:0 "Artillery"
- artillery_equipment_desc:0 "Artillery refers to large-caliber weapons, such as cannons and howitzers that are operated by crews, which can project munitions far beyond the effective range of personal weapons." 
+ artillery_equipment:0 "Буксируемая артиллерия"
+ artillery_equipment_short:0 "Артиллерия"
+ artillery_equipment_desc:0 "Артиллерия относится к крупнокалиберному оружию, такому как пушки и гаубицы, управляемые расчетами, которые могут выбрасывать боеприпасы далеко за пределы эффективной дальности личного оружия." 
  artillery_equipment_1:0 "Полевая артиллерия обр. 1930 г."
  artillery_equipment_1_short:0 "Полевая артиллерия обр. 1930 г."
  artillery_equipment_1_desc:0 "Артиллерия относится к крупнокалиберному оружию. Среди них орудия и гаубицы, которыми управляют несколько членов экипажа. Они могут посылать фугасные боеприпасы далеко за пределы эффективной дальности действия пехотного или танкового вооружения."
