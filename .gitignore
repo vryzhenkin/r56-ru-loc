@@ -29,20 +29,10 @@ Session.vim
 .netrwhist
 
 # Dodge changes to original ru loc
-/localisation/bftb_events_l_russian.yml
-/localisation/dod_events_l_english.yml
-/localisation/dod_events_l_russian.yml
 /localisation/equip_air_l_russian.yml
 /localisation/equipment_l_russian.yml
 /localisation/events_l_russian.yml
 /localisation/focus_filter_tag_l_russian.yml
 /localisation/game_rules_l_russian.yml
-/localisation/lar_events_l_russian.yml
-/localisation/mtg_events_l_russian.yml
-/localisation/nsb_events_l_russian.yml
-/localisation/nsb_ideas_l_russian.yml
 /localisation/research_l_russian.yml
-/localisation/wtt_decisions_l_russian.yml
-/localisation/wtt_events_l_russian.yml
-/localisation/wtt_focus_l_russian.yml
 /localisation/replace/stats_l_russian.yml
