@@ -350,3 +350,5 @@ exploit_bauxite_in_eastern_hispaniola_wtt:0 "Добыча бокситов в В
 exploit_bauxite_in_western_hispaniola_wtt:0 "Добыча бокситов в Западной Эспаньоле"
 exploit_kemi_chromium_deposits_wtt:0 "Эксплуатация хромовых месторождений Кеми"
 develop_northern_siamese_shale_oil_wtt:0 "Разработка сланцевой нефти в Северном Сиаме"
+exploit_bauxite_on_eastern_hispaniola:0 "Добыча бокситов в Восточной Эспаньоле"
+exploit_bauxite_on_eastern_hispaniola_wtt:0 "Добыча бокситов в Восточной Эспаньоле"

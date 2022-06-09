@@ -709,3 +709,6 @@ socialist_revolutionary_trait:0 "Социалистический революц
 legacy_of_1917:0 "Наследие 1917 года"
 liberal_reformer:0 "Либеральный реформатор"
 soilder_committer:0 "Член солдатского комитета"
+SOV_pc_of_mechanical_engineering_ns_tt:0 "$SOV_modify_defense_industry_ns_intro$ \n £prod_eff_cap Ограничение эффективности производства: §G+5.00%§! \n\n"
+SOV_third_five_year_plan_ns_tt:0 "$SOV_modify_fyp_ns_intro$ \n£prod_eff Рост эффективности производства: §G+5.00%§! \nConsumer Goods Factories: §Y-5.0%§!\n\n"
+SOV_reorganize_the_pc_of_heavy_industry_ns_tt:0 "$SOV_modify_fyp_ns_intro$ \nФабрики товаров народного потребления: §Y-3.0%§! \n\n"
