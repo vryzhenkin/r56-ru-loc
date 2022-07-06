@@ -338,8 +338,8 @@
  LIT_loyal_seimas:0 "Верный Сейм"
  LIT_peasant_strikes:0 "Крестьянские забастовки"
  LIT_uncooperative_seimas:0 "Несотрудничающий сейм"
- LIT_ Third_constitution_1:0 "Третья конституция"
- LIT_ Third_constitution_2:0 "Третья конституция"
+ LIT_third_constitution_1:0 "Третья конституция"
+ LIT_third_constitution_2:0 "Третья конституция"
  LIT_polish_lithuanian_tensions:0 "Польско-литовские трения"
  LIT_lithuanian_riflemen_union_1:0 "Союз стрелков Литвы"
  LIT_lithuanian_riflemen_union_2:0 "Союз стрелков Литвы"
@@ -769,4 +769,4 @@
  LIT_skirpas_coup:0 "Переворот Шкирпы"
  LIT_seek_accommodation_with_germany:0 "Искать договоренностей в Германии"
  LIT_join_axis:0 "Вступление в Ось"
- LIT_economic_battle_in_progress_flag:0 ЭУже ведет другую экономическую битву".
+ LIT_economic_battle_in_progress_flag:0 "Уже ведет другую экономическую битву."
