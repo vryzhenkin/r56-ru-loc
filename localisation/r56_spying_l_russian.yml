@@ -70,6 +70,6 @@ idea_resistance_network_operative_1:0 "Оперативная поддержка
 resistance_60:0 "Подземные разведывательные сети"
 resistance_60_effect_tooltip:0 "[FROM.GetNameWithFlag], будет получен §G+1§! §YОперативник§! если существует разведбюро?."
 
-EFFECT_CREATE_INTELLIGENCE_AGENCY:0 "Create an §YIntelligence Agency§!."
+EFFECT_CREATE_INTELLIGENCE_AGENCY:0 "Создание §Yразведывательного агентства§!."
 operative_skill_3:0 "Спецагент"
 operative_skill_4:0 "Агент высшего эшелона"
