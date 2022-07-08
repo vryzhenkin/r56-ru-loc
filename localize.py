@@ -29,7 +29,7 @@ def readfile(name):
 
     prepared_kv_lines = {}
     for line in non_empty_lines:
-        sp_l = re.split(' "|0"', line, maxsplit=1)
+        sp_l = re.split(' "|0"|:"', line, maxsplit=1)
         try:
             prepared_kv_lines[sp_l[0].strip()] = sp_l[1].strip(' "')
         except Exception as e:

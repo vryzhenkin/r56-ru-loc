@@ -655,3 +655,6 @@
   SIA_revolutionnary_women_desc:0 "The end of capitalism must also mean the end of the marginalization of women. The latter must be brought on an equal footing with men, whether at home, in factories or in the army."
  
   
+
+SIA_join_the_communist_faction:0 "Join The [FROM.getFactionName]"
+SIA_join_the_communist_faction_desc:0 "[FROM.getNameDefCap] is seen as one of main communist powers in the world. If we want the revolution to prevail, we must stand united"
