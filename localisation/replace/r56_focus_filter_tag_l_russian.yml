@@ -13,3 +13,6 @@
  FOCUS_FILTER_ALLIANCE:0 "Альянс"
  FOCUS_FILTER_MILITARY_RESEARCH:0 "Военные исследования"
  FOCUS_ARMY_IMPROVEMENT:0 "Улучшения армии"
+
+FOCUS_FILTER_INFLUENCE_INCREASE:0 "Увеличение влияния"
+FOCUS_FILTER_INFLUENCE_DECREASE:0 "Снижение влияния"

@@ -3,3 +3,7 @@
 l_russian:
 
 TRIGGER_OVERLORD:1 "§YПравитель§!"
+TRIGGER_IS_PUPPET:1 "Является марионеткой другой страны"
+TRIGGER_IS_NOT_PUPPET:1 "Полностью независим"
+TRIGGER_IS_SUBJECT:1 "Является подданным другой страны"
+TRIGGER_IS_NOT_SUBJECT:1 "Полностью независим"

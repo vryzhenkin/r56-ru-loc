@@ -49,3 +49,5 @@ r56_operational_concentration_desc:0 "Ключ к любым военным де
 tactic_masterful_double_envelopment:0 "Тактика Мотти"
 r56_enable_motti_tactics:0 "§WАктивирует тактику:§! §YТактика Мотти§!"
 masterful_double_envelopment:0 "Тактика Мотти"
+ASYMMETRICAL_WARFARE_DOCTRINE:0 "Асимметричная война"
+ASYMMETRICAL_WARFARE_DOCTRINE_DESC:0 "Против превосходящих армий мы должны тактически перехитрить наших врагов и заставить их заплатить за войну на нашей родине."
